@@ -1,7 +1,7 @@
 ---
 title: Converting PRC Books to PDF with Calibre - A Comprehensive Guide
-date: 2024-08-19 13:30:49
-updated: 2024-08-21 12:17:58
+date: 2024-08-20T09:50:18.500Z
+updated: 2024-08-21T09:50:18.500Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363eb8989d8b988649bee9d94b.jpg
@@ -41,6 +41,9 @@ After you launched the soft, please click "Add books" button to add your Kindle 
 
 ![add prc books to calibre](http://www.epubor.com/images/uppic/add-prc-books-to-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 But if it pops up a window as the image shows below, there is another necessary task you should do before prc to pdf conversion. You'd better remove the DRM protection from PRC books so that you can convert drm prc to pdf.
 
 ![open prc books in calibre](http://www.epubor.com/images/uppic/open-prc-books-in-calibre.jpg)
@@ -55,24 +58,39 @@ Tips
 
 Of course after you removed the prc drm, you have to add the decrypted prc files from your PC (at the output folder) to Calibre again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step3: Convert DRM-free PRC to PDF
 
 Click the books to select, then touch the "Convert books" button.
 
 ![convert prc books](http://www.epubor.com/images/uppic/convert-prc-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 A new window will pop up. Seletc "PDF" as output format, "OK". From the status zone the bottom of the right corner, we can see the progress clearly.
 
 ![convert prc to pdf](http://www.epubor.com/images/uppic/convert-prc-to-pdf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 When the status turns to "Jobs:0", the conversion is finished.
 
 ![prc-to-pdf-conversion-finished](http://www.epubor.com/images/uppic/prc-to-pdf-conversion-completed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 Go back to the main screen, you can see the book at the right area including the original format (prc) and the converted format (pdf).
 
 ![open converted prc](http://www.epubor.com/images/uppic/open-converted-prc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Click "Click to open", you will get your PDF books on the pop-up window.
 
 ![from prc to pdf](http://www.epubor.com/images/uppic/from-prc-to-pdf.jpg)

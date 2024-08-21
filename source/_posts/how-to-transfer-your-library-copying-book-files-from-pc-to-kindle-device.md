@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your Library: Copying Book Files From PC to Kindle Device"
-date: 2024-08-18 11:55:29
-updated: 2024-08-21 10:16:11
+date: 2024-08-20T09:50:18.913Z
+updated: 2024-08-21T09:50:18.913Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb36c0489f83439481af084268.jpg
@@ -27,6 +27,9 @@ You are a books-lover and already got many books from various places on your com
 
 ![reading on kindle](http://www.epubor.com/images/uppic/reading-on-kindle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part2\. Copy Kindle Books to Kindle From Computer
 
 For kindle books, because of Amazon's account limitation, people cannot transfer or copy books freely. Thus, you can't own your kindle books truely or do what you want with your books such as sharing books with friends and family members. Neither can you copy books to kindle from computer. But don't worry, we have ways to solve this problem. 
@@ -51,6 +54,9 @@ The decrypted books are saved as mobi and azw3 formats, and in most case is mobi
 
 ![copy books to kindle process](http://www.epubor.com/images/uppic/copy-books-to-kindle-process.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 3Copy kindle books to kindle
 
 Connect your kindle to computer using the micro-USB cable. You can transfer files from and to your Kindle just like it was an external hard drive. Double click the kindle drive, then you will see there is a "documents" folder in it. Then copy your decrypted ebooks to the "documents" folder. Done. (Don't forget to hit the icon that says "remove hardware safely" or "remove Amazon kindle" on the lower part of your screen before you detach the USB cord from your computer.) Then restart your kindle, you will be able to read your coping books on it. 
@@ -65,8 +71,14 @@ The operation is easy. Simply connect your Kindle to computer, the tool will aut
 
 ![transfer kindle books to kindle](http://www.epubor.com/images/uppic/transfer-kindle-books-to-kindle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 As the image above shows, after the files have been transferred successfully, you can see the succesful status on the right side. Then just eject your Kindle and enjoy transferred books.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Part3\. Copy Non-Kindle Books to Kindle From Computer
 
 For non-kindle books, if you want to copy them to your kindle, you need to make some efforts first. Why? Because non-kindle ebooks are usually formats like epub or others. Unfortunately, kindle does not support these formats. What to do? You need to remove books' DRM first and then change their formats to those supported by kindle. Continue to follow me, I'll show you how to copy your non-kindle books to kindle easily.
@@ -81,6 +93,9 @@ Open epubor ultimate, use it to remove DRM at first. The program can automatical
 
 ![non-kindle books](http://www.epubor.com/images/uppic/non-kindle-books.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  You just need to drag them to the left part of the program's interface, their DRM will be removed immediately. The operating process is just the same with kindle books, If you have read the kindle books part of this article carefully, you will know clearly about what to do right? (Notice: remove adobe digital editions books, you should make sure the books such as epub books can be read normally on Adobe Digital Editions in your computer. Otherwise you cannot remove drm successfully and copy epub to kindle.) 
 
 If you have other formats like PDF, you need to add the books by yourself. Click the "Add" button at the top left corner of the program's interface and choose your books to add to the program. Or you can drag the books to the left part of the program directly. This is easier and faster.When you add the books to the program, their DRM will be removed. There's no need of doing anything else manually. 
@@ -106,6 +121,9 @@ Related Reading
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Send Your Kindle E-Books to Buddies!
-date: 2024-08-19 16:43:23
-updated: 2024-08-21 11:20:21
+date: 2024-08-20T09:50:18.531Z
+updated: 2024-08-21T09:50:18.531Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d25c3ac4b8799745512b0ec6.jpg
@@ -83,11 +83,17 @@ Select "Off". Everything is done!
 
 ![Lending Books](https://www.epubor.com/images/remote/D4/1D/D41D8C_Kindle-Lending.jpg "Kindle DRM Removal")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 2 Go to the "Actions" menu and look for the link marked "**Loan this title**". As long as the book can be loaned, this link will be  
 there.
 
 ![Loan Kindle Books](https://www.epubor.com/images/remote/D4/1D/D41D8C_Kindle-lending.png "Kindle DRM Removal")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 3 Click "Loan this title."Fill in the following form with the name of the other Kindle owner and her email address.
 
 4 Click "Send now." The book will be sent to the other user. **The loaned book will be available for 14 days**.
@@ -106,6 +112,9 @@ We can set family library on our Kindle device, or set this online. Here I will 
 
 ![share Kindle books with Kindle family library](http://www.epubor.com/images/uppic/housholds-and-family-library.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2Click "Invite an Adult" button, then Amazon will let the invited adult enter his Amazon account information. Let your parner sit down at your computer and input his account.
 
 ![enter Amazon account](http://www.epubor.com/images/uppic/enter-amazon-account.png)
@@ -118,6 +127,9 @@ We can set family library on our Kindle device, or set this online. Here I will 
 
 ![share kindle files](http://www.epubor.com/images/uppic/select-share-types.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5Now you have linked the 2 adult accounts together. If you like, you can also create up to four child profiles. 
 
 ![create family library share successfully](http://www.epubor.com/images/uppic/create-family-share-successfully.png)
@@ -126,6 +138,10 @@ We can set family library on our Kindle device, or set this online. Here I will 
 
 ![shared Kindle content](http://www.epubor.com/images/uppic/shared-kindle-content.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 **Note:** To see the shared content on device, the option may not be enabled by default. If you cannot see the content on device, you have to click "Manage Your Content and Devices "-->"Your Devices", select each device. And check "Show (Partner Name)'s content" box under Family Library for each. Your partner have to do this for their devices on their own account, too.
 
 ![set show partner content](http://www.epubor.com/images/uppic/share-kindle-content-to-device.png)
@@ -134,6 +150,9 @@ We can set family library on our Kindle device, or set this online. Here I will 
 
 [\-Remove DRM from AZW/Mobi/PRC/TPZ files without quality losing](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### There are a lot of benefits of sharing books on kindle fire:
 
 (1) Everyone gets a larger collection of books that they can read.
@@ -151,6 +170,9 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

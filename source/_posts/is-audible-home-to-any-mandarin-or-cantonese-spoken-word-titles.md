@@ -1,7 +1,7 @@
 ---
 title: Is Audible Home to Any Mandarin or Cantonese Spoken-Word Titles?
-date: 2024-08-20 19:26:20
-updated: 2024-08-21 10:59:48
+date: 2024-08-20T09:50:18.915Z
+updated: 2024-08-21T09:50:18.915Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09fe1222610e43f6045480d9b.jpg
@@ -27,3 +27,7 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->

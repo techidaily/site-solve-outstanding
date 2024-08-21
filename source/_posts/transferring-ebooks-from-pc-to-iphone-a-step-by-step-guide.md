@@ -1,7 +1,7 @@
 ---
 title: Transferring eBooks From PC to iPhone - A Step-by-Step Guide
-date: 2024-08-18 15:50:27
-updated: 2024-08-21 12:17:10
+date: 2024-08-20T09:50:18.745Z
+updated: 2024-08-21T09:50:18.745Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c6d7712345148ce88c83b02a.jpg
@@ -48,18 +48,32 @@ If you are a Window user, you need to download the latest [iTunes](https://www.a
 
 ![connect iphone to itunes](http://www.epubor.com/images/uppic/connect-iphone-to-itunes.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 Step 2click the iOS device icon, you make sure to go to **Summary** to check **Manually manage music and videos** under **Options**. Then click **Sync** and **Done** button. It may take some time to sync the content from your iPhone to iTunes. So please wait patiently.
 
 ![mannually manage music and videos](http://www.epubor.com/images/uppic/mannually-manage-music-and-videos.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3click **Books** in the left sidebar of iTunes. Then locate the epub files that you want to transfer to your iPhone. Last, drag and drop the epub books from your computer to iTunes. See the below picture.
 
 ![drag epub to itunes](http://www.epubor.com/images/uppic/drag-epub-to-itunes.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Step 4it may take some time to sync the epub files to your iPhone. After the synchronization you will see the epub files on the iBook reader on iPhone.
 
 ![syncing books to iPhone](http://www.epubor.com/images/uppic/syncing-books-to-iPhone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 You may notice that now transferring epub files to iPhone with the latest iTunes version is way easier than before. 
 
 #### Method 2 — File Sharing
@@ -86,10 +100,16 @@ Step 1for iTunes Wi-Fi sync, your iPhone needs to connect to Wi-Fi. At the same 
 
 ![sync with this iphone over wifi](http://www.epubor.com/images/uppic/sync-with-this-iphone-over-wifi.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Step 2add epub files to iTunes by clicking the small icon on the left upper corner of iTunes. Then click **Add File to Library** in the drop-down menu.
 
 ![add file to library](http://www.epubor.com/images/uppic/add-file-to-library.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Step 3after adding epubs to iTunes, you can sync the epub files to your iPhone. Click the **Books** in the left sidebar of iTunes. Then click **Sync Books** to choose whether you want to sync **All books** or only **Selected books**. Next check the books you want to sync to iPhone. Last, click **Sync** button to start syncing the checked books to iPhone. 
 
 ![sync books and apply](http://www.epubor.com/images/uppic/sync-books-and-apply.png)
@@ -102,6 +122,9 @@ It will take a bit long time to backing up the files if it's your first time to 
 
 ![backing up](http://www.epubor.com/images/uppic/backing-up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Copy epub to iPhone without iTunes
 
 #### Method 1 — Transfer epub to iPhone with Airdrop
@@ -116,6 +139,9 @@ If you are using a Mac, you can use AirDrop to move epub file from Mac to iPhone
 
 ![turn on airdrop](http://www.epubor.com/images/uppic/turn-on-airdrop.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 3\. Right click the epub book to share the book via Airdrop. Then click **Accept** on your iPhone. It will let you choose the app to open the epub file.
 
 ![share with airdrop](http://www.epubor.com/images/uppic/share-with-airdrop.png)
@@ -138,6 +164,9 @@ Step 1open Calibre on your computer, then add epub books to Calibre by simply dr
 
 ![add epub to calibre1](http://www.epubor.com/images/uppic/add-epub-to-calibre1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 Step 2click **Connect/share** icon on the tool bar. Then click **Start Content Server** in drop-down menu. Then click **Connect/share** icon again, you will get a website address.
 
 ![start content server](http://www.epubor.com/images/uppic/start-content-server.png) ![copy address](http://www.epubor.com/images/uppic/copy-address.png)
@@ -146,10 +175,17 @@ Step 3type the address on iPhone browser's search bar. Like the above image, you
 
 ![calibre library](http://www.epubor.com/images/uppic/calibre-library.png) ![download epub](http://www.epubor.com/images/uppic/download-epub.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Step 4after you download the epub file, it will ask you to open this book on iBooks or other epub support reader apps. 
 
 ![open epub with ibooks](http://www.epubor.com/images/uppic/open-epub-with-ibooks.png) ![open with other apps](http://www.epubor.com/images/uppic/open-with-other-apps.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 #### Method 5 — Transfer epub to iPhone with Epubor
 
 [Epubor](https://tools.techidaily.com/epubor/ebook-manager/) is the best eBook Manager for you to manage your eBooks from different sources. It can also transfer epub files to iPhone like Calibre. 
@@ -162,6 +198,9 @@ Step 2click **TOOLBOX** on the tool bar, then click **Web Server** and you'll ge
 
 ![epubor lan address](http://www.epubor.com/images/uppic/epubor-lan-address.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 Step 3as it is shown in the above image, you need to type 192.168.31.167:33333 on browser's search bar on iPhone to download the epub files to your iPhone. 
 
 ![epubor library on iphone](http://www.epubor.com/images/uppic/epubor-library-on-iphone.png)
