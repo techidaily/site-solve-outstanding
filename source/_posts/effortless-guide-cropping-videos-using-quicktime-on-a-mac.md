@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Cropping Videos Using QuickTime on a Mac"
-date: 2024-08-26 17:45:47
-updated: 2024-08-27 10:32:18
+date: 2024-08-30T10:45:17.174Z
+updated: 2024-08-31T10:45:17.174Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f25148052cd8949359804b1109e7ca.png
@@ -42,6 +42,9 @@ Stay here and spend roughly 3 minutes here reading the complete guide on using Q
 * [Part 1\. How to Crop Video in QuickTime Pro on Mac](https://tools.techidaily.com/macxdvd/products/)
 * [Part 2\. How to Crop Video Dimensions on Mac Free of Charge](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Crop Video in QuickTime Pro on Mac 
 
 Before you utilize QuickTime Pro to do the cropping stuff, you need to know that you'd better make a mask file using Photoshop to tell QuickTime Pro how it's supposed to crop your video footage. Install Photoshop on your macOS if it's not there. Then, follow the steps below to begin resizing your video frame to highlight your desired frame.
@@ -60,6 +63,9 @@ Afterwards, choose "Rectangular Marquee Tool" under marquee tool zone to select 
 
 Marquee tool
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3\. Load the Mask File to QuickTime Pro
 
 Run QuickTime Pro > locate to Windows > choose Show Movie Properties > Visual Settings. Then tap Choose button to load the mask file into QT Pro. 
@@ -68,14 +74,23 @@ Run QuickTime Pro > locate to Windows > choose Show Movie Properties > Visual Se
 
 Show Movie Properties
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 4\. Export Your Cropped Video Footage
 
 Please note that only the selected area of your video image can show up after the loading. Head to File > select Export to save the cropped video file to the destination folder. Until now, your video cropping procedure is finished. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Crop Video Dimensions on Mac Free of Charge 
 
 If you're bugdet-minded and sick of the above troublesome procedure, there are more simple ways for you to go. 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 
 * Free crop any videos, inclu. QuickTime video, 4K camcorder AVCHD, YouTube video, MP4, MKV, AVI, FLV, WebM...
@@ -86,6 +101,9 @@ If you're bugdet-minded and sick of the above troublesome procedure, there are m
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop A Video (to Square) on Mac Easy as Pie
 
 First of all, free download this video cropper software on your MacBook or iMac. It supports macOS 12 Monterey or older like Big Sur, Catalina, etc. Then let's go back on the truck on how to resize video frame:
@@ -98,12 +116,18 @@ First of all, free download this video cropper software on your MacBook or iMac.
 
 ![Crop videos on macos](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-video-converter-pro/step-images/edit-crop-700.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 **Note:** there are built-in crop presets to automatically crop the letterbox, remove the black bars off of a recording, keep original aspect ratio, or crop video Mac from [4:3 or 16:9](https://tools.techidaily.com/macxdvd/products/), 1:1 etc to fit different displays. 
 
 **Step 3:** Export the cropped video to desirable formats. This depends on how you want to use with the output video. Whether you want to play the video on iPhone, iPad, Samsung, Huawei, other mobiles, upload to social sites, save in cloud services, or stream to media servers, you can find a preset here. If you don't want to bother, MP4 is recommended. 
 
 Then click Run to export video clip at 5x faster speed guaranteed (GPU hardware acceleration tech).
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clideo
 
  Beyond video resizer software, online video cropper website is also a nice option. [Clideo](https://clideo.com/crop-video), similar to MacX, also lets you free crop video dimensions in 3 approaches, including resize marquee box, preset aspect ratio and exact size number. Check how:
@@ -122,6 +146,9 @@ Then click Run to export video clip at 5x faster speed guaranteed (GPU hardware 
 
 ![Choose output format](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/clideo-format.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
 online video resizer tools are suitable for free cropping video in smaller size (within 100MB). Consider to upgrade to Premium version if your video footage is large (e.g., 500MB, 1GB) and you wanna protect your personal video file with the high-level security.
@@ -134,6 +161,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Trim QuickTime Video Mac & Solve QuickTime Can’t Trim Video](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
@@ -142,6 +172,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 [How to Resize (QuickTime) Video on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
@@ -160,6 +193,9 @@ Related Articles
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 ### Hot Products
@@ -168,6 +204,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -207,3 +246,41 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-essential-final-cut-pro-training-manual/"><u>[New] Essential Final Cut Pro Training Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-screen-recording-software-a-comprehensive-analysis/"><u>[New] Essential Screen Recording Software  A Comprehensive Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-youcamsimplified-quickguidetorecordings/"><u>[New] In 2024, YouCamSimplified  QuickGuideToRecordings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unleash-laughter-and-tears-the-best-instagram-meme-picks/"><u>[Updated] 2024 Approved  Unleash Laughter and Tears  The Best Instagram Meme Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>[Updated] The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-top-8-facebook-movie-downloaders-for-2024/"><u>2023 | Top 8 Facebook Movie Downloaders for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/convert-your-documents-seamless-txt-to-epub-file-conversion-using-text2epub-tool/"><u>Convert Your Documents: Seamless TXT-to-ePub File Conversion Using TeXt2epub Tool</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/discovering-your-downloaded-kindle-titles-on-macos-easy-strategies-for-seamless-reading-integration/"><u>Discovering Your Downloaded Kindle Titles on macOS: Easy Strategies for Seamless Reading Integration</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easily-access-all-pdfs-techniques-to-disable-document-encryption-and-passwords/"><u>Easily Access All PDFs: Techniques to Disable Document Encryption and Passwords</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-steps-to-migrate-amazons-kindle-library-onto-a-mac-device/"><u>Easy Steps to Migrate Amazon's Kindle Library Onto a Mac Device</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/efficient-methods-for-printing-cfa-certification-ebooks/"><u>Efficient Methods for Printing CFA Certification eBooks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-conversion-transforming-epub-files-into-compatible-azw-format/"><u>Effortless Conversion: Transforming EPUB Files Into Compatible AZW Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-transferring-epub-files-to-your-amazon-kindle-easily/"><u>Effortless Guide: Transferring ePUB Files to Your Amazon Kindle Easily</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/explore-the-world-of-online-libraries-with-google-book-search/"><u>Explore the World of Online Libraries with Google Book Search</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-conversion-guide-transforming-adobe-acsm-files-into-pdf-format/"><u>Free Conversion Guide: Transforming Adobe ACSM Files Into PDF Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-guide-easily-transforming-your-epub-files-into-editable-pdfs/"><u>Free Guide: Easily Transforming Your ePub Files Into Editable PDFs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/guide-to-various-video-recording-devices/"><u>Guide to Various Video Recording Devices</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-can-you-share-an-audible-book-with-someone-else/"><u>How Can You Share an Audible Book With Someone Else?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-convert-amazons-kindle-format-mobi-from-adobe-content-server-message-acsm-files/"><u>How to Convert Amazon's Kindle Format (MOBI) From Adobe Content Server Message (.ACSM) Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-remove-signature-background-in-seconds-for-2024/"><u>How to Remove Signature Background in Seconds for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-transfer-your-library-copying-book-files-from-pc-to-kindle-device/"><u>How to Transfer Your Library: Copying Book Files From PC to Kindle Device</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/is-audible-home-to-any-mandarin-or-cantonese-spoken-word-titles/"><u>Is Audible Home to Any Mandarin or Cantonese Spoken-Word Titles?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/lifeline-origins-harnessing-the-key-components-for-success/"><u>Lifeline Origins: Harnessing The Key Components For Success</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-multi-format-reading-a-step-by-step-tutorial-for-epub-files-on-the-kindle-touch/"><u>Mastering Multi-Format Reading: A Step-by-Step Tutorial for EPUB Files on the Kindle Touch</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-the-art-of-paraphrasing-professional-copywriting-tips-without-copycatting/"><u>Mastering the Art of Paraphrasing: Professional Copywriting Tips without Copycatting</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-t2-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo T2 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/resolving-issues-when-adobe-digital-edition-cannot-open-acsm-files/"><u>Resolving Issues When Adobe Digital Edition Cannot Open ACSM Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/seamless-digital-reading-transition-how-to-convert-and-import-kindle-books-into-ibooks-library/"><u>Seamless Digital Reading Transition: How to Convert and Import Kindle Books Into iBooks Library</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-converting-epub-files-into-readable-azw3-books-for-amazons-kindle-devices/"><u>Step-by-Step Guide: Converting ePub Files Into Readable AZW3 Books for Amazon's Kindle Devices</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-how-to-seamlessly-disable-amazons-kindle-ebook-drm-protection/"><u>Step-by-Step Guide: How to Seamlessly Disable Amazon's Kindle eBook DRM Protection</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transforming-your-amazon-kindle-azw-files-into-downloadable-pdfs/"><u>Step-by-Step Guide: Transforming Your Amazon Kindle (AZW) Files Into Downloadable PDFs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-updating-your-kindle-fire-or-kindle-fire-hd/"><u>Step-by-Step Guide: Updating Your Kindle Fire or Kindle Fire HD</u></a></li>
+</ul></div>

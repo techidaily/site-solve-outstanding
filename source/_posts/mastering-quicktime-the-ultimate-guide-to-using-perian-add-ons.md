@@ -1,7 +1,7 @@
 ---
 title: "Mastering QuickTime: The Ultimate Guide to Using Perian Add-Ons"
-date: 2024-08-25 22:41:51
-updated: 2024-08-27 12:50:27
+date: 2024-08-30T10:45:01.533Z
+updated: 2024-08-31T10:45:01.533Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26caea24d426b1c0daf15218fd.jpg
@@ -60,8 +60,15 @@ You have different sources to download [QuickTime codec](https://tools.techidail
 
 ![Use QuickTime Perian download and install](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/perian-download-install.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 Use QuickTime Perian download and install
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## How to Use Perian for QuickTime for macOS
 
 Now, you have Perian installed for QuickTime for macOS, enabling you to [play MKV](https://tools.techidaily.com/macxdvd/products/), AVI, FLV etc. without compatibility issue. Here's how to do it. 
@@ -71,6 +78,9 @@ Now, you have Perian installed for QuickTime for macOS, enabling you to [play MK
 3. Select Open With and Perian - Open in QT Player on the list.
 4. That's it. You file should be playing in QuickTime with the help of Perian.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQ: QuickTime Not Working with Perian
 
 **1\. Cannot open Perian on Mac**
@@ -94,6 +104,9 @@ _Q: MKV video files won't play in QuickTime with plugin Perian. I downloaded som
 
 MKV is a container format like MP4 and AVI. The reasons why QuickTime is not playing MKV are similar to that of QT not playing AVI files. To play MKV on Mac, try other [MKV players for Mac](https://tools.techidaily.com/macxdvd/products/) or [change MKV to MOV](https://tools.techidaily.com/macxdvd/products/) with H.264 codec that is widely accepted. 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Forget Perian, Here's A Tool That Helps QuickTime Play Any Video
 
 Perian is no longer under development and doesn't work with QuickTime 10 or above on Yosemite or later. It's not a reliable plugin to let QuickTime play a wide range of media files. Forget Perian, use a solid video converter for macOS like MacX Video Converter Pro to make QuickTime plays any type of video by converting any 4K/1080P/720P/SD video to QuickTime supported formats [MOV](https://tools.techidaily.com/macxdvd/products/), [MP4](https://tools.techidaily.com/macxdvd/products/) etc, for example, AVI to MOV, MKV to MP4, WMV to MOV, [H.265 to H.264](https://tools.techidaily.com/macxdvd/products/), DivX to MPEG-4 and more. No additional codec pack is required. Use steps below to get started easily. 
@@ -110,6 +123,9 @@ Perian is no longer under development and doesn't work with QuickTime 10 or abov
 
 Use QuickTime Perian alternative
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Convert Any Video to QuickTime without any Codecs Installed
 
 Free download the QuickTime plugin Perian alternative, MacX Video Converter Pro to play any type of video in QT without Perian by converting videos of MKV, AVI, WMV, FLV, M2TS, HEVC, VP9 etc. to QuickTime format MOV, H.264\. It is frequently updated and fully supports macOS 11 Big Sur or older. 
@@ -122,6 +138,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [How to Enable QuickTime to Play MKV on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
@@ -138,6 +157,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 [Best QuickTime Supported Video/Audio Formats](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
@@ -156,6 +178,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -164,6 +189,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -195,3 +223,49 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-9-premier-drone-editing-suites-for-varied-expertise-for-2024/"><u>[New] 9 Premier Drone Editing Suites for Varied Expertise for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-list-of-browser-recording-software-2023-edition/"><u>[New] In 2024, The Ultimate List of Browser Recording Software, 2023 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transforming-your-igtv-presence-with-new-covers/"><u>[New] Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-discover-how-to-determine-your-kindles-charge-level/"><u>1. Discover How to Determine Your Kindle's Charge Level</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-creative-curator-essential-zero-price-text-psds/"><u>2024 Approved  The Creative Curator  Essential, Zero-Price Text PSDS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-3-ultimate-multi-user-video-platforms/"><u>2024 Approved  Top 3 Ultimate Multi-User Video Platforms</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/a-step-by-step-guide-altering-text-styles-within-the-aldiko-ebook-player-on-android-systems/"><u>A Step-by-Step Guide: Altering Text Styles Within the Aldiko eBook Player on Android Systems</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/acsm-ebook-liberation-techniques-to-bypass-drm-and-enjoy-your-digital-library-freely/"><u>ACSM Ebook Liberation: Techniques to Bypass DRM and Enjoy Your Digital Library Freely</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/authorizing-your-kobo-device-for-seamless-syncing-with-adobe-content-server/"><u>Authorizing Your Kobo Device for Seamless Syncing with Adobe Content Server</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines/"><u>Capturing Adventure  Top 5 Methods for Screening Minecraft on Apple Machines</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comment-supprimer-le-drm-de-vos-ebooks-ibooks-pour-les-lire-sur-pc-ou-mac/"><u>Comment Supprimer Le DRM De Vos eBooks iBooks Pour Les Lire Sur PC Ou Mac ?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/converting-and-reading-mobi-ebooks-like-physical-books-on-amazons-kindle-fire-tablet/"><u>Converting and Reading MOBI eBooks Like Physical Books on Amazon's Kindle Fire Tablet</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/converting-prc-books-to-pdf-with-calibre-a-comprehensive-guide/"><u>Converting PRC Books to PDF with Calibre - A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/drm-free-conversion-guide-how-to-extract-drm-from-ebook-files/"><u>DRM-Free Conversion Guide: How to Extract DRM From Ebook Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-guide-to-converting-epub-files-into-pdf-format-on-your-mac/"><u>Easy Guide to Converting EPUB Files Into PDF Format on Your Mac</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-steps-to-send-your-kindle-e-books-to-buddies/"><u>Easy Steps to Send Your Kindle E-Books to Buddies!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/editing-epub-files-using-microsoft-word-a-comprehensive-guide/"><u>Editing EPUB Files Using Microsoft Word: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortlessly-enhance-movies-stellar-and-quicktime-partnership/"><u>Effortlessly Enhance Movies - Stellar & QuickTime Partnership</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c110-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C110 Safely | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-education-the-role-of-virtual-reality-for-2024/"><u>Immersive Education  The Role of Virtual Reality for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-f23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo F23 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-low-volume-transitions-within-fl-studio/"><u>In 2024, Mastering Low-Volume Transitions Within FL Studio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-smart-home-with-key-home-assistant-extensions-dont-skip-them/"><u>Maximize Your Smart Home with Key Home Assistant Extensions – Don't Skip Them!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/seamless-digital-reading-transition-how-to-convert-and-import-kindle-books-into-ibooks-library/"><u>Seamless Digital Reading Transition: How to Convert and Import Kindle Books Into iBooks Library</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-converting-epub-files-into-readable-azw3-books-for-amazons-kindle-devices/"><u>Step-by-Step Guide: Converting ePub Files Into Readable AZW3 Books for Amazon's Kindle Devices</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-how-to-seamlessly-disable-amazons-kindle-ebook-drm-protection/"><u>Step-by-Step Guide: How to Seamlessly Disable Amazon's Kindle eBook DRM Protection</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transforming-your-amazon-kindle-azw-files-into-downloadable-pdfs/"><u>Step-by-Step Guide: Transforming Your Amazon Kindle (AZW) Files Into Downloadable PDFs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-updating-your-kindle-fire-or-kindle-fire-hd/"><u>Step-by-Step Guide: Updating Your Kindle Fire or Kindle Fire HD</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-adding-your-favorite-manga-collections-to-kobo-ereaders/"><u>Step-by-Step Tutorial: Adding Your Favorite Manga Collections to Kobo eReaders</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-excellent-replacements-for-the-kindle-fires-web-browser/"><u>Top 5 Excellent Replacements for the Kindle Fire's Web Browser</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-aif-audio-to-mp3-in-no-time-top-techniques-for-web-and-desktop-use/"><u>Transform Your AIF Audio to MP3 in No Time - Top Techniques for Web & Desktop Use</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-a-non-responsive-kindle-charger-solutions-inside/"><u>Troubleshooting a Non-Responsive Kindle Charger – Solutions Inside</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/tutorial-transformer-des-documents-pdf-en-epub-guide-complet-pour-utilisation-sur-ipad/"><u>Tutorial: Transformer Des Documents PDF en ePub - Guide Complet Pour Utilisation Sur iPad</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-to-kindle-fire-cracking-and-bypass-tips/"><u>Ultimate Guide to Kindle Fire Cracking & Bypass Tips</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-saving-your-google-play-books-library/"><u>Ultimate Guide: Saving Your Google Play Books Library</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-step-by-step-kobo-ereader-factory-reset-manual/"><u>Ultimate Step-by-Step Kobo eReader Factory Reset Manual</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/understanding-pdf-the-basics-of-portable-document-format/"><u>Understanding PDf: The Basics of Portable Document Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-ebooks-techniques-for-transforming-drm-encrypted-epub-into-compatible-kindle-editions/"><u>Unlocking eBooks: Techniques for Transforming DRM Encrypted EPUB Into Compatible Kindle Editions</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-knowledge-eliminating-ebook-drm-on-chapter-17-for-free-reading/"><u>Unlocking Knowledge: Eliminating eBook DRM on Chapter 17 for Free Reading</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-your-ebooks-potential-advanced-techniques-for-drm-stripping-continued-insights/"><u>Unlocking Your eBook's Potential: Advanced Techniques for DRM Stripping - Continued Insights</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/why-your-book-might-not-be-translating-well-solutions-explored/"><u>Why Your Book Might Not Be Translating Well - Solutions Explored</u></a></li>
+</ul></div>
