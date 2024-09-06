@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Fairbuds: The Swappable Battery Earpods From Fairphone, Reviewing Acoustic Performance"
-date: 2024-08-30T10:44:23.250Z
-updated: 2024-08-31T10:44:23.250Z
+date: 2024-09-05T11:03:44.658Z
+updated: 2024-09-06T11:03:44.658Z
 tags:
   - product-reviews
 categories:
@@ -19,10 +19,28 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
  The main feature of the [Fairphone Fairbuds](https://shop.fairphone.com/fairbuds) is that they have user-replaceable batteries in the charging case and in the earbuds. A great environmental initiative, but enough to justify buying these pretty bad-sounding earbuds? Not a chance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  These Earbuds Shouldn’t be Graded on a Curve
 
 ![Fairphone Fairbuds outside charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging-case.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Earbuds should make your music sound good. But plainly, I didn’t like the way the Fairbuds sounded out of the box. The audio was thin and often hollow with the low-end suffering the worst, but the mid-range was never particularly vibrant either.
@@ -35,13 +53,16 @@ Jerome Thomas / How-To Geek
 
  The feature the company wants the Fairbuds to be graded against is the buds’ user-replaceable batteries. But earbuds should be judged by how well they play audio, first and foremost. At no point did I ever want to use them to listen to music though.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Okay, so About Those Batteries
 
 ![Fairphone Fairbuds battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-battery.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Being in the consumer electronics space, I’ve thought about the nature of user-replaceable parts for a while. It’s undeniably neat that with a tiny screwdriver I have in my garage I can pop off the case and pop in a fresh, €12.95 (\~$13.85) battery. Or that for €9.95, I can slide off the rubber band around each earbud and give those a renewed listening time.
@@ -51,7 +72,10 @@ Jerome Thomas / How-To Geek
 ![Fairphone Fairbuds charging case opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-charging-case-opened.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -60,19 +84,20 @@ Jerome Thomas / How-To Geek
  Electronic waste is a problem, full stop, but I don’t think replaceable batteries are the solution. At least it’s not the first area of the problem to solve. Fairphone is doing other things to try and have an environmental impact for the Fairbuds like using fair trade components and offsetting the earbuds’ carbon. That’s admirable, but it still doesn’t make me want to buy the Fairbuds after spending some time with them.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  There Were Other Things I Didn’t Like, Too
 
 ![Fairphone Fairbuds Proximity Sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-proximity-sensor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -82,17 +107,10 @@ Jerome Thomas / How-To Geek
 
  There are no ANC settings in the app. Really, the only thing to use the app for is to change the EQ. But, to be positive, the Bass Boost EQ mode did help to make the earbuds sound a little better. I didn't care for the other two presets (Flat and Main) at all. The Studio EQ mode allows people to adjust an 8-band EQ. I wasn't interested in putting in that work with all the other issues and don't think anyone should be required to control their own EQ, unless they specifically want to.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ##  Are the Fairphone Fairbuds Worth Spending Money On?
 
 ![Fairphone Fairbuds outside charging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The market for cheap earbuds at, or under, €150 (\~$160) is vast. The [Fairphone Fairbuds](https://shop.fairphone.com/fairbuds) should not be at the top of anyone’s list.

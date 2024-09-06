@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Altering Text Styles Within the Aldiko eBook Player on Android Systems"
-date: 2024-08-25T20:00:09.365Z
-updated: 2024-08-26T20:00:09.365Z
+date: 2024-09-05T11:03:46.214Z
+updated: 2024-09-06T11:03:46.214Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04fa76102f811d9ae276709a58.jpg
@@ -19,6 +19,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 5
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 One advantage of ebook reading is that we can custom the font style freely. Almost every ebook reader provides some options for users to change the font type or font size. But you may only use the default fonts which the ebook reader has preinstalled. It would be better if we can add extra fonts. In this article, we will show you how to add fonts for _**Aldiko**_ \- one of the most popular ebook readers on Android. This tutorial is with no need for root access of your Android device. And it can be used for other Android ebook readers too. The process may be a bit different but generally speaking they are very similar. 
 
 First, get the fonts you want to add. You can get many free fonts from [Dafont.com](https://www.dafont.com/) and [FontSquirrel.com](http://www.fontsquirrel.com/). It's better to choose the ttf fonts.
@@ -29,8 +35,20 @@ Connect your Android device to computer with USB cable. Navigate to this path: *
 
 ![find-aldiko-folder](https://www.epubor.com/images/uppic/2-find-aldiko-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find-font-folder](https://www.epubor.com/images/uppic/3-find-font-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Copy the fonts you've got in the first step and paste them into this folder.
 
 ![copy-fonts](https://www.epubor.com/images/uppic/4-copy-fonts.jpg)
@@ -39,12 +57,36 @@ Now eject your Android device from computer. Launch Aldiko and open a book. Tap 
 
 ![set-font](https://www.epubor.com/images/uppic/5-set-font.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change-font-for-aldiko-onandroid](https://www.epubor.com/images/uppic/6-select-new-font.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Select a new font and tap "OK". Turn back to the book page and you'll find the new font has worked.
 
 ![new-font-works](https://www.epubor.com/images/uppic/7-new-font-works.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For many Android ebook readers, this tutorial should work. The key job is to find out the folder where the ebook reader put the fonts. But this not works for the Kindle app. If you want to change the Kindle app font, the process may be a bit complicated. You need to root your Android device first and the process may impact other apps. Here is an article for you reference: [How to change Kindle App Fonts on Android](http://lifehacker.com/5873409/how-to-change-kindle-app-fonts-on-android).
 
 If you are using an e-ink ebook reader like the Kindle Paperwhite, customizing fonts for it is also easy. Please refer to our post: [How to add fonts to Kindle Paperwhite](https://tools.techidaily.com/epubor/products/).
@@ -116,9 +158,6 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://some-approaches.techidaily.com/new-symphony-on-your-phone-best-tone-acquisition-websites/"><u>[New] Symphony on Your Phone  Best Tone Acquisition Websites</u></a></li>

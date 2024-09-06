@@ -1,12 +1,24 @@
 ---
 title: Converting and Reading MOBI eBooks Like Physical Books on Amazon's Kindle Fire Tablet
-date: 2024-08-25T20:00:13.794Z
-updated: 2024-08-26T20:00:13.794Z
+date: 2024-09-05T11:03:46.294Z
+updated: 2024-09-06T11:03:46.294Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d497f73b0e9d6d12401c69e51bc9e28d9e854d9544c785f05ee2bfe996e9dcfe.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Converting and Reading MOBI eBooks Like Physical Books on Amazon's Kindle Fire Tablet
 
 ## How to Make Mobi Files Display as Books on Kindle Fire
@@ -19,6 +31,18 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 MOBI is a well-known e-book format. The popular Amazon AZW e-book is just based on MOBI. You can find many MOBI ebooks on the amazon.com. But one problem I ever met when reading MOBI e-book on Kindle Fire is that some MOBI ebooks don't display in the "Books" category but "Docs" instead. This situation causes some inconvenience of managing a large number of ebooks as you have to browse in two different categories. Or just think about the scene that your favorite ebooks are mixed with some uncorrelated documents. It's totally a mess! So it's better to make MOBI files display as books on Kindle Fire, not docs.
 
 Before we start, we should figure out why the MOBI books display in "Docs". We know that the Docs category is used for storing personal documents like PDF, HTML, TXT or other documents sent by Amazon "Send to Kindle" service. Some MOBI ebooks are added personal document tag when generated so that the Kindle Fire will recognize them as documents but not ebooks.
@@ -31,6 +55,12 @@ Step 2 Open Calibre and choose "Add book" to add MOBI ebooks. You can add more b
 
 ![add-mobi-book](https://www.epubor.com/images/remote/D4/1D/D41D8C_1-add-mobi-book.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3 Select all books in the list and choose "Convert books". Set the Output format as "MOBI" (or **"AZW3"**). Click "MOBI Output" at the left menu and find "Kindle Options" at right side. Delete the default "**\[PDOC\]**" and keep the **Personal Doc Tag** blank. Then click "OK" to start conversion. 
 
 **Importance Notice:**
@@ -39,14 +69,38 @@ Added by Chad Cloman: Amazon has changed things. It is no longer sufficient to j
 
 ![set-mobi-outout](https://www.epubor.com/images/remote/D4/1D/D41D8C_2-set-mobi-outout.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4 You can see the conversion progress at the bottom right corner. When the number turns into "0", the conversion job finishes. Click "Path : Click to open"(the containing folder) to find the new MOBI e-book.
 
 ![conversion-finish](https://www.epubor.com/images/remote/D4/1D/D41D8C_3-conversion-finish.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5 Connect your Kindle Fire to computer with USB cable. Transfer the MOBI file to the "Books" folder. Reject Kindle Fire and choose "Books", you can find the MOBI book shows here. It's no longer stay in "Docs".
 
 ![transfer-new-mobi-file-to-kindle-fire](https://www.epubor.com/images/remote/D4/1D/D41D8C_4-transfer-new-mobi-file-to-kindle-fire.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make-mobi-files-display-as-books-on-kindle-fire](https://www.epubor.com/images/remote/D4/1D/D41D8C_5-mobi-files-displayed-as-books.jpg)
 
 **Pro Tips:**
@@ -911,10 +965,6 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://twitter-videos.techidaily.com/new-capture-twitter-gifs-on-your-computer-quickly/"><u>[New] Capture Twitter Gifs on Your Computer Quickly</u></a></li>

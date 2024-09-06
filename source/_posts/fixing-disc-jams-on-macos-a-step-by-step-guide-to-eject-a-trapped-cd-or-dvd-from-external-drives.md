@@ -1,7 +1,7 @@
 ---
 title: "Fixing Disc Jams on macOS: A Step-by-Step Guide to Eject a Trapped CD or DVD From External Drives"
-date: 2024-08-30T10:45:32.407Z
-updated: 2024-08-31T10:45:32.407Z
+date: 2024-09-05T11:03:45.930Z
+updated: 2024-09-06T11:03:45.930Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd47e2bf72282d9f64808baa3.jpg
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 [![macx dvd ripper pro icon](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon12.png)](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [Guide](https://tools.techidaily.com/macxdvd/products/)
 * [Support](https://tools.techidaily.com/macxdvd/products/)
@@ -20,6 +26,18 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> How to Eject Stuck DVD from Mac 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Eject a (Stuck) Disc from Mac SuperDrive or External Drive
 
 
@@ -30,7 +48,25 @@ _Here is a guide on how to remove a DVD/CD from MacBook Pro, MacBook Air, iMac. 
 
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm)
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/troubleshoot-dvd/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm)
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm&title=&summary=https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm&source=)
 
 Since the MacBook Pro was released in 2012, Mac no longer comes with a built-in optical drive. But this doesn't mean users don't need to play physical discs on Mac anymore. With Apple USB SuperDrive and a wide range of non-Apple external drives, Mac users can access DVDs as usual. However, there is one big problem that may bother many users: they don't know how to eject discs from Mac SuperDrive/external drives. Sometimes, the discs get stuck in Mac or won't show up.   
@@ -39,10 +75,22 @@ Here we will show you the different ways to eject a (stuck) disc from a MacBook,
 
 ![how to remove stuck dvd from Mac](https://www.macxdvd.com/troubleshoot-dvd/../seo-img/troubleshoot-dvd/mac-disc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Table of Contents
 
 * [Part 1\. How to eject DVDs from Mac](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon4.png)
 * [Part 2\. How to eject a stuck DVD or a DVD that doesn't show up](https://tools.techidaily.com/macxdvd/products/)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Play DVDs on Mac without SuperDrive/External Drives 
 
@@ -66,6 +114,12 @@ Below are all the common ways you can use to remove a DVD from Mac disc drive.
 
 ![How to remove a DVD from Macbook pro](https://www.macxdvd.com/troubleshoot-dvd/../seo-img/troubleshoot-dvd/finder-eject.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6\. Use the Disk Utility.**  Go to Applications/Utilities/Disk Utility and choose First Aid. There are all your drives, including the CD/DVD drive. Find your disk's name in the left-hand side of the window and click the Eject triangle icon to the right of the disk's name. 
 
 ![how to eject disc from mac external drive](https://www.macxdvd.com/troubleshoot-dvd/../seo-img/troubleshoot-dvd/utility-eject.jpg) 
@@ -84,6 +138,12 @@ _First, check if the DVD is used by any app on your Mac or another user. Quit th
 
 ![how to eject stuck disc from macbook](https://www.macxdvd.com/troubleshoot-dvd/../seo-img/troubleshoot-dvd/terminal-eject.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Tilt and shake**. If nothing works, try to tilt the MacBook on its side, with the disc drive pointing down, and you may also shake it slightly. Then press the eject key and the stuck DVD may be ejected from the Mac.
 * **Envelope method.** Here are some users suggesting the envelope solution. Here is how you can do it: slide an empty envelope in on top of the disc and pull slow and steady. Repeat it for a couple of times until the disc comes out enough so you can grip it with your fingers, and then it came right out.
 * **Reset PRAM or NVRAM and SMC.** To reset PRAM/NVRAM, restart your Mac while holding "Command," "Option," "P" and "R" simultaneously. Hold them down until you hear the startup chime twice, then release the keys. To reset SMC, shut down your Mac, unplug all cables and remove the battery. Press and hold the Power button for 30 seconds, then replace the battery, plug in your cables and start your computer again.
@@ -97,45 +157,43 @@ Related Articles
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 [\[Fixed\] External DVD Player Not Working/Showing up on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 [Handbrake Tutorial: Download Handbrake Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Free Download Mac the Ripper on macOS](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [AnyDVD Full Crack Download Tips - Method and Risks](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [MacTheRipper Alternative: rip DVD on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Find Out the Best RipIt Alternative on Mac to Rip DVD on Mac Computer](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -143,14 +201,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Digiarty Software](https://www.macxdvd.com/troubleshoot-dvd/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -165,6 +217,12 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)

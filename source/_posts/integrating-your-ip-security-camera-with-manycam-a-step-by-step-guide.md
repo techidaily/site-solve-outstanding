@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-09-03 16:35:33
-updated: 2024-09-06 10:33:58
+date: 2024-09-05T11:02:50.829Z
+updated: 2024-09-06T11:02:50.829Z
 tags:
   - product
   - solution
@@ -10,6 +10,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc143e2f86bb990ae121e306783.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide
 
 ManyCam Special – Up to 25% OFF Upgrade Now 
@@ -598,6 +604,12 @@ Forum
 
 ManyCam offers a variety of video sources that you can use in your broadcast. You can add a single video source or combine multiple video sources, depending on your workflow (see how to [add multiple video sources](https://tools.techidaily.com/manycam/products/)).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add an IP camera
 
 To get started, select **IP Cameras > Add new** from the list of ManyCam video sources that appears upon right-clicking on the Main Live Window.
@@ -612,6 +624,12 @@ If supported by your IP camera, ManyCam will be able to find it automatically. M
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Note 
 
  Not all cameras can be detected by ManyCam automatically. If ManyCam is unable to find your IP camera, try adding it manually via URL. 
@@ -624,6 +642,18 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What IP camera URL should I use?
 
 Determine if your IP camera uses **MJPEG** or **H.264** compression by looking at its list of features or tech specs. The majority of IP cameras support either or both MJPEG (Motion JPEG) and H.264 video formats. MJPEG IP cameras send a steady stream of JPEG images as motion video while H.264 IP cameras use H.264 video format offering better compression and video quality. If your IP camera supports both compressions, ManyCam recommends using H.264 as it offers better quality and requires less bandwidth.
@@ -660,6 +690,12 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Troubleshooting
 
 * [Failed to load IP Camera. Connection to server failed: Connection refused](https://tools.techidaily.com/manycam/products/)
@@ -669,12 +705,30 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
  Updated on October 6, 2022 
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
  Was this article helpful? 
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Related Articles
 
 * [How to add a mobile device as a video source](https://tools.techidaily.com/manycam/products/)
@@ -684,6 +738,18 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Contents
 
 1. [Add an IP camera](https://tools.techidaily.com/manycam/products/)  
@@ -707,3 +773,58 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-cyberspace-supplement-facebook-story-saver/"><u>[New] 2024 Approved  Cyberspace Supplement  Facebook Story Saver</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>[New] Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[Updated] 2024 Approved  Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[Updated] 2024 Approved  Agrarian Adventures Unplugged  Stardew's Kin Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved  Breaking the Monotony  Innovative YT Playlist Shuffling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-roku-guide-to-facebook-live-streams/"><u>[Updated] 2024 Approved  The Ultimate Roku Guide to Facebook Live Streams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-deeper-dive-into-high-definition-online-visibility-for-2024/"><u>[Updated] A Deeper Dive Into High Definition Online Visibility for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>[Updated] Exploring the Infinite  A Look at LG's VR Technology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-in-step-approach-hulu-recording-tutorial-for-diverse-systems/"><u>[Updated] In 2024, Step-In-Step Approach  Hulu Recording Tutorial for Diverse Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>[Updated] Nifty Editing Edits  Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>2024 Approved  Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725284683839-mp4/"><u>無料チュートリアル:ウォークマンでMP4再生に最適なセッティング方法</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/winxvideo-aiai/"><u>以Winxvideo AI為主打的AI電視直播工具，改變你的影音分享方式。</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725287289405-pciphone/"><u>音声抽出のための動画技術解説：PC、スマートフォン、iPhoneで使える方法</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/discover-the-best-eight-no-cost-ai-software-to-revive-your-vintage-photographs/"><u>Discover the Best Eight No-Cost AI Software to Revive Your Vintage Photographs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dvd-auflosung-verstehen-ihre-haufigsten-fragen-und-klare-antworten/"><u>DVD-Auflösung Verstehen: Ihre Häufigsten Fragen Und Klare Antworten</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effective-techniques-for-high-quality-mp4-file-compression/"><u>Effective Techniques for High-Quality MP4 File Compression</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/expert-online-assistance-hub-for-windows-xdvdripper-and-video-conversion-tools/"><u>Expert Online Assistance Hub for Windows XDVDRipper & Video Conversion Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-inwin-f5-pc-case-features-dual-connectivity-and-aesthetic-wooden-design/"><u>Exploring the InWin F5 PC Case Features: Dual Connectivity & Aesthetic Wooden Design</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/find-the-ultimate-free-mp4-converter-software-for-seamless-video-format-changes/"><u>Find the Ultimate Free MP4 Converter Software for Seamless Video Format Changes</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/five-no-cost-techniques-for-changing-avchd-videos-into-mp4-format-on-windows-11-systems/"><u>Five No-Cost Techniques for Changing AVCHD Videos Into MP4 Format on Windows 11 Systems</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/fix-guide-addressing-movies-box-malfunction-on-iphones-running-ios-141312/"><u>Fix Guide: Addressing Movies Box Malfunction on iPhones Running iOS 14/13/12</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-conversion-of-webm-files-to-mp3-top-online-and-desktop-methods/"><u>Free Conversion of WEBM Files to MP3: Top Online and Desktop Methods</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/frei-zuganglicher-dvd-abtaster-ohne-wasserzeichen-umwandlung-von-filmen-ohne-beschrankungen/"><u>Frei Zugänglicher DVD-Abtaster Ohne Wasserzeichen – Umwandlung Von Filmen Ohne Beschränkungen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-toshiba-laptop-drivers-and-firmware-updates-on-windows-pcs/"><u>Get the Newest Toshiba Laptop Drivers and Firmware Updates on Windows PCs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guide-pratique-comment-resoudre-les-problemes-daccessibilite-aux-dvd-et-a-la-lecture-du-disque-ps4/"><u>Guide Pratique : Comment Résoudre Les Problèmes D'Accessibilité Aux DVD Et À La Lecture Du Disque PS4</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guide-pratique-pour-surmonter-les-problemes-de-parole-et-de-comprehension-textuelle-en-video-mkv-sur-pc-et-mac/"><u>Guide Pratique Pour Surmonter Les Problèmes De Parole Et De Compréhension Textuelle en Vidéo MKV Sur PC Et Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-mini-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 13 mini 3 Ways To Unlock</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-use-winx-gratis-dvd-ripper-for-hd-video-conversion-quick-guide-to-make-dvd-files-playable-on-iphone-ipad-and-smartphones/"><u>How to Use WinX Gratis DVD Ripper for HD Video Conversion - Quick Guide to Make DVD Files Playable on iPhone, iPad, and Smartphones</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/il-meglio-dei-convertitori-video-h265-hevc-per-sistemi-operativi-windows-11-ed-apple-macos/"><u>Il Meglio Dei Convertitori Video H.265 (HEVC) per Sistemi Operativi Windows 11 Ed Apple macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-nostalgic-journey-through-time-with-stop-motion-classics/"><u>In 2024, A Nostalgic Journey Through Time with Stop-Motion Classics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-economical-hd-action-recordings/"><u>In 2024, Ultimate Selection  Economical HD Action Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/lossless-conversion-a-step-by-step-guide-on-turning-hevc-into-mp4-without-compromising-quality/"><u>Lossless Conversion: A Step-by-Step Guide on Turning HEVC Into MP4 Without Compromising Quality</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/macdvd-converter-effortlessly-transfer-dvds-to-ios-devices-as-high-quality-mp4-files/"><u>MacDVD Converter: Effortlessly Transfer DVDs to iOS Devices as High-Quality MP4 Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/protect-your-privacy-securely-locking-photo-collections-on-your-iphone-using-passwords/"><u>Protect Your Privacy: Securely Locking Photo Collections on Your iPhone Using Passwords</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/quickly-and-efficiently-convert-mov-or-avi-files-into-high-quality-mp4-format-a-10-step-guide/"><u>Quickly and Efficiently Convert MOV or AVI Files Into High-Quality MP4 Format: A 10-Step Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/resolve-your-instagram-video-glitches-in-seconds-discover-7-swift-solutions/"><u>Resolve Your Instagram Video Glitches in Seconds – Discover 7 Swift Solutions!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/resolved-overcome-plex-media-server-conversion-issues-with-these-proven-fixes/"><u>Resolved: Overcome Plex Media Server Conversion Issues with These Proven Fixes</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/schnelles-konvertieren-von-matroska-mkv-in-high-quality-mp4-dateien-losungen-die-sie-suchen/"><u>Schnelles Konvertieren Von Matroska (MKV) in High-Quality-MP4-Dateien: Lösungen, Die Sie Suchen!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-successfully-uploading-your-dvd-content-onto-google-drive/"><u>Step-by-Step Guide: Successfully Uploading Your DVD Content Onto Google Drive</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/struggling-with-mov-format-on-youtube-mastering-troubleshooting-techniques/"><u>Struggling with MOV Format on YouTube? Mastering Troubleshooting Techniques</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/supercharge-videoaudio-transformations-using-winxvideo-ai-with-cutting-edge-gpu-speeds/"><u>Supercharge Video/Audio Transformations Using WinxVideo AI with Cutting-Edge GPU Speeds</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/the-battle-of-video-coding-analyzing-the-differences-between-avi-and-mp4-files/"><u>The Battle of Video Coding: Analyzing the Differences Between AVI and MP4 Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-10-artificial-intelligence-image-enhancers-transform-your-pics-into-ultra-high-resolution/"><u>Top 10 Artificial Intelligence Image Enhancers: Transform Your Pics Into Ultra-High Resolution</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transformer-avi-en-mp3-gratuite-et-de-haute-qualite-facile-a-convertir-sans-depenser/"><u>Transformer AVI en MP3 Gratuite Et De Haute Qualité, Facile À Convertir Sans Dépenser!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-to-downloading-and-using-winx-dvd-ripper-for-hd-quality-conversions-gratis/"><u>Ultimate Guide to Downloading and Using WinX DVD Ripper for HD Quality Conversions (Gratis)</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-upgrading-your-videos-from-standard-to-crystal-clear-hd4k-on-pc-and-mac/"><u>Ultimate Guide: Upgrading Your Videos From Standard to Crystal-Clear HD/4K on PC & Mac</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/upgrade-your-winx-dvd-ripper-for-mac-to-latest-full-licensed-edition-at-no-extra-cost/"><u>Upgrade Your WinX DVD Ripper for Mac to Latest Full Licensed Edition at No Extra Cost!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/verstandnis-der-richtlinien-fur-die-ruckerstattung-bei-kauf-von-winxdvd-software-durch-digiarty-kunden/"><u>Verständnis Der Richtlinien Für Die Rückerstattung Bei Kauf Von WinXDVD Software Durch DigiArty Kunden</u></a></li>
+</ul></div>

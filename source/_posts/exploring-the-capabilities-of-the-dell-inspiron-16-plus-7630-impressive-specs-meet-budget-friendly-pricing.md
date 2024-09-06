@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Dell Inspiron 16 Plus (7630) - Impressive Specs Meet Budget-Friendly Pricing
-date: 2024-08-30T10:44:26.585Z
-updated: 2024-08-31T10:44:26.585Z
+date: 2024-09-05T11:03:44.725Z
+updated: 2024-09-06T11:03:44.725Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-hero.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the Capabilities of the Dell Inspiron 16 Plus (7630) - Impressive Specs Meet Budget-Friendly Pricing
 
 ### Key Takeaways
@@ -27,8 +33,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The front view of a Dell Inspiron 16 Plus 7630](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/dell-inspiron-16-plus-7630.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Dell Inspiron 16 Plus 7630
 
 8/ 10 
@@ -113,21 +131,20 @@ Expand
 
 ![A closed Dell Inspiron 16 Plus 7630 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-closed.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  At 4.54 pounds, the Dell Inspiron 16 Plus (7360) is not exactly lightweight, which makes sense given its 16-inch display size. While the weight might be a concern while carrying the Dell laptop, it has benefits. The extra bulk means the computer stays in place when in use and there’s no chance it will fall to the floor with a minimal push.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ###  Ports
 
 ![The left side of the dell Inspiron 16 Plus 7630 showing power cord attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-leftside.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
 ![The rightside ports of the Dell Inspiron 16 Plus 7630 showing USB 3.2 Gen 1 Type-A in use](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-rightside.jpg) 
@@ -140,6 +157,12 @@ Close
 
  My only beef here is it would have been nice had Dell included another Thunderbolt 4.0 port. Luckily, plenty of [great USB-C hubs](https://some-knowledge.techidaily.com/2024-approved-harmonys-choice-top-10-songs-that-say-yes/) on the market will allow you to add more ports with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Keyboard, TouchPad, and Fingerprint Reader
 
 ![The keyboard and touchpad on the Dell Inspiron 16 Plus 7630.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-keyboard.jpg) 
@@ -156,10 +179,22 @@ Joe Robinson / How-To Geek
 
  I tested the microphone on the Dell Inspiron 16 Plus (7630) by video-calling my daughter (who was in another room in my home) and my friend, who lives in another state. Both told me my voice was clear during calls—in quiet and louder conditions. This isn’t always the case for laptop mics.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display: Some Concerns
 
 ![A Dell Inspiron 16 Plus 7630 on a table with its power pack to the side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-display.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  This laptop features a 16-inch IPS display with a resolution of 2560 x 1600 (2.5K) and a 16:10 aspect radio. The display provides a wide viewing angle (WVA) and supports ComfortView Plus, Dell’s proprietary low-blue light solution designed to reduce eye strain.
@@ -169,7 +204,10 @@ Joe Robinson / How-To Geek
  Even without being OLED, the display still includes a 120Hz display, which means it can refresh the images on the screen 120 times a second. The computer offers 300 nits of brightness, making it less than ideal for outdoor use. This is a little unfortunate for a computer at this price point.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Software: Not A Lot Here—And That's Good
 
@@ -179,9 +217,6 @@ Joe Robinson / How-To Geek
 
  One additional note about software. My review unit came with Windows 11 Home. You can switch it out for Windows 11 Pro, however, for a little bit more added to the final price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  Performance: Excellent, Even When Gaming
 
  As noted above, my review unit isn’t the best Dell Inspiron 16 Plus (7360) you can buy. It features a 13th-generation Intel Core i7-13700H processor, 16GB of RAM, 1TB storage, and Intel Iris Xe Graphics. These are very impressive specs on paper, and I was eager to see how the machine would perform during different everyday tasks.
@@ -192,29 +227,26 @@ Joe Robinson / How-To Geek
 
  Overall, I was very impressed with the machine's performance. As such, I found it capable of handling various tasks, from everyday use to more demanding apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Battery Life: Above Average
 
 ![Side view of the Dell Inspiron 16 Plus 7630.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-side-view.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  Many laptops claim to last a full day on a single charge. This one doesn’t make this promise, but the numbers I experienced were pretty good. Despite its large display, the laptop lasted between 12 and 14 hours during the three times I drained its battery. During this time, I focused on performing what I would consider everyday tasks, such as using Microsoft Word and Excel, watching YouTube videos, surfing the web, listening to music from the Spotify app, both online and offline, and playing the occasional Steam game.
 
  The results you experience will vary based on the tasks you perform; the more resources you use, the shorter the battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Dell Inspiron 16 Plus (7630)?
 
 ![A Dell Inspiron 16 Plus 7630 laptop on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-profile.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  It’s tough to find something “bad” about the [Dell Inspiron 16 Plus (7630)](http://www.amazon.com/Dell-Inspiron-7630-Laptop-i7-13700H/dp/B09NP5N5KG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000906&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdell-inspiron-16-plus-7630-review%2F&asc%5Fcampaign=Affiliate). Because Dell allows you to add more memory or storage and choose a different graphics card, those things can be adjusted to suit your tastes. Dell’s decision to include an ISP display versus OLED is the only spec that stood out that can’t be changed. And even here, the choice of ISP is understandable at the machine’s price point. Even here, however, there’s stuff to love, including the display’s 120Hz refresh rate and the inclusion of ComfortView Plus.
@@ -226,7 +258,10 @@ Joe Robinson / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Dell Inspiron 16 Plus 7630
 

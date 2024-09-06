@@ -1,12 +1,18 @@
 ---
 title: "Step-by-Step Guide: Moving Ebooks From PC or Mac to Your iPad"
-date: 2024-08-25T20:00:33.508Z
-updated: 2024-08-26T20:00:33.508Z
+date: 2024-09-05T11:03:46.620Z
+updated: 2024-09-06T11:03:46.620Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70cdfc416ba85990af80f04e8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Moving Ebooks From PC or Mac to Your iPad
 
 ## How to Transfer Books to iPad (From Win/Mac)
@@ -31,12 +37,30 @@ This article is going to help solve this question, to tell you how to transfer b
 
 ![sync book between ios and catalina](http://www.epubor.com/images/uppic/sync-ipad-mac-catalina.png)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1 Find "Books" in iTunes library
 
 When you run iTunes 11, you will be taken to the "Music" column by default, and you can notice there is a button called "Music" in the upper left-hand corner under the menu bar. Click on the button to bring out a drop-down menu and you can see an option called "Books" like the image below shows.
 
 ![itunes books library](http://www.epubor.com/images/itunes-library.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Some people maybe cannot see this option, then you should go to iBookstore and randomly purchase a free public domain eBook, then you can see the "Books" in iTunes library.
 
 2 Get your books ready
@@ -71,12 +95,24 @@ Now plug your iPad to computer with the USB cable, then you can see your device 
 
 ![itunes device icon](http://www.epubor.com/images/itunes-device-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Click on the device name you will be taken to the device's dashboard, remain every option as default is recommended if you are not familiar with those settings.
 
 Now look at the navigation bar you can see "Summary", "Info", "Apps", etc. Click "Books" and active the option "Sync Books".
 
 ![itunes sync books](http://www.epubor.com/images/itunes-sync-the-books.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 At last click the "Sync" button in the bottom right-hand corner to confirm all the books are indeed transferred to your iPad.
 
 5 Open iBooks to read those books
@@ -85,6 +121,12 @@ Now open your iPad and run iBooks, you will see those ePub books. And where is P
 
 ![ibooks collections](http://www.epubor.com/images/ibooks-collections.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -206,9 +248,6 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>[New] In 2024, Excellence in Meeting Capture  The Best Streaming Gadgets Ranked</u></a></li>
