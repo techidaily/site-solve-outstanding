@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Fairbuds: The Swappable Battery Earpods From Fairphone, Reviewing Acoustic Performance"
-date: 2024-09-05T11:03:44.658Z
-updated: 2024-09-06T11:03:44.658Z
+date: 2024-09-10T09:37:51.666Z
+updated: 2024-09-11T09:37:51.666Z
 tags:
   - product-reviews
 categories:
@@ -19,28 +19,10 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
  The main feature of the [Fairphone Fairbuds](https://shop.fairphone.com/fairbuds) is that they have user-replaceable batteries in the charging case and in the earbuds. A great environmental initiative, but enough to justify buying these pretty bad-sounding earbuds? Not a chance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  These Earbuds Shouldn’t be Graded on a Curve
 
 ![Fairphone Fairbuds outside charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging-case.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Earbuds should make your music sound good. But plainly, I didn’t like the way the Fairbuds sounded out of the box. The audio was thin and often hollow with the low-end suffering the worst, but the mid-range was never particularly vibrant either.
@@ -53,16 +35,38 @@ Jerome Thomas / How-To Geek
 
  The feature the company wants the Fairbuds to be graded against is the buds’ user-replaceable batteries. But earbuds should be judged by how well they play audio, first and foremost. At no point did I ever want to use them to listen to music though.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Okay, so About Those Batteries
 
 ![Fairphone Fairbuds battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-battery.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Being in the consumer electronics space, I’ve thought about the nature of user-replaceable parts for a while. It’s undeniably neat that with a tiny screwdriver I have in my garage I can pop off the case and pop in a fresh, €12.95 (\~$13.85) battery. Or that for €9.95, I can slide off the rubber band around each earbud and give those a renewed listening time.
@@ -71,34 +75,58 @@ Jerome Thomas / How-To Geek
 
 ![Fairphone Fairbuds charging case opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-charging-case-opened.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Of the plethora of earbuds I still have sitting in my garage, I never get the urge to go listen to the old mediocre ones. They don’t age gracefully, getting outdated in other ways beyond their batteries. The Fairbuds also aren't as robust as something like the [Framework laptop](https://buynow-reviews.techidaily.com/expert-recommendations-top-functional-and-stylish-mac-mouse-options-of-2024/) which has a lot of pieces to its user-upgradable computer. The Fairbuds don't have replaceable drivers, Bluetooth chips, or anything else like that.
 
  Electronic waste is a problem, full stop, but I don’t think replaceable batteries are the solution. At least it’s not the first area of the problem to solve. Fairphone is doing other things to try and have an environmental impact for the Fairbuds like using fair trade components and offsetting the earbuds’ carbon. That’s admirable, but it still doesn’t make me want to buy the Fairbuds after spending some time with them.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  There Were Other Things I Didn’t Like, Too
 
 ![Fairphone Fairbuds Proximity Sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-proximity-sensor.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Trying to use the Fairphone app was an exercise in frustration. Often the app would report that it couldn’t find the earbuds, even as I was using them with my phone to listen to music. Putting them in the case and then getting them into pairing mode would sometimes get the app to see them, but doing so would also leave a trail of multiple “Fairbuds” Bluetooth profiles in my Settings app.
@@ -110,6 +138,20 @@ Jerome Thomas / How-To Geek
 ##  Are the Fairphone Fairbuds Worth Spending Money On?
 
 ![Fairphone Fairbuds outside charging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 

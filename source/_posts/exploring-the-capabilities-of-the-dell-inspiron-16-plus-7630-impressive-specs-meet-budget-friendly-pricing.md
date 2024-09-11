@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Dell Inspiron 16 Plus (7630) - Impressive Specs Meet Budget-Friendly Pricing
-date: 2024-09-05T11:03:44.725Z
-updated: 2024-09-06T11:03:44.725Z
+date: 2024-09-10T09:37:51.728Z
+updated: 2024-09-11T09:37:51.728Z
 tags:
   - product-reviews
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-hero.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Exploring the Capabilities of the Dell Inspiron 16 Plus (7630) - Impressive Specs Meet Budget-Friendly Pricing
 
 ### Key Takeaways
@@ -33,20 +47,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![The front view of a Dell Inspiron 16 Plus 7630](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/dell-inspiron-16-plus-7630.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
 #####  Dell Inspiron 16 Plus 7630
 
 8/ 10 
@@ -127,19 +143,61 @@ Expand
 
 [$1500 at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2000906%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gmtz) [See at Amazon](https://www.amazon.com/Dell-Inspiron-7630-Laptop-i7-13700H/dp/B09NP5N5KG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000906&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdell-inspiron-16-plus-7630-review%2F&asc%5Fcampaign=Affiliate) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Design: Plain but Inoffensive
 
 ![A closed Dell Inspiron 16 Plus 7630 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-closed.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
  At 4.54 pounds, the Dell Inspiron 16 Plus (7360) is not exactly lightweight, which makes sense given its 16-inch display size. While the weight might be a concern while carrying the Dell laptop, it has benefits. The extra bulk means the computer stays in place when in use and there’s no chance it will fall to the floor with a minimal push.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Ports
 
@@ -149,6 +207,20 @@ Joe Robinson / How-To Geek
 
 ![The rightside ports of the Dell Inspiron 16 Plus 7630 showing USB 3.2 Gen 1 Type-A in use](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-rightside.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
 Close 
@@ -157,12 +229,6 @@ Close
 
  My only beef here is it would have been nice had Dell included another Thunderbolt 4.0 port. Luckily, plenty of [great USB-C hubs](https://some-knowledge.techidaily.com/2024-approved-harmonys-choice-top-10-songs-that-say-yes/) on the market will allow you to add more ports with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Keyboard, TouchPad, and Fingerprint Reader
 
 ![The keyboard and touchpad on the Dell Inspiron 16 Plus 7630.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-keyboard.jpg) 
@@ -179,22 +245,24 @@ Joe Robinson / How-To Geek
 
  I tested the microphone on the Dell Inspiron 16 Plus (7630) by video-calling my daughter (who was in another room in my home) and my friend, who lives in another state. Both told me my voice was clear during calls—in quiet and louder conditions. This isn’t always the case for laptop mics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display: Some Concerns
 
 ![A Dell Inspiron 16 Plus 7630 on a table with its power pack to the side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-display.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
  This laptop features a 16-inch IPS display with a resolution of 2560 x 1600 (2.5K) and a 16:10 aspect radio. The display provides a wide viewing angle (WVA) and supports ComfortView Plus, Dell’s proprietary low-blue light solution designed to reduce eye strain.
@@ -203,12 +271,6 @@ Joe Robinson / How-To Geek
 
  Even without being OLED, the display still includes a 120Hz display, which means it can refresh the images on the screen 120 times a second. The computer offers 300 nits of brightness, making it less than ideal for outdoor use. This is a little unfortunate for a computer at this price point.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Software: Not A Lot Here—And That's Good
 
  It's frustrating when laptop manufacturers load their computers with unnecessary software. However, in this case, that's not the case. The laptop only comes with a few pre-installed apps, such as MyDell, Support Assist, and a trial version of McAfee LiveSafe that lasts for 30 days.
@@ -216,6 +278,20 @@ Joe Robinson / How-To Geek
  MyDell and Support Assist are there for you when you need technical assistance, have to install Dell drives and software, and more. I’ve used both apps over the years on other Dell computers and have always been impressed with how comprehensive they are and easy to use when questions or problems arise.
 
  One additional note about software. My review unit came with Windows 11 Home. You can switch it out for Windows 11 Pro, however, for a little bit more added to the final price.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Performance: Excellent, Even When Gaming
 
@@ -231,18 +307,40 @@ Joe Robinson / How-To Geek
 
 ![Side view of the Dell Inspiron 16 Plus 7630.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-side-view.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
  Many laptops claim to last a full day on a single charge. This one doesn’t make this promise, but the numbers I experienced were pretty good. Despite its large display, the laptop lasted between 12 and 14 hours during the three times I drained its battery. During this time, I focused on performing what I would consider everyday tasks, such as using Microsoft Word and Excel, watching YouTube videos, surfing the web, listening to music from the Spotify app, both online and offline, and playing the occasional Steam game.
 
  The results you experience will vary based on the tasks you perform; the more resources you use, the shorter the battery life.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the Dell Inspiron 16 Plus (7630)?
 
 ![A Dell Inspiron 16 Plus 7630 laptop on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/dell-inspiron-16-plus-7630-profile.jpg) 
@@ -257,12 +355,6 @@ Joe Robinson / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Dell Inspiron 16 Plus 7630
 
 8/ 10 
