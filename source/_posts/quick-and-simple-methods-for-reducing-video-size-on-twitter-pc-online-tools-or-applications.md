@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple Methods for Reducing Video Size on Twitter: PC, Online Tools or Applications"
-date: 2024-09-10T18:07:33.358Z
-updated: 2024-09-16T02:46:55.288Z
+date: 2024-09-18T07:57:00.694Z
+updated: 2024-09-21T11:42:44.834Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
@@ -182,21 +182,7 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -228,13 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -243,11 +222,25 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -359,18 +352,18 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -379,6 +372,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -422,6 +422,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -538,13 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -580,17 +580,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-advanced-tips-for-effective-mobile-video-capture-for-2024/"><u>[New] Advanced Tips for Effective Mobile Video Capture for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-vibrant-video-vibes-merging-melodies-with-media/"><u>[Updated] 2024 Approved Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elegant-departures-from-zero-costs-to-paid-options-for-2024/"><u>[Updated] Elegant Departures From Zero Costs to Paid Options for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-7a-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Google Pixel 7a Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-for-virtual-team-meetings/"><u>How to Use ChatGPT for Virtual Team Meetings</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage-2024-update/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage (2024 Update)</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/pcparavi/"><u>PC上でParavi番組のスクリーンレコードと保管手法</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/playing-ac3-format-videos-on-mx-player-expert-tips-and-tricks-for-full-support/"><u>Playing AC3 Format Videos on MX Player - Expert Tips & Tricks for Full Support</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-la-noire-now-available-on-pc-what-you-need-to-know/"><u>Resolved: 'L.A. Noire' Now Available on PC – What You Need to Know</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-downloading-your-favorite-zenith-vision-clips-effortlessly/"><u>Step-by-Step Guide: Downloading Your Favorite Zenith Vision Clips Effortlessly</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transferring-and-converting-your-dvd-collection-to-ipadiphone/"><u>Step-by-Step Guide: Transferring and Converting Your DVD Collection to iPad/iPhone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transforming-webm-videos-into-mp4-format-on-your-pc/"><u>Step-by-Step Guide: Transforming WebM Videos Into MP4 Format on Your PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blurring-identity-erasing-faces-from-video-content/"><u>[New] In 2024, Blurring Identity Erasing Faces From Video Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitterize-your-tiktok-posts-for-2024/"><u>[New] Twitterize Your TikTok Posts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-power-of-iphones-high-dynamic-range/"><u>[Updated] Unlocking the Power of iPhone's High Dynamic Range</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726222256218-mpegif-movavi/"><u>直接在線轉換MPE成GIF，不用花錢! 使用Movavi無限制</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-free-ai-chatgpt-tools-for-effortless-itinerary-creation-on-the-go/"><u>Discover 7 Free AI ChatGPT Tools for Effortless Itinerary Creation on the Go</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-converter-easily-change-webm-files-to-wmv-format-with-movavi/"><u>Free Online Converter: Easily Change WebM Files to WMV Format with Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207650315-the-secret-behind-nba-asterisk-2k21-green-funds-hack-explained-and-resolved/"><u>The Secret Behind NBA Asterisk 2K21 Green Funds Hack Explained & Resolved!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transforma-sus-mensajes-de-whatsapp-en-archivos-mp3-gratuitos-en-linea-paso-a-paso/"><u>Transforma Sus Mensajes De WhatsApp en Archivos MP3 Gratuitos en Línea Paso a Paso</u></a></li>
 </ul></div>
 

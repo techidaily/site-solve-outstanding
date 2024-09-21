@@ -1,7 +1,7 @@
 ---
 title: Inside OBS Studio's Latest Version (202
-date: 2024-09-11T05:53:51.122Z
-updated: 2024-09-16T01:13:14.340Z
+date: 2024-09-14T21:57:16.963Z
+updated: 2024-09-21T05:31:19.883Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc143e2f86bb990ae121e306783.png
@@ -184,13 +184,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -217,9 +210,23 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -305,6 +312,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -359,13 +373,6 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -375,13 +382,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -432,13 +432,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -487,6 +480,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -520,6 +520,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -537,13 +544,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -580,17 +580,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-personalized-branding-made-easy-use-free-logo-templates-and-edit-for-2024/"><u>[Updated] Personalized Branding Made Easy Use Free Logo Templates and Edit for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sticker-creation-from-gifs-a-step-by-step-tutorial-for-discs-and-chats/"><u>2024 Approved Sticker Creation From GIFs A Step-by-Step Tutorial for Discs and Chats</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/wavm4a5/"><u>無料のWAVファイルをM4A形式に変換する最高のソフトウェア5つ:ユーザーが推奨するもの!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-3d-printing-skills-with-the-power-of-chatgpt/"><u>Enhancing Your 3D Printing Skills with the Power of ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-moto-e13-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Moto E13 Phone Forgot Password</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-photoshop-tricks-conceal-faces-and-spaces/"><u>In 2024, Expert Photoshop Tricks Conceal Faces & Spaces</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-unexpected-kernel-mode-trap-bsod-issue-on-windows-10/"><u>Resolved: Fixing the Unexpected Kernel Mode Trap BSOD Issue on Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-large-screen-viewing-for-youtubers/"><u>Simplifying Large-Screen Viewing for YouTubers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-for-you-methods-to-develop-a-bespoke-gpt-model/"><u>Tailoring ChatGPT for You: Methods to Develop a Bespoke GPT Model</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/watch-your-favorite-youtube-in-wmv-free-tutorial-for-using-yt-videos-with-windows-media-player/"><u>Watch Your Favorite YouTube in WMV: Free Tutorial for Using YT Videos with Windows Media Player</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/web4/"><u>あなたにぴったり!動画音声消しWebサイトのおすすめベスト4</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-twinned-voices-celebrated-on-tiktok/"><u>[Updated] Twinned Voices Celebrated on TikTok</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/st-youtube-makeup-artists-you-must-have-heard-for-2024/"><u>10 Best YouTube Makeup Artists You Must Have Heard for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-virtual-voyage-unlimited-the-ultimate-selection-of-free-roleplayers/"><u>2024 Approved Virtual Voyage Unlimited The Ultimate Selection of Free Roleplayers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/cambiar-formatos-facilmente-sin-coste-convertidor-on-line-para-cambiar-m2ts-a-mp3-and-mp4-con-movavi-en-linea-gratis/"><u>Cambiar Formatos Fácilmente Sin Coste - Convertidor On-Line Para Cambiar M2TS a MP3 & MP4 Con Movavi En Línea Gratis</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/conversion-gratuita-de-archivos-avi-a-mp4-en-linea-con-eficiencia-y-rapidez-usando-el-servicio-de-movavi/"><u>Conversión Gratuita De Archivos AVI a MP4 en Línea Con Eficiencia Y Rapidez, Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-and-fast-mp4-to-flv-converter-convert-videos-online-instantly/"><u>Free and Fast MP4 to FLV Converter - Convert Videos Online Instantly!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-converter-change-flac-files-to-mpg-format-with-movavis-web-tool/"><u>Free Online Converter: Change Flac Files to Mpg Format with Movavi's Web Tool</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-oggm4a-movavi/"><u>Free Online OGG到M4A音頻格式转换 - 利用Movavi工具</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-12-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 12 iCloud Bypass</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/momentum-in-motion-top-20-instagram-ideas-for-mentoring-the-masses-for-2024/"><u>Momentum in Motion Top 20 Instagram Ideas for Mentoring the Masses for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-free-green-screen-editors-for-android-and-ios-users/"><u>New 10 Best Free Green Screen Editors for Android and iOS Users</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-utrolige-gjenstander-for-optimert-online-og-offisielt-video-voksmenhet/"><u>Top 5 Utrolige Gjenstander for Optimert Online Og Offisielt Video-Voksmenhet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed-for-2024/"><u>Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/vrij-van-kosten-converting-vob-in-wma-formats-helemaal-online-movieconvix/"><u>Vrij Van Kosten Converting VOB in WMA Formats Helemaal Online - MovieConvix</u></a></li>
 </ul></div>
 

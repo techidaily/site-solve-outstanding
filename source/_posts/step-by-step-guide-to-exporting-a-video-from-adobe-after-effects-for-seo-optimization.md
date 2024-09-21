@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Exporting a Video From Adobe After Effects for SEO Optimization
-date: 2024-09-13T04:16:29.065Z
-updated: 2024-09-16T12:50:00.943Z
+date: 2024-09-20T15:19:48.054Z
+updated: 2024-09-21T02:00:33.269Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c67ae945d13a65a17a2d97a04bd087435fddfcab73758269188b74f1d1383195.jpg
@@ -210,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -228,13 +235,6 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -242,19 +242,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -364,13 +351,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -429,10 +409,10 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
@@ -444,6 +424,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -502,19 +489,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -524,6 +498,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -556,6 +537,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -592,15 +580,13 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-get-clipped-onto-youtube-audio-submission-made-easy/"><u>[New] 2024 Approved Get Clipped Onto YouTube Audio Submission Made Easy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fcp-downloading-what-you-need/"><u>2024 Approved Free FCP Downloading - What You Need</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/wavm4a5/"><u>無料のWAVファイルをM4A形式に変換する最高のソフトウェア5つ:ユーザーが推奨するもの!</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-facebook-portal-for-home-use/"><u>Best Facebook Portal for Home Use</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-television-signal-strength-with-top-rated-indoor-antennas/"><u>Boost Your Television Signal Strength with Top-Rated Indoor Antennas</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-speed-up-video-on-instagram-for-2024/"><u>How to Speed Up Video on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-essentials-of-creating-and-curating-instagram-highlights/"><u>The Essentials of Creating and Curating Instagram Highlights</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/unlocking-audible-gold-top-three-methods-for-free-video-to-audio-conversion/"><u>Unlocking Audible Gold: Top Three Methods for FREE Video-to-Audio Conversion</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/upcoming-changes-is-there-a-next-gen-iphone-on-the-horizon/"><u>Upcoming Changes: Is There a Next-Gen iPhone on the Horizon?</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/watch-your-favorite-youtube-in-wmv-free-tutorial-for-using-yt-videos-with-windows-media-player/"><u>Watch Your Favorite YouTube in WMV: Free Tutorial for Using YT Videos with Windows Media Player</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mediascreen-reviewer-pro/"><u>[New] 2024 Approved MediaScreen Reviewer Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-is-auroras-premium-tech-a-wise-investment/"><u>[Updated] In 2024, Is Aurora's Premium Tech a Wise Investment?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rise-to-the-top-on-instagram-essential-tips-and-influencer-examples-for-2024/"><u>[Updated] Rise to the Top on Instagram Essential Tips & Influencer Examples for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-platforms-linking-insta-and-tiktok/"><u>2024 Approved Harmonizing Platforms Linking Insta & TikTok</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratisk-videkonvertereapp-movavi-profesjonale-og-komfortabelt-til-brug-i-danmark/"><u>Gratisk Vidékonvertereapp: Movavi - Profesjønale Og Komfortabelt Til Brug I Danmark</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guida-passo-passo-per-iscrivere-a-un-webinar-online/"><u>Guida Passo-Passo per Iscrivere a Un Webinar Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721890310329-revolutionize-your-mobile-search-experience-on-android-and-ios-using-bings-smart-ai-feature/"><u>Revolutionize Your Mobile Search Experience on Android and iOS Using Bing's Smart AI Feature</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unveiling-the-distinctions-between-wav-and-mp3-formats-exploring-audio-quality-with-movavi/"><u>Unveiling the Distinctions Between WAV and MP3 Formats - Exploring Audio Quality with Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Integrating and Consolidating Subtitles with VLC for Long-Term Use"
-date: 2024-09-08T16:10:59.664Z
-updated: 2024-09-16T09:08:56.301Z
+date: 2024-09-19T02:47:24.280Z
+updated: 2024-09-21T10:50:11.453Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1226fbaa741004693d1f4b8bc9bf88f0e71c8201ee5e911ba173ac8995ac7535.jpg
@@ -210,16 +210,22 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -285,13 +291,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -324,6 +323,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -339,13 +345,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -374,10 +373,10 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
@@ -423,18 +422,18 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -458,6 +457,19 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -580,12 +592,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-visual-storytelling-planning-strategy-on-instavideo-for-2024/"><u>[New] Mastering Visual Storytelling Planning Strategy on InstaVideo for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/exploring-the-top-15-replacements-for-windows-movie-maker-in-video-editing/"><u>Exploring the Top 15 Replacements for Windows Movie Maker in Video Editing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/flvwindows-113-windows-11/"><u>FLVファイルが安定して動作するようにWindows 11上で見事に再生する3つの手順 - Windows 11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unleash-your-potential-skyrocketing-youtube-audience/"><u>In 2024, Unleash Your Potential Skyrocketing YouTube Audience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premier-windows-video-chat-apps-7-1/"><u>Premier Windows Video Chat Apps #7-#1</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/geforce-experience/"><u>ストリーミング初心者ガイド：GeForce Experienceで簡易録画手法</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-apowersofts-capabilities-tested-against-market-contenders-for-2024/"><u>[Updated] Apowersoft's Capabilities Tested Against Market Contenders for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726222256218-mpegif-movavi/"><u>直接在線轉換MPE成GIF，不用花錢! 使用Movavi無限制</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/comment-convertir-et-deplacer-des-films-vhs-sur-dvd-via-un-ordinateur-portable/"><u>Comment Convertir Et Déplacer Des Films VHS Sur DVD Via Un Ordinateur Portable ?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/complete-2024-video-show-analysis-and-tips/"><u>Complete 2024 Video Show Analysis & Tips</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/converti-file-flac-in-aiff-per-minimo-sforzo-free-conversion-on-line-gratuitissima-con-movavi/"><u>Converti File Flac in Aiff per Minimo Sforzo - Free Conversion On-Line Gratuitissima Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-scansnap-s1300i-scanner-a-quick-guide/"><u>Download and Update the ScanSnap S1300i Scanner: A Quick Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-conversion-transforming-webm-files-into-mp3-format-with-ease/"><u>Free Online Conversion: Transforming WebM Files Into MP3 Format with Ease</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratuito-conversor-de-video-online-ogv-para-mov-com-a-ferramenta-mais-eficiente-da-moovavi/"><u>Gratuito Conversor De Vídeo Online: OGV Para MOV Com a Ferramenta Mais Eficiente Da Moovavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premium-screen-capture-gear-flawless-performance/"><u>In 2024, Premium Screen Capture Gear - Flawless Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-google-pixel-7a-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Google Pixel 7a Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/los-5-mas-grandes-talentos-de-juegos-en-alta-definicion-disfrute-en-4k-uhd/"><u>Los 5 Más Grandes Talentos De Juegos en Alta Definición: Disfrute en 4K UHD!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-free-video-editing-magic-top-special-effects-apps-for-mobile-devices-for-2024/"><u>New Free Video Editing Magic Top Special Effects Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendo-showdown-a-comparison-of-switch-lite-and-switch-oled/"><u>Nintendo Showdown: A Comparison of Switch Lite and Switch OLED</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-14-image-gaming-apps-for-windows-11-leading-software-picks/"><u>Top 14 Image Gaming Apps for Windows 11: Leading Software Picks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-15-applicazioni-gratuite-di-conversione-audio-musica-piu-efficaci/"><u>Top 15 Applicazioni Gratuite Di Conversione Audio-Musica Più Efficaci</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mkv-video-online/"><u>무료 MKV 영화를 VIDEO 형식으로 바꾸기 - Online 사용자가 이해하기 쉬운 방법</u></a></li>
 </ul></div>
 
