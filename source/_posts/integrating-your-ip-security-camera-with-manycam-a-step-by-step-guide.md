@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-09-11T06:39:07.748Z
-updated: 2024-09-16T04:08:21.917Z
+date: 2024-09-25T02:50:32.726Z
+updated: 2024-09-25T20:47:33.718Z
 tags:
   - product
   - solution
@@ -608,9 +608,23 @@ To add a new camera to the list, click the **Add IP Camera** button in the IP Ca
 
 #### ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-new.png)Automatically detect and add IP camera within your local network
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If supported by your IP camera, ManyCam will be able to find it automatically. ManyCam can find IP cameras within your local network only. To proceed, click on the chain icon as shown in the image below.
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note 
 
@@ -645,10 +659,16 @@ Note
  Please note that ManyCam does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set custom Buffering time for your IP camera stream
@@ -665,14 +685,14 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Troubleshooting
 
@@ -682,10 +702,16 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Updated on October 6, 2022 
@@ -727,5 +753,21 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-memories-in-high-quality-a-comprehensive-guide-to-logitech-webcam-use/"><u>[Updated] Capture Memories in High Quality A Comprehensive Guide to Logitech Webcam Use</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-top-10-librerias-de-captura-de-escrena-gratuita-para-windows-10/"><u>1. Top 10 Librerías De Captura De Escrena Gratuita Para Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assembling-a-spectacular-screenplay-cut-out/"><u>Assembling a Spectacular Screenplay Cut-Out</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/como-convertir-archivos-asf-a-formato-mp4-sin-coste-con-el-servicio-de-conversion-online-de-movavi/"><u>Cómo Convertir Archivos ASF a Formato MP4 Sin Coste Con El Servicio De Conversión Online De Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/connect-effortlessly-with-our-straightforward-adb-driver/"><u>Connect Effortlessly with Our Straightforward ADB Driver</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/conversion-rapide-et-gratuite-transformer-des-images-bmp-en-gif-sur-movavi/"><u>Conversion Rapide Et Gratuite: Transformer Des Images BMP en GIF Sur Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-conversion-turning-your-files-from-mts-to-avi-format-in-minutes/"><u>Effortless Conversion: Turning Your Files From MTS to AVI Format in Minutes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-repair-mfplatdll-not-detected-errors/"><u>How to Address and Repair Mfplat.dll Not Detected Errors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>In 2024, Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-pc-learn-how-to-refresh-ati-radeon-drivers-on-a-windows-system/"><u>Revitalize Your PC: Learn How to Refresh ATI Radeon Drivers on a Windows System</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/son-degeri-dusunce-unlu-usta-filmleri-anlatan-18-windows-1087-ile-kapalidir/"><u>Son Değeri Düşünce – Ünlü Usta Filmleri Anlatan 18 Windows 10,8,7 Ile Kapalıdır</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-guide-for-cutting-edge-editing-in-gopro-studio-for-2024/"><u>Step-by-Step Guide for Cutting-Edge Editing in GoPro Studio for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-fake-face-makers-the-ultimate-online-collection/"><u>Updated 2024 Approved Free Fake Face Makers The Ultimate Online Collection</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/webmflv/"><u>오늘날의 가장 현대적인 WEBM/FLV 변환 - 무세약스 원격 자동화</u></a></li>
+</ul></div>
 
