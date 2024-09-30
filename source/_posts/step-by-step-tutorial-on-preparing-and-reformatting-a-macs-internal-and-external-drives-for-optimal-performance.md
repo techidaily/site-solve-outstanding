@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Preparing and Reformatting a Mac's Internal & External Drives for Optimal Performance
-date: 2024-09-10T09:37:52.962Z
-updated: 2024-09-11T09:37:52.962Z
+date: 2024-09-29T19:27:04.424Z
+updated: 2024-09-30T17:54:00.005Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
@@ -16,92 +16,28 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Mac tips & troubleshooings](https://tools.techidaily.com/macxdvd/products/) \> format mac hard drive
 
 ## How to Format Mac Internal/External Hard Drive Easily 
-
-
 
 "How to format a hard drive on Mac. Hi, I am using an iMac with the latest version of operating system. I have bought an external hard drive for my Mac and plan to copy DVD on Mac with DVD ripper for Mac and then save the DVD copies to my Mac external hard drive for easier DVD movies access and playback. How do I format Mac hard drive before using?" 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Abby Poole](https://www.linkedin.com/in/abby-poole-6822b0104/) ｜Last updated on May 20, 2021
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/format-mac-hard-drive.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/format-mac-hard-drive.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/format-mac-hard-drive.htm)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/format-mac-hard-drive.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/format-mac-hard-drive.htm&source=)
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Formatting Mac hard drive is straight forward, but if you are new to Mac, it can be confusing. We explain how to format internal/external hard drive on macOS for Mac and Windows. 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Why to format hard drive on MacBook Air/Pro/iMac 
 
@@ -113,25 +49,12 @@ There may be occasions when you need to format Mac hard drive. For example,
 * you are running into macOS upgrade problems that can be solved by formatting startup disk drive on Mac.
 * Reformat Mac hard drive for Windows PC as they use different file systems that won't be compatible with each other.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  2\. Things to do before formatting Mac hard drive
 
@@ -141,19 +64,19 @@ Many users followed instructions to format Mac hard drive but ended up deleting 
 
 ![backup data before formatting mac hard drive](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-dvd-ripper-pro/article-image/flash-drive-mt.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Format a Hard Drive on macOS (macOS Sierra or Earlier)
 
@@ -170,20 +93,6 @@ The built-in disk manager tool on Mac [Disk Utility](https://en.wikipedia.org/wi
 
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **What to do if formatting Mac hard drive takes too long**
 
 _Formatting WD external hard drive issues on Mac. I am having problem formatting a wd external hard drive to my mac. It's really slow._   
@@ -198,115 +107,49 @@ MacX DVD Ripper Pro is able to rip any DVD, including damaged ones, unplayable D
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 [Rip/Copy DVD to USB Flash Drive/Hard Drive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 [Top 10 Best Mac NAS Drive for Home Usage and Offices](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 [Top 5 Best NAS Drives for Data Storage and Backup](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 [How to clean up mac hard drive and free up storage space](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 [How to backup Mac to external hard drive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to copy DVD collection to hard drive on Mac](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -330,8 +173,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -345,8 +186,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -354,4 +193,24 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-practices-for-livestreaming-full-spheres-on-facebook/"><u>[Updated] 2024 Approved Best Practices for Livestreaming Full Spheres on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevating-your-youtube-shorts-presence-with-impactful-strategies/"><u>[Updated] Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essential-guide-to-twitter-video-posting-for-2024/"><u>[Updated] The Essential Guide to Twitter Video Posting for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/app-8/"><u>【身分證證明相片】 年度推薦App 8大名單解密！</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-comprehensive-guide-to-using-the-virtual-camera-obs-tips-and-tricks/"><u>1. Comprehensive Guide to Using the Virtual Camera OBS : Tips and Tricks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-streamline-your-video-format-convert-3gpp-files-to-mov-with-movavis-free-converter/"><u>1. Streamline Your Video Format: Convert 3GPP Files to MOV with Movavi's Free Converter</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/242024/"><u>精選24件筆電螢幕錄影軟體：2024年新推薦清單與用家反饋</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726219996173-orf-movavi/"><u>無限量向ORF錄影帶線上下載 - Movavi解決方案</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comment-convertissez-vous-un-video-avi-en-m4v-en-ligne-guide-complet-et-bonus/"><u>Comment Convertissez-Vous Un Vidéo AVI en M4V en Ligne? Guide Complet Et Bonus!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-svd-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .svd file online free - (Tutorial)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/movavimp3w6eb/"><u>Movaviで楽にオンラインMP3変換：W6ebフォーマット用のワンクリック方法</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/round-the-houses-full-rotation-photography-for-2024/"><u>Round the Houses Full Rotation Photography for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/trasforma-i-tuoi-file-tiff-in-formato-bmp-online-senza-costi-utilizzando-movavi/"><u>Trasforma I Tuoi File TIFF in Formato BMP Online Senza Costi, Utilizzando Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlocking-the-secrets-of-perfect-aspect-ratios/"><u>Unlocking the Secrets of Perfect Aspect Ratios</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-graphics-with-new-driver/"><u>Upgrade Windows Graphics with New Driver</u></a></li>
+</ul></div>
 

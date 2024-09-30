@@ -1,41 +1,13 @@
 ---
 title: Transferring eBooks From PC to iPhone - A Step-by-Step Guide
-date: 2024-09-10T09:37:53.770Z
-updated: 2024-09-11T09:37:53.770Z
+date: 2024-09-24T18:00:50.272Z
+updated: 2024-09-30T18:32:54.788Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c6d7712345148ce88c83b02a.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Transferring eBooks From PC to iPhone - A Step-by-Step Guide
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Copy EPUB to iPhone
 
@@ -43,13 +15,18 @@ Posted by [Amy Lopez](https://shorturl.at/bmsEO) on 2/2/2024 4:51:20 PM.
 
 5 [(5 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 [](https://twitter.com/intent/tweet?) 
 
 In this day and age, quite a lot of eBooks can be found in epub format. But how do you transfer epub file to your iPad or iPhone so you can read them on iPhone? Don't worry if you don't know the answer. Because in this article I will show you how to copy your EPUB files on your iPhone without any effort.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Sure Your EPUB Files are DRM Free
 
@@ -76,37 +53,16 @@ If you are a Window user, you need to download the latest [iTunes](https://www.a
 
 ![connect iphone to itunes](http://www.epubor.com/images/uppic/connect-iphone-to-itunes.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Step 2click the iOS device icon, you make sure to go to **Summary** to check **Manually manage music and videos** under **Options**. Then click **Sync** and **Done** button. It may take some time to sync the content from your iPhone to iTunes. So please wait patiently.
 
 ![mannually manage music and videos](http://www.epubor.com/images/uppic/mannually-manage-music-and-videos.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Step 3click **Books** in the left sidebar of iTunes. Then locate the epub files that you want to transfer to your iPhone. Last, drag and drop the epub books from your computer to iTunes. See the below picture.
 
@@ -115,6 +71,13 @@ Step 3click **Books** in the left sidebar of iTunes. Then locate the epub files 
 Step 4it may take some time to sync the epub files to your iPhone. After the synchronization you will see the epub files on the iBook reader on iPhone.
 
 ![syncing books to iPhone](http://www.epubor.com/images/uppic/syncing-books-to-iPhone.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You may notice that now transferring epub files to iPhone with the latest iTunes version is way easier than before. 
 
@@ -142,23 +105,16 @@ Step 1for iTunes Wi-Fi sync, your iPhone needs to connect to Wi-Fi. At the same 
 
 ![sync with this iphone over wifi](http://www.epubor.com/images/uppic/sync-with-this-iphone-over-wifi.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Step 2add epub files to iTunes by clicking the small icon on the left upper corner of iTunes. Then click **Add File to Library** in the drop-down menu.
 
 ![add file to library](http://www.epubor.com/images/uppic/add-file-to-library.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3after adding epubs to iTunes, you can sync the epub files to your iPhone. Click the **Books** in the left sidebar of iTunes. Then click **Sync Books** to choose whether you want to sync **All books** or only **Selected books**. Next check the books you want to sync to iPhone. Last, click **Sync** button to start syncing the checked books to iPhone. 
 
@@ -167,20 +123,6 @@ Step 3after adding epubs to iTunes, you can sync the epub files to your iPhone. 
 It will pop up a window. You need to click **Erase and Sync**. Then iTunes will start looking for your iPhone. 
 
 ![erase and sync](http://www.epubor.com/images/uppic/erase-and-sync.png) ![looking for iphone](http://www.epubor.com/images/uppic/looking-for-iphone.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 It will take a bit long time to backing up the files if it's your first time to transfer epub to iPhone wirelessly. But next time it will take no more than 3 minutes to transfer epub books to your iPhone. 
 
@@ -196,47 +138,20 @@ If you are using a Mac, you can use AirDrop to move epub file from Mac to iPhone
 
 ![choose airdrop](http://www.epubor.com/images/uppic/choose-airdrop.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2\. On your iPhone, launch Control Center by swiping up from the bottom bezel of your iPhone, turn on Wi-Fi, Bluetooth and AirDrop.
 
 ![turn on airdrop](http://www.epubor.com/images/uppic/turn-on-airdrop.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Right click the epub book to share the book via Airdrop. Then click **Accept** on your iPhone. It will let you choose the app to open the epub file.
 
 ![share with airdrop](http://www.epubor.com/images/uppic/share-with-airdrop.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### Method 2 — Transfer epub to iPhone with Email
 
@@ -256,37 +171,44 @@ Step 1open Calibre on your computer, then add epub books to Calibre by simply dr
 
 ![add epub to calibre1](http://www.epubor.com/images/uppic/add-epub-to-calibre1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2click **Connect/share** icon on the tool bar. Then click **Start Content Server** in drop-down menu. Then click **Connect/share** icon again, you will get a website address.
 
 ![start content server](http://www.epubor.com/images/uppic/start-content-server.png) ![copy address](http://www.epubor.com/images/uppic/copy-address.png)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3type the address on iPhone browser's search bar. Like the above image, you should type 192.168.31.167:8080 in the search bar. Then you will get all the books you have added to Calibre library earlier. Tap the one epub book cover and click the **Download** button to download this book.
 
 ![calibre library](http://www.epubor.com/images/uppic/calibre-library.png) ![download epub](http://www.epubor.com/images/uppic/download-epub.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Step 4after you download the epub file, it will ask you to open this book on iBooks or other epub support reader apps. 
 
 ![open epub with ibooks](http://www.epubor.com/images/uppic/open-epub-with-ibooks.png) ![open with other apps](http://www.epubor.com/images/uppic/open-with-other-apps.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Method 5 — Transfer epub to iPhone with Epubor
 
@@ -296,77 +218,15 @@ Step 1open Epubor and add epub files to Epubor library. There are three methods 
 
 ![add epub to epubor](http://www.epubor.com/images/uppic/add-epub-to-epubor.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Step 2click **TOOLBOX** on the tool bar, then click **Web Server** and you'll get the server address as well as the port. 
 
 ![epubor lan address](http://www.epubor.com/images/uppic/epubor-lan-address.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Step 3as it is shown in the above image, you need to type 192.168.31.167:33333 on browser's search bar on iPhone to download the epub files to your iPhone. 
 
 ![epubor library on iphone](http://www.epubor.com/images/uppic/epubor-library-on-iphone.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Step 4choose your preferred reader app to open the downloaded epub books on iPhone.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Conclusion
 
@@ -379,20 +239,6 @@ Suggested reading
 
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
 SHARING IS GREAT!
@@ -400,8 +246,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 5 Comments
 
@@ -482,8 +326,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -491,4 +333,18 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-innovative-visual-tech-top-7-screen-options-for-image-experts/"><u>[New] 2024 Approved Innovative Visual Tech - Top 7 Screen Options for Image Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-most-popular-fb-videos-download-now/"><u>[New] Most Popular FB Videos - Download Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-invisible-smile-vanished-eyes-in-picsart/"><u>[Updated] Invisible Smile, Vanished Eyes in Picsart</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/commemorative-special-offer-by-digiarty-for-its-18th-year-of-innovation-and-creativity/"><u>Commemorative Special Offer by Digiarty for Its 18Th Year of Innovation and Creativity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-insights-on-ankers-powerful-usb-30-charging-solution-a-complete-review/"><u>Expert Insights on Anker's Powerful USB 3.0 Charging Solution – A Complete Review</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-easily-move-pictures-from-an-iphone-to-your-mac-a-comprehensive-guide-with-10-steps/"><u>How to Easily Move Pictures From an iPhone to Your Mac - A Comprehensive Guide with 10 Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-90-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor 90 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mac-dvd-apple/"><u>Mac用 DVD/ビデオファイル Apple製品への変換ガイド</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/pros-and-cons-macx-dvd-ripper-pro-versus-mdrp-a-comprehensive-comparison-of-the-top-two-dvd-ripping-tools/"><u>Pros and Cons: MacX DVD Ripper Pro versus MDRP - A Comprehensive Comparison of the Top Two DVD Ripping Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile-for-2024/"><u>Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-lol-connection-in-windows/"><u>Steps for Restoring LoL Connection in Windows</u></a></li>
+</ul></div>
 
