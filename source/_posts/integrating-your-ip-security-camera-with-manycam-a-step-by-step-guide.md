@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-10-10T21:58:02.374Z
-updated: 2024-10-11T22:31:59.470Z
+date: 2024-10-10T17:55:30.783Z
+updated: 2024-10-17T18:45:41.056Z
 tags:
   - product
   - solution
@@ -598,18 +598,18 @@ Forum
 
 ManyCam offers a variety of video sources that you can use in your broadcast. You can add a single video source or combine multiple video sources, depending on your workflow (see how to [add multiple video sources](https://tools.techidaily.com/manycam/products/)).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add an IP camera
 
 To get started, select **IP Cameras > Add new** from the list of ManyCam video sources that appears upon right-clicking on the Main Live Window.
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-e1665037383754.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add a new camera to the list, click the **Add IP Camera** button in the IP Camera Settings window that opens, and define a new IP camera in the dialog which will appear.
 
@@ -629,14 +629,14 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What IP camera URL should I use?
 
@@ -672,26 +672,13 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Troubleshooting
@@ -703,24 +690,18 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
  Updated on October 6, 2022 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
  Was this article helpful? 
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Related Articles
 
@@ -730,6 +711,13 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a PDF file as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -755,22 +743,22 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-converting-tweeted-videos-into-playable-mp3-tracks-for-2024/"><u>[New] Converting Tweeted Videos Into Playable MP3 Tracks for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>[Updated] In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-powerdirector-2024-reviewed/"><u>[Updated] Mastering PowerDirector 2024 Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-timestamping-your-youtube-videos-desktop-and-mobile-guide/"><u>[Updated] Timestamping Your YouTube Videos Desktop & Mobile Guide</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-comprehensive-guide-to-using-the-virtual-camera-obs-tips-and-tricks/"><u>1. Comprehensive Guide to Using the Virtual Camera OBS : Tips and Tricks</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/baixe-o-imovie-oficialmente-para-windows-agora-o-melhor-guia-facil-de-download-do-imovie-para-pc-com-movavi/"><u>Baixe O iMovie Oficialmente Para Windows Agora! O Melhor Guia Fácil De Download Do iMovie Para PC Com Movavi.</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comment-convertissez-vous-un-video-avi-en-m4v-en-ligne-guide-complet-et-bonus/"><u>Comment Convertissez-Vous Un Vidéo AVI en M4V en Ligne? Guide Complet Et Bonus!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-garmin-venu-your-ultimate-guide-to-a-smart-all-in-one-wellness-gadget/"><u>Comprehensive Analysis of the Garmin Venu: Your Ultimate Guide to a Smart, All-in-One Wellness Gadget</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/conversione-gratuita-online-da-file-aiff-a-formato-flac-con-movavi/"><u>Conversione Gratuita Online: Da File AIFF a Formato FLAC Con Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-setting-up-your-apple-homepod-with-your-television-easily/"><u>Expert Advice: Setting Up Your Apple HomePod with Your Television Easily</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-instant-mp4-to-wmv-conversion-quick-and-simple-guide/"><u>Free Instant MP4 to WMV Conversion: Quick and Simple Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-v500-driver-software-here/"><u>Get the Latest Epson V500 Driver Software Here!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-huawei-nova-y91-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Huawei Nova Y91? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/movavis-free-service-effortlessly-convert-mp4-file-formats-to-mp3-on-the-web/"><u>Movavi's Free Service - Effortlessly Convert MP4 File Formats to MP3 on the Web!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/movavimp3w6eb/"><u>Movaviで楽にオンラインMP3変換：W6ebフォーマット用のワンクリック方法</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/trasforma-i-tuoi-file-tiff-in-formato-bmp-online-senza-costi-utilizzando-movavi/"><u>Trasforma I Tuoi File TIFF in Formato BMP Online Senza Costi, Utilizzando Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>[New] Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-technology-for-optimal-fb-stream-recording-for-2024/"><u>[New] Leveraging Technology for Optimal FB Stream Recording for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-analysis-of-directed-motion-tracking/"><u>[Updated] Comprehensive Analysis of Directed Motion Tracking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-absolute-zero-to-audience-peaks-top-10-insights-on-boosting-video-viewership/"><u>[Updated] From Absolute Zero to Audience Peaks Top 10 Insights on Boosting Video Viewership</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories/"><u>[Updated] In 2024, Boosting Social Impact with the Combined Force of YouTube and Instagram Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-line-up-top-5-slow-motion-models/"><u>[Updated] Premium Line-Up Top 5 Slow Motion Models</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/2024-miomio-pciphoneandroid/"><u>2024 Miomio開始不可能、再生困難、接続不成功の原因と解決法 (PC、iPhone、Android用)</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comment-personnaliser-un-film-en-direct-sur-windows-11-a-laide-de-lediteur-video-integre/"><u>Comment Personnaliser Un Film en Direct Sur Windows 11 À L'Aide De L'Éditeur Vidéo Intégré</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comment-telecharger-et-utiliser-le-paquet-de-commande-installer-pour-handbrake-avec-libdvdcss-sur-macoswindows-11/"><u>Comment Télécharger Et Utiliser Le Paquet De Commande Installer Pour Handbrake Avec Libdvdcss Sur macOS/Windows 11</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effective-techniques-for-creating-and-syncing-subtitles-in-mp4-movies/"><u>Effective Techniques for Creating and Syncing Subtitles in MP4 Movies</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-tools-for-bulk-transformation-from-avif-to-jpg-image-files/"><u>Free Online Tools for Bulk Transformation From AVIF to JPG Image Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratuite-lecture-de-dvd-comment-acceder-aux-films-sans-decodeur/"><u>Gratuite Lecture De DVD: Comment Accéder Aux Films Sans Décodeur!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guia-detallada-del-usuario-para-el-programa-winx-dvd-ripper-platinum-como-desbloquear-y-duplicar-contenido-en-dvd-seguros/"><u>Guía Detallada Del Usuario Para El Programa WinX DVD Ripper Platinum - Cómo Desbloquear Y Duplicar Contenido en DVD Seguros</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/potential-job-risks-can-employers-terminate-you-for-using-chatgpt/"><u>Potential Job Risks: Can Employers Terminate You for Using ChatGPT?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-recording-devices-face-camera-included-for-2024/"><u>Superior Recording Devices - Face Camera Included for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/windows-11ai/"><u>Windows 11無料ダウンロードガイド：アップグレード手順と最新AIツールの概要</u></a></li>
 </ul></div>
 

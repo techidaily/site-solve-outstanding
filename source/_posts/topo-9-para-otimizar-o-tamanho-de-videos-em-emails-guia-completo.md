@@ -1,7 +1,7 @@
 ---
 title: Topo 9 Para Otimizar O Tamanho De Vídeos Em Emails - Guia Completo
-date: 2024-10-09T22:38:40.522Z
-updated: 2024-10-11T22:04:49.510Z
+date: 2024-10-13T17:13:45.985Z
+updated: 2024-10-17T16:52:07.084Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36628241992e02c966a06886d.jpg
@@ -156,13 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -273,22 +266,15 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
@@ -307,6 +293,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -332,10 +325,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -358,16 +351,16 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -379,13 +372,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -393,6 +379,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -405,10 +398,16 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
@@ -517,13 +516,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -533,6 +525,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -547,6 +546,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -601,19 +607,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-how-vr-revolutionizes-movie-watching-for-2024/"><u>[New] How VR Revolutionizes Movie-Watching for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-leading-the-pack-2023s-8-facebook-movie-downloads-for-2024/"><u>[New] Leading the Pack 2023'S #8 Facebook Movie Downloads for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>[Updated] Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/a-step-by-step-guide-altering-text-styles-within-the-aldiko-ebook-player-on-android-systems/"><u>A Step-by-Step Guide: Altering Text Styles Within the Aldiko eBook Player on Android Systems</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/acsm-ebook-liberation-techniques-to-bypass-drm-and-enjoy-your-digital-library-freely/"><u>ACSM Ebook Liberation: Techniques to Bypass DRM and Enjoy Your Digital Library Freely</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/authorizing-your-kobo-device-for-seamless-syncing-with-adobe-content-server/"><u>Authorizing Your Kobo Device for Seamless Syncing with Adobe Content Server</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comment-supprimer-le-drm-de-vos-ebooks-ibooks-pour-les-lire-sur-pc-ou-mac/"><u>Comment Supprimer Le DRM De Vos eBooks iBooks Pour Les Lire Sur PC Ou Mac ?</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/converting-and-reading-mobi-ebooks-like-physical-books-on-amazons-kindle-fire-tablet/"><u>Converting and Reading MOBI eBooks Like Physical Books on Amazon's Kindle Fire Tablet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-with-updated-canon-mg-series-mg3150-mg3750-driver-downloads-and-firmware-upgrades/"><u>Ensure Smooth Printing with Updated Canon MG Series (MG3150, MG3750) Driver Downloads & Firmware Upgrades</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-value-of-alienware-aurora-r7-extreme-performance-with-an-equivalent-price/"><u>Evaluating the Value of Alienware Aurora R7: Extreme Performance with an Equivalent Price</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-gionee-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Gionee Through Google Earth?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x8b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X8b Phone Forgot Password</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-advantages-of-driving-an-electric-car-over-a-traditional-petrol-vehicle/"><u>The Advantages of Driving an Electric Car Over a Traditional Petrol Vehicle</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-solutions-and-troubleshooting-tips/"><u>Top 12 Common Problems with iPhone 12: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-11-best-practices-for-capturing-online-conferences-for-free/"><u>[New] 11 Best Practices for Capturing Online Conferences for Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enjoy-every-dribble-pass-and-shot-nba-livestream-hacks-top-15/"><u>[New] 2024 Approved Enjoy Every Dribble, Pass & Shot - NBA Livestream Hacks (Top 15)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instantly-connecting-fans-how-to-take-your-fb-live-further-for-2024/"><u>[New] Instantly Connecting Fans How to Take Your FB Live Further for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-endorsed-asmr-microphones-unveiled/"><u>[Updated] 2024 Approved Expert-Endorsed ASMR Microphones Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-reassessing-manycam-search-for-a-top-contender/"><u>[Updated] In 2024, Reassessing ManyCam Search for a Top Contender</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ogggif-movivav/"><u>「すべて無料でオンラインOGG画像からGIFに簡単変換！ MoviVav化学」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-designs-essential-secrets-for-canva-mastery/"><u>2024 Approved Elevate Designs Essential Secrets for Canva Mastery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dngpng-movavi/"><u>網路直接無成本 DNG到PNG 過渡：Movavi的高效解決方案</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726228243480-jpgpng/"><u>最新免費網路圖像轉換器 - 立刻更改JPG、PNG及其他格式</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/como-convertir-avi-a-wav-en-una-sola-pantalla-sin-gastos-paso-a-paso-con-movavi/"><u>Cómo Convertir AVI a WAV en Una Sola Pantalla Sin Gastos: Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-itel-a05s-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Itel A05s.</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratis-konvertal-wav-en-aiff-naar-mp3-korting-bij-movavi/"><u>Gratis Konvertal WAV- en AIFF Naar MP3 - Korting Bij Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mov-to-mpeg-conversion-tool-fast-secure-and-free-upload-service-by-movavi/"><u>MOV to MPEG Conversion Tool: Fast, Secure & Free Upload Service by Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/movavi-image-editor-compra-e-modifica-le-foto-con-facilita/"><u>Movavi Image Editor: Compra E Modifica Le Foto Con Facilità</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ape-mp3/"><u>양호한 APE 오디오파일을 쉽게 MP3로 바꾸기: 인터넷 내 무용업</u></a></li>
 </ul></div>
 
