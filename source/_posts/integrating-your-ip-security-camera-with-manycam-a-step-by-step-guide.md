@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-10-10T17:55:30.783Z
-updated: 2024-10-17T18:45:41.056Z
+date: 2024-10-21T16:53:41.415Z
+updated: 2024-10-23T16:42:51.840Z
 tags:
   - product
   - solution
@@ -598,18 +598,18 @@ Forum
 
 ManyCam offers a variety of video sources that you can use in your broadcast. You can add a single video source or combine multiple video sources, depending on your workflow (see how to [add multiple video sources](https://tools.techidaily.com/manycam/products/)).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add an IP camera
 
 To get started, select **IP Cameras > Add new** from the list of ManyCam video sources that appears upon right-clicking on the Main Live Window.
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-e1665037383754.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To add a new camera to the list, click the **Add IP Camera** button in the IP Camera Settings window that opens, and define a new IP camera in the dialog which will appear.
 
@@ -631,13 +631,6 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What IP camera URL should I use?
 
 Determine if your IP camera uses **MJPEG** or **H.264** compression by looking at its list of features or tech specs. The majority of IP cameras support either or both MJPEG (Motion JPEG) and H.264 video formats. MJPEG IP cameras send a steady stream of JPEG images as motion video while H.264 IP cameras use H.264 video format offering better compression and video quality. If your IP camera supports both compressions, ManyCam recommends using H.264 as it offers better quality and requires less bandwidth.
@@ -658,6 +651,13 @@ Note
 
  Please note that ManyCam does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set custom Buffering time for your IP camera stream
 
 Note 
@@ -672,14 +672,14 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
-The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
 ### Troubleshooting
 
@@ -688,20 +688,27 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_6.png)
 
- Updated on October 6, 2022 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Updated on October 6, 2022 
 
 ### 
 
  Was this article helpful? 
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Related Articles
 
@@ -711,13 +718,6 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a PDF file as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -743,22 +743,24 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>[New] Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-technology-for-optimal-fb-stream-recording-for-2024/"><u>[New] Leveraging Technology for Optimal FB Stream Recording for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-analysis-of-directed-motion-tracking/"><u>[Updated] Comprehensive Analysis of Directed Motion Tracking</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-absolute-zero-to-audience-peaks-top-10-insights-on-boosting-video-viewership/"><u>[Updated] From Absolute Zero to Audience Peaks Top 10 Insights on Boosting Video Viewership</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories/"><u>[Updated] In 2024, Boosting Social Impact with the Combined Force of YouTube and Instagram Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-premium-line-up-top-5-slow-motion-models/"><u>[Updated] Premium Line-Up Top 5 Slow Motion Models</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/2024-miomio-pciphoneandroid/"><u>2024 Miomio開始不可能、再生困難、接続不成功の原因と解決法 (PC、iPhone、Android用)</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comment-personnaliser-un-film-en-direct-sur-windows-11-a-laide-de-lediteur-video-integre/"><u>Comment Personnaliser Un Film en Direct Sur Windows 11 À L'Aide De L'Éditeur Vidéo Intégré</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comment-telecharger-et-utiliser-le-paquet-de-commande-installer-pour-handbrake-avec-libdvdcss-sur-macoswindows-11/"><u>Comment Télécharger Et Utiliser Le Paquet De Commande Installer Pour Handbrake Avec Libdvdcss Sur macOS/Windows 11</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effective-techniques-for-creating-and-syncing-subtitles-in-mp4-movies/"><u>Effective Techniques for Creating and Syncing Subtitles in MP4 Movies</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-online-tools-for-bulk-transformation-from-avif-to-jpg-image-files/"><u>Free Online Tools for Bulk Transformation From AVIF to JPG Image Files</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/gratuite-lecture-de-dvd-comment-acceder-aux-films-sans-decodeur/"><u>Gratuite Lecture De DVD: Comment Accéder Aux Films Sans Décodeur!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/guia-detallada-del-usuario-para-el-programa-winx-dvd-ripper-platinum-como-desbloquear-y-duplicar-contenido-en-dvd-seguros/"><u>Guía Detallada Del Usuario Para El Programa WinX DVD Ripper Platinum - Cómo Desbloquear Y Duplicar Contenido en DVD Seguros</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/potential-job-risks-can-employers-terminate-you-for-using-chatgpt/"><u>Potential Job Risks: Can Employers Terminate You for Using ChatGPT?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/superior-recording-devices-face-camera-included-for-2024/"><u>Superior Recording Devices - Face Camera Included for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/windows-11ai/"><u>Windows 11無料ダウンロードガイド：アップグレード手順と最新AIツールの概要</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-introducing-dimensional-text-with-photoshop-expertise/"><u>[New] Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-no-cost-software-for-professional-capture-at-home-for-2024/"><u>[New] Top 10 No-Cost Software for Professional Capture at Home for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-impactful-youtube-channel-logo-tips-for-2024/"><u>[Updated] Crafting Impactful YouTube Channel Logo Tips for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-how-to-create-srt-subtitles-from-mkvmks-files-using-simple-cost-free-methods/"><u>1. How To Create SRT Subtitles From MKV/MKS Files Using Simple, Cost-Free Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cosmic-comforts-top-10-starry-night-accessories-for-sj4000/"><u>2024 Approved Cosmic Comforts Top 10 Starry Night Accessories for SJ4000</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726028349809-2024/"><u>2024年の予約動画、音楽ファイル対応無料エクステンダーが必要です</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/4316/"><u>効果的な手法で4:3フォーマットから16:</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-ultimate-guide-simple-steps-to-transform-flac-files-into-pcm-format/"><u>Free Ultimate Guide: Simple Steps to Transform FLAC Files Into PCM Format</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/freeze-time-like-never-before-on-the-newest-mi-phone-for-2024/"><u>Freeze Time Like Never Before on the Newest Mi Phone for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-dying-light-game-crash-issues-instantly/"><u>Resolve Your Dying Light Game Crash Issues Instantly</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-tips-seamless-wav-to-wma-file-transformation-using-windows-batch-scripts/"><u>Top Tips: Seamless WAV to WMA File Transformation Using Windows Batch Scripts</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/windowsmacdvd/"><u>Windows/MacでDVDのフォーマットと初期化手順</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1726030509149-5/"><u>オンライン動画連結の専門家から振り返る、今最も人気な5つのウェブサイト!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/4k2k/"><u>スムーズな変換: 高解像度4K動画を2Kへ効率良くダウンサイジングする手引き</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/44or44k944kz44oz44gn44k544og44od44ox44oq44kk44k544og44od44ox6zplusz5aow5luy44gn55s75yop5l2c5oiq5rov/"><u>パソコンでステップバイステップ音声付き画像作成法</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726028578764-2024/"><u>フリーで強力なビデオ・音声コーデックパック 2024年選考</u></a></li>
 </ul></div>
 

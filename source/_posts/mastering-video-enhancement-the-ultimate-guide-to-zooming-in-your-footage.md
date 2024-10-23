@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Enhancement: The Ultimate Guide to Zooming In Your Footage"
-date: 2024-10-14T17:41:15.903Z
-updated: 2024-10-17T21:15:09.184Z
+date: 2024-10-22T17:03:16.643Z
+updated: 2024-10-23T16:12:40.487Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa1bce5d10af4b04e6cf949ee.jpg
@@ -214,6 +214,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -235,13 +248,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -273,6 +279,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -295,16 +308,10 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
@@ -317,13 +324,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -351,20 +351,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -392,6 +385,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -452,6 +452,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -460,6 +467,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -497,10 +511,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -540,13 +554,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -556,13 +563,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -607,17 +607,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-voice-over-techniques-creating-compelling-video-content/"><u>[New] Voice Over Techniques Creating Compelling Video Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[Updated] 2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-social-media-sensation-spotlights-for-2024/"><u>[Updated] Social Media Sensation Spotlights for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/convert-trp-files-to-mp4-streaming-no-cost-with-movavi-tool/"><u>Convert TRP Files to MP4 Streaming: No Cost with Movavi Tool</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/discover-the-finest-open-source-screencasters-for-seamless-recording-a-ranking-higher-than-movavi/"><u>Discover the Finest Open Source Screencasters for Seamless Recording - A Ranking Higher Than Movavi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-on-aeious-nys-portable-solar-generator-a-must-have-for-high-quality-inverter-energy-in-healthcare-settings/"><u>Expert Analysis on Aeious Ny's Portable Solar Generator: A Must-Have for High-Quality Inverter Energy in Healthcare Settings</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/gratis-swf-in-opgelichten-webm-format-onlinetoepassing-en-expertise-van-movavi/"><u>Gratis SWF in Opgelichten WebM-Format: Onlinetoepassing en Expertise Van Movavi</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/movavi-apiavi-and-vob/"><u>Movavi: ストリーミングAPIを使った無償的なAVI & VOBファイル変換サービス</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/quick-and-simple-methods-for-reducing-video-size-on-twitter-pc-online-tools-or-applications/"><u>Quick & Simple Methods for Reducing Video Size on Twitter: PC, Online Tools or Applications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-your-zoom-experience-for-different-industries-on-windows-11-for-2024/"><u>Tailoring Your Zoom Experience for Different Industries on Windows 11 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-stardom-a-beginners-blueprint/"><u>[New] 2024 Approved Instagram Stardom A Beginner's Blueprint</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-music-service-migration-keeping-playlists-intact/"><u>[Updated] In 2024, Music Service Migration Keeping Playlists Intact</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-iosandroid-leading-photo-writing-app-list-for-2024/"><u>[Updated] IOS/Android Leading Photo-Writing App List for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz-for-2024/"><u>[Updated] Navigating Through the Maze Creating Seamless Video Experienences in Pixiz for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-code-to-perfect-instagrams-every-time-for-2024/"><u>[Updated] Unlocking the Code to Perfect Instagrams Every Time for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/descubra-o-prime-altamente-eficiente-y-gratuita-para-transferencia-de-dados-samsung-aqui-esta/"><u>Descubra O Prime Altamente Eficiente Y Gratuita Para Transferência De Dados Samsung - Aqui Está!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/efficient-methods-for-printing-cfa-certification-ebooks/"><u>Efficient Methods for Printing CFA Certification eBooks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-conversion-transforming-epub-files-into-compatible-azw-format/"><u>Effortless Conversion: Transforming EPUB Files Into Compatible AZW Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-transferring-epub-files-to-your-amazon-kindle-easily/"><u>Effortless Guide: Transferring ePUB Files to Your Amazon Kindle Easily</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/explore-the-world-of-online-libraries-with-google-book-search/"><u>Explore the World of Online Libraries with Google Book Search</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-conversion-guide-transforming-adobe-acsm-files-into-pdf-format/"><u>Free Conversion Guide: Transforming Adobe ACSM Files Into PDF Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-guide-easily-transforming-your-epub-files-into-editable-pdfs/"><u>Free Guide: Easily Transforming Your ePub Files Into Editable PDFs</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-can-you-share-an-audible-book-with-someone-else/"><u>How Can You Share an Audible Book With Someone Else?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-convert-amazons-kindle-format-mobi-from-adobe-content-server-message-acsm-files/"><u>How to Convert Amazon's Kindle Format (MOBI) From Adobe Content Server Message (.ACSM) Files</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-transfer-your-library-copying-book-files-from-pc-to-kindle-device/"><u>How to Transfer Your Library: Copying Book Files From PC to Kindle Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-live-activities-on-iphone-ios-16/"><u>How to Use Live Activities on iPhone (iOS 16)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-20c-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 20C Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-swiftness-solving-slow-windows-excel-problems/"><u>Regain Swiftness: Solving Slow Windows-Excel Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-are-the-real-benefits-of-jailbreaking-gpt/"><u>What Are the Real Benefits of Jailbreaking GPT?</u></a></li>
 </ul></div>
 
