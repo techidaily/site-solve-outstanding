@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-10-21T16:53:41.415Z
-updated: 2024-10-23T16:42:51.840Z
+date: 2024-10-26T06:05:11.212Z
+updated: 2024-10-28T21:43:42.287Z
 tags:
   - product
   - solution
@@ -598,13 +598,6 @@ Forum
 
 ManyCam offers a variety of video sources that you can use in your broadcast. You can add a single video source or combine multiple video sources, depending on your workflow (see how to [add multiple video sources](https://tools.techidaily.com/manycam/products/)).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add an IP camera
 
 To get started, select **IP Cameras > Add new** from the list of ManyCam video sources that appears upon right-clicking on the Main Live Window.
@@ -629,7 +622,21 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What IP camera URL should I use?
 
@@ -651,13 +658,6 @@ Note
 
  Please note that ManyCam does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Set custom Buffering time for your IP camera stream
 
 Note 
@@ -673,13 +673,20 @@ The buffer for an IP camera video feed is the amount of video content, in second
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Troubleshooting
 
@@ -687,13 +694,6 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * If your IP camera is not loading, enable the “Use TCP Streams” setting:
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Updated on October 6, 2022 
 
@@ -703,13 +703,6 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Related Articles
 
 * [How to add a mobile device as a video source](https://tools.techidaily.com/manycam/products/)
@@ -718,6 +711,19 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a PDF file as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -743,24 +749,20 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-introducing-dimensional-text-with-photoshop-expertise/"><u>[New] Introducing Dimensional Text with Photoshop Expertise</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-no-cost-software-for-professional-capture-at-home-for-2024/"><u>[New] Top 10 No-Cost Software for Professional Capture at Home for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-impactful-youtube-channel-logo-tips-for-2024/"><u>[Updated] Crafting Impactful YouTube Channel Logo Tips for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-how-to-create-srt-subtitles-from-mkvmks-files-using-simple-cost-free-methods/"><u>1. How To Create SRT Subtitles From MKV/MKS Files Using Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cosmic-comforts-top-10-starry-night-accessories-for-sj4000/"><u>2024 Approved Cosmic Comforts Top 10 Starry Night Accessories for SJ4000</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726028349809-2024/"><u>2024年の予約動画、音楽ファイル対応無料エクステンダーが必要です</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/4316/"><u>効果的な手法で4:3フォーマットから16:</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>Craftsmanship at Fingertips Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-ultimate-guide-simple-steps-to-transform-flac-files-into-pcm-format/"><u>Free Ultimate Guide: Simple Steps to Transform FLAC Files Into PCM Format</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/freeze-time-like-never-before-on-the-newest-mi-phone-for-2024/"><u>Freeze Time Like Never Before on the Newest Mi Phone for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-dying-light-game-crash-issues-instantly/"><u>Resolve Your Dying Light Game Crash Issues Instantly</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-tips-seamless-wav-to-wma-file-transformation-using-windows-batch-scripts/"><u>Top Tips: Seamless WAV to WMA File Transformation Using Windows Batch Scripts</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/windowsmacdvd/"><u>Windows/MacでDVDのフォーマットと初期化手順</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726030509149-5/"><u>オンライン動画連結の専門家から振り返る、今最も人気な5つのウェブサイト!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/4k2k/"><u>スムーズな変換: 高解像度4K動画を2Kへ効率良くダウンサイジングする手引き</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/44or44k944kz44oz44gn44k544og44od44ox44oq44kk44k544og44od44ox6zplusz5aow5luy44gn55s75yop5l2c5oiq5rov/"><u>パソコンでステップバイステップ音声付き画像作成法</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726028578764-2024/"><u>フリーで強力なビデオ・音声コーデックパック 2024年選考</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cultivating-commerce-on-instagram-partnering-with-profitable-brands/"><u>[New] Cultivating Commerce on Instagram Partnering with Profitable Brands</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-transitions-in-audition-fade-in-basics/"><u>[New] In 2024, Mastering Transitions in Audition Fade-In Basics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-30-must-play-sandbox-adventures/"><u>[New] In 2024, Top 30 Must-Play Sandbox Adventures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-twist-techniques-crafting-compelling-content-with-camera-angles/"><u>[New] Insta Twist Techniques Crafting Compelling Content with Camera Angles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swiftly-delete-autoplayed-podcast-suggestions-on-spotify/"><u>[Updated] Swiftly Delete Autoplayed Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratisk-videkonvertereapp-movavi-profesjonale-og-komfortabelt-til-brug-i-danmark/"><u>Gratisk Vidékonvertereapp: Movavi - Profesjønale Og Komfortabelt Til Brug I Danmark</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/instalacion-sencilla-de-obs-studio-en-sistemas-windows-macos-y-linux-descarga-directa/"><u>Instalación Sencilla De OBS Studio en Sistemas Windows, MacOS Y Linux - Descarga Directa</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/migrazione-videogestori-flv-a-mp4-su-internet-gratuitamente-utilizzando-il-servizio-convertitore-di-movavi/"><u>Migrazione Videogestori FLV a MP4 Su Internet Gratuitamente Utilizzando Il Servizio Convertitore Di Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-world-of-video-editing-for-youtube-creators/"><u>Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unlocking-free-audacity-features-for-efficient-audio-recording-for-2024/"><u>New Unlocking FREE Audacity Features for Efficient Audio Recording for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ranking-dos-melhores-editores-de-montagem-de-videos-em-2024-visao-dentro-da-industria-pela-movavi/"><u>Ranking Dos Melhores Editores De Montagem De Vídeos Em 2024 - Visão Dentro Da Indústria Pela Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transmite-video-in-forma-mp3-online-gratuita-rapida-si-usoara-conversia-video/"><u>Transmite Video În Formă MP3 Online Gratuita Rapidă Și Ușoară - Conversia Video</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/wmvogg-wmv-ogg/"><u>모바일화 가능한 WMV/OGG 파일을 원시 형식으로 전환하기: 온라인 용 WMV OGG 변환기</u></a></li>
 </ul></div>
 
