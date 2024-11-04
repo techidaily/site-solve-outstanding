@@ -1,7 +1,7 @@
 ---
 title: Inside OBS Studio's Latest Version (202
-date: 2024-10-28T09:51:03.907Z
-updated: 2024-10-29T06:31:44.305Z
+date: 2024-10-30T03:37:25.121Z
+updated: 2024-11-03T19:45:20.166Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc143e2f86bb990ae121e306783.png
@@ -152,29 +152,22 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -242,6 +235,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -249,13 +249,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -299,13 +292,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -314,6 +300,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -325,13 +318,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -346,10 +332,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
@@ -372,6 +358,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -379,13 +372,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -400,6 +386,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -505,10 +498,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -566,6 +565,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -601,24 +607,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive/"><u>[New] In 2024, Capturing Discord's Magic 3 Steps for Ensuring Your Live Stream Stays Alive</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-revenue-driven-approach-to-youtube-content-creation-for-2024/"><u>[Updated] Crafting a Revenue-Driven Approach to YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-creating-memorable-beginnings-imovie-tips-for-youtube-videos-for-2024/"><u>[Updated] Creating Memorable Beginnings IMovie Tips for YouTube Videos for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/idevice-mp4-mov-iphone-ipad-apple-tv/"><u>高效 iDevice 支持影片转换工具——轻松将任意视频改编为 MP4 / MOV，便于在 iPhone / iPad / Apple TV 上播放</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/als-ice-bucket-challenge-free-downloadable-copy-for-offline-viewing/"><u>ALS Ice Bucket Challenge - Free Downloadable Copy for Offline Viewing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/apple-and/"><u>Apple製品について学ぶ - 最新レビュー&使い方のヒント、人気アプリ、ゲーム、テクノロジーニュース</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/bypassing-itunes-a-complete-guide-to-linking-your-iphone-and-mac-together/"><u>Bypassing iTunes: A Complete Guide to Linking Your iPhone and Mac Together</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-your-tech-smart-picks-and-reviews-at-toms-hardware-forum/"><u>Choosing Your Tech: Smart Picks & Reviews at Tom's Hardware Forum</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/einfache-methoden-zum-konvertieren-von-ios-11-heic-zu-jpeg-mit-dem-heic-konverter/"><u>Einfache Methoden Zum Konvertieren Von iOS 11 HEIC Zu JPEG Mit Dem HEIC-Konverter</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/get-your-free-licence-update-official-buy-the-complete-set-of-macxdvd-utilities/"><u>Get Your Free Licence Update: [OFFICIAL] Buy the Complete Set of macXDVD Utilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-prime-visual-backdrops-for-efficient-collaboration/"><u>In 2024, Prime Visual Backdrops for Efficient Collaboration</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/macx-video-converter-pro-professioneller-hd-and-4k-konvertierer-und-download-tool-fur-mac-os/"><u>MacX Video Converter Pro: Professioneller HD & 4K Konvertierer Und Download-Tool Für Mac OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-leaps-ahead-of-apples-vision-pro-with-preemptive-ai-upgrade-enable-now/"><u>Meta Quest 3 Leaps Ahead of Apple's Vision Pro with Preemptive AI Upgrade - Enable Now</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transfer-for-2024/"><u>Transfer for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ultimate-3d-video-downloading-tutorial-how-to-get-high-quality-hd-content-from-youtube-and-vimeo-without-costs/"><u>Ultimate 3D Video Downloading Tutorial: How to Get High-Quality HD Content From YouTube & Vimeo Without Costs</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/unlimited-format-compatibility-with-handbrake-expanding-your-video-conversion-possibilities/"><u>Unlimited Format Compatibility with HandBrake: Expanding Your Video Conversion Possibilities</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-friendly-real-estate-modification-panel-simplify-your-property-changes/"><u>User-Friendly Real Estate Modification Panel: Simplify Your Property Changes</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-a2plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi A2+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-video-transformations-in-vlc-from-mp4-variety/"><u>[New] Navigating Video Transformations in VLC From MP4 Variety</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-15plus-destinations-for-cost-free-imagery-harvesting/"><u>[Updated] 2024 Approved 15+ Destinations for Cost-Free Imagery Harvesting</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-narratives-distributed-among-8-movie-segments/"><u>[Updated] Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-uploading-youtube-videos-on-fb-for-2024/"><u>[Updated] Mastering the Art of Uploading YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-real-time-capture-from-obs-to-instagram/"><u>[Updated] Real-Time Capture From OBS to Instagram</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/vobmp45/"><u>「簡単！無料でVOBファイルを安全にMP4形式に直接変換できるウェブサイト上位5つ」</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>In 2024, Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transforming-webm-videos-into-mp4-format-on-your-pc/"><u>Step-by-Step Guide: Transforming WebM Videos Into MP4 Format on Your PC</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-on-transforming-dvds-into-stunning-hd-content/"><u>Step-by-Step Tutorial on Transforming DVDs Into Stunning HD Content</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-smoothly-transforming-vob-into-webm-videos/"><u>Step-by-Step Tutorial: Smoothly Transforming VOB Into WebM Videos</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transforming-mp4-videos-into-h264-format-discover-three-cost-free-techniques/"><u>Transforming MP4 Videos Into H.264 Format: Discover Three Cost-Free Techniques</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/windows-10-photos-app/"><u>Windows 10 Photos App - 動画編集後にエクスポート失敗時の解決策</u></a></li>
 </ul></div>
 

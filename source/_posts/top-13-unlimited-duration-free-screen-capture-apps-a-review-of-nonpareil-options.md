@@ -1,7 +1,7 @@
 ---
 title: "Top 13 Unlimited-Duration Free Screen Capture Apps: A Review of Nonpareil Options"
-date: 2024-10-27T05:31:45.320Z
-updated: 2024-10-29T00:33:29.149Z
+date: 2024-10-29T23:35:10.007Z
+updated: 2024-11-03T17:01:08.310Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c09f36129dabffcc95362a115.jpg
@@ -176,24 +176,18 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -227,13 +221,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -242,18 +229,18 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -262,6 +249,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -371,13 +365,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -396,6 +383,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -408,10 +402,16 @@ Pour overclocker :
 4. Jouez à un jeu et vérifiez les performances.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
@@ -436,13 +436,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -454,6 +447,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -526,13 +526,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -542,13 +535,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -564,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -571,6 +564,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,22 +607,15 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-seamless-transitions-with-picsarts-facial-motion-blur/"><u>[New] 2024 Approved Seamless Transitions with Picsart's Facial Motion Blur</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726224458330-mov-mjpeg-movavi/"><u>「直接在網路上免费 MOV 到 MJPEG 转换 - 使用 Movavi 视频编辑器」</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-top-10-librerias-de-captura-de-escrena-gratuita-para-windows-10/"><u>1. Top 10 Librerías De Captura De Escrena Gratuita Para Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/como-convertir-archivos-asf-a-formato-mp4-sin-coste-con-el-servicio-de-conversion-online-de-movavi/"><u>Cómo Convertir Archivos ASF a Formato MP4 Sin Coste Con El Servicio De Conversión Online De Movavi</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/conversion-rapide-et-gratuite-transformer-des-images-bmp-en-gif-sur-movavi/"><u>Conversion Rapide Et Gratuite: Transformer Des Images BMP en GIF Sur Movavi</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/doporucovaci-videovy-program-jako-premium-movavi-efekty-s-doplnek/"><u>Doporučovací Vídeový Program Jako - Premium Movavi Efekty S Doplněk</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/eliminate-imposter-face-effects-in-facebook-discussion-for-2024/"><u>Eliminate Imposter Face Effects in Facebook Discussion for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-a-gpu-enhance-your-computers-performance/"><u>How Does a GPU Enhance Your Computer's Performance?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-zte-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from ZTE FRP Bypass</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457748139-iphone-cant-backup-to-icloud-discover-these-effective-fixes/"><u>IPhone Can’t Backup to iCloud? Discover These Effective Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-release-of-hp-deskjet-ink-advantage-3755-printer-driver-software-for-compatible-pcs-windows-1187/"><u>Latest Release of HP Deskjet Ink Advantage 3755 Printer Driver Software for Compatible PCs - Windows 11/8/7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-dpc-timeout-errors-in-windows-11-effective-troubleshooting-techniques/"><u>Overcoming DPC Timeout Errors in Windows 11: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/son-degeri-dusunce-unlu-usta-filmleri-anlatan-18-windows-1087-ile-kapalidir/"><u>Son Değeri Düşünce – Ünlü Usta Filmleri Anlatan 18 Windows 10,8,7 Ile Kapalıdır</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-5-sea-accessories-enhancing-gopro-video/"><u>Top 5 Sea Accessories Enhancing Gopro Video</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726224967206-webm-movavi/"><u>WebM影片簡單線上免收費改編工具 - Movavi</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/webmflv/"><u>오늘날의 가장 현대적인 WEBM/FLV 변환 - 무세약스 원격 자동화</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/vr-dvd/"><u>【ハイクォリティ】パソコンで迅速にデータ/ビデオ・VR DVDをコピーするための完全ガイド</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/best-top-5-substitutes-for-anydvd-hd-a-comprehensive-guide-to-dvd-conversion/"><u>Best Top 5 Substitutes for AnyDVD HD: A Comprehensive Guide to DVD Conversion</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/cracking-the-code-resolving-the-windows/"><u>Cracking the Code: Resolving the Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effective-solutions-resolving-the-issue-of-your-ssd-not-being-detected-by-windows-11/"><u>Effective Solutions: Resolving the Issue of Your SSD Not Being Detected by Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-mechanism-for-windows-error-x80780119-images/"><u>Fix Mechanism for Windows Error X80780119 Images</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>New In 2024, Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimal-communication-with-9-advantages-in-chatgptplus/"><u>Optimal Communication with 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-apples-freeze-problem-tips-and-tricks-to-revive-your-iphone/"><u>Solve Apple's Freeze Problem: Tips and Tricks to Revive Your iPhone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-2021-instructions-for-transferring-your-dvd-files-to-google-drive/"><u>Ultimate 2021 Instructions for Transferring Your DVD Files to Google Drive</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/update-discover-the-best-techniques-for-installing-av1-codec-on-your-windows-11-system/"><u>Update: Discover the Best Techniques for Installing AV1 Codec on Your Windows 11 System</u></a></li>
 </ul></div>
 

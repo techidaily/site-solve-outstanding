@@ -1,7 +1,7 @@
 ---
 title: Instalación Sencilla De OBS Studio en Sistemas Windows, MacOS Y Linux - Descarga Directa
-date: 2024-10-27T02:44:10.948Z
-updated: 2024-10-28T18:51:45.676Z
+date: 2024-10-30T23:42:59.543Z
+updated: 2024-11-03T21:11:16.294Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2bf8e16eab36445ca53259ede.jpg
@@ -184,13 +184,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -218,28 +211,15 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -248,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -267,6 +254,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -282,10 +276,10 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
@@ -299,13 +293,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -339,6 +326,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -359,13 +353,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -381,13 +368,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -407,6 +387,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -416,6 +403,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -514,13 +508,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -563,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -607,18 +601,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube-for-2024/"><u>[New] Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-game-enhancement-select-top-hdds-for-xbox/"><u>[New] Game Enhancement Select Top HDDs for Xbox</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-stealthy-styles-easy-color-corrections-techniques/"><u>[New] Stealthy Styles Easy Color Corrections Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-your-periscope-stream-swifter/"><u>[Updated] How to Make Your Periscope Stream Swifter</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-nocturnal-tales-on-the-silver-screen-for-2024/"><u>[Updated] Nocturnal Tales on the Silver Screen for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-unifying-your-pcs-with-files-through-aoemi/"><u>Bridging the Gap: Unifying Your PCs With Files Through AOEMi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-analysis-breaking-down-the-google-podcast-app/"><u>Complete Analysis Breaking Down the Google Podcast App</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comprehensive-tutorial-on-transforming-flv-files-to-3gp-for-enhanced-mobile-viewing/"><u>Comprehensive Tutorial on Transforming FLV Files to 3GP for Enhanced Mobile Viewing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/craving-explorerdl/"><u>Craving ExplorerのDLに失敗する理由と解消方法</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/easy-tips-and-tricks-how-to-change-your-mka-files-into-mp3s-efficiently/"><u>Easy Tips and Tricks: How To Change Your MKA Files Into MP3s Efficiently</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effortless-desktop-and-online-methods-for-transforming-your-mod-videos-into-mov/"><u>Effortless Desktop and Online Methods for Transforming Your MOD Videos Into MOV</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-for-transforming-caf-audio-to-mp3-on-pcs-mac-computers-and-via-online-tools/"><u>Effortless Guide for Transforming CAF Audio to MP3 on PCs, Mac Computers & via Online Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/high-quality-speech-to-text-solutions-for-2024/"><u>High-Quality Speech-to-Text Solutions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-screenflow-unleashed-a-comprehensive-macos-review/"><u>[New] In 2024, ScreenFlow Unleashed A Comprehensive macOS Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style/"><u>[New] Precision in Practice Tailoring PS4 Recordings to Suit Your Style</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-next-great-story-selecting-free-android-editing-tools/"><u>2024 Approved Your Next Great Story Selecting Free Android Editing Tools</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1728489644500-vmware/"><u>物理計算機であるいはVMwareプラットフォームを使用した迅速なホットクローニングテクニック</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/key-principles-to-deliver-dynamic-ppt-in-online-meets-for-2024/"><u>Key Principles to Deliver Dynamic PPT in Online Meets for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/log-every-victory-on-samsungs-mobile-arena/"><u>Log Every Victory on Samsung's Mobile Arena</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/quickly-reverse-a-system-restore-in-windows-1110-simple-methods-explained/"><u>Quickly Reverse a System Restore in Windows 11/10: Simple Methods Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-solving-the-hp-laserjet-p2035-driver-woes-in-windows-systems/"><u>Troubleshooting and Solving the HP LaserJet P2035 Driver Woes in Windows Systems</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/tutorial-definir-manuellement-la-rotation-daffichage-sur-un-ordinateur-avec-windows-11/"><u>Tutorial : Définir Manuellement La Rotation D'Affichage Sur Un Ordinateur Avec Windows 11</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/wiederholung-verlorener-dateien-von-unsynchronisiertem-onedrive-mit-myrecovery/"><u>Wiederholung Verlorener Dateien Von Unsynchronisiertem OneDrive Mit MyRecovery</u></a></li>
 </ul></div>
 
