@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-11-03T05:57:26.492Z
-updated: 2024-11-04T02:58:34.099Z
+date: 2024-11-06T05:56:05.437Z
+updated: 2024-11-12T21:54:52.498Z
 tags:
   - product
   - solution
@@ -622,7 +622,21 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What IP camera URL should I use?
 
@@ -644,19 +658,6 @@ Note
 
  Please note that ManyCam does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly. 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Set custom Buffering time for your IP camera stream
 
 Note 
@@ -671,20 +672,13 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Troubleshooting
@@ -703,10 +697,10 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Related Articles
@@ -719,10 +713,10 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Contents
@@ -749,20 +743,20 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-highlighting-the-leading-10-shadowy-story-viewers-for-2024/"><u>[New] Highlighting the Leading 10 Shadowy Story Viewers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>[New] In 2024, Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-snapshotwiz-10-pro-windows-screen-master/"><u>[Updated] In 2024, SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-innovative-audio-enhancements-for-youtube-creators/"><u>[Updated] Innovative Audio Enhancements for YouTube Creators</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-hd-mp4-download-russia-vs-croatia-the-thrilling-2018-fifa-world-cup-finale/"><u>Free HD MP4 Download: Russia vs Croatia - The Thrilling 2018 FIFA World Cup Finale</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/is-it-possible-to-experience-true-4k-graphics-on-the-new-ps5-platform/"><u>Is It Possible To Experience True 4K Graphics On The New PS5 Platform?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mophie-powerstation-ac-analysis-high-price-meets-handy-charging-solution/"><u>Mophie Powerstation AC Analysis: High Price Meets Handy Charging Solution</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/resolved-troubleshooting-connectivity-iphone-11-unrecognized-by-windows-10/"><u>Resolved: Troubleshooting Connectivity - iPhone 11 Unrecognized by Windows 10</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/usuario-eliminado-en-win1111-tres-metodos-efectivos-para-recuperacion-de-perfiles-guia-completa/"><u>Usuario Eliminado en Win11/11: Tres Métodos Efectivos Para Recuperación De Perfiles - Guía Completa</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/wie-kann-man-mit-plex-videos-im-av1-format-konsumieren/"><u>Wie Kann Man Mit Plex Videos Im AV1 Format Konsumieren?</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/winx-dvd-ripper-gold-descargador-de-video-sin-restricciones-para-discos-opticos-con-mayor-velocidad-y-funciones-avanzadas-en-windows-10/"><u>WinX DVD Ripper Gold: Descargador De Video Sin Restricciones Para Discos Ópticos, Con Mayor Velocidad Y Funciones Avanzadas en Windows 10</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/winx-dvd-ripper-platino-el-ascenso-mas-veloz-al-conversion-de-dvds-a-archivos-digitales-en-windows-10/"><u>WinX DVD Ripper Platino: El Ascenso Más Veloz Al Conversion De DVDs a Archivos Digitales en Windows 10</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/winx-mediatrans-professioneller-dateiubertragungslosung-fur-ihr-iphone-und-ipad-perfekt-zum-exportieren-von-bildern-musik-und-filmen-zwischen-mac-und-window155/"><u>WinX MediaTrans™: Professioneller Dateiübertragungslösung Für Ihr iPhone Und iPad – Perfekt Zum Exportieren Von Bildern, Musik Und Filmen Zwischen Mac Und Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-ultimate-guide-to-the-superior-flat-screen-dusters-for-tvs/"><u>ZDNET's Ultimate Guide to the Superior Flat Screen Dusters for TVs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-action-camera-accessories-buying-guide/"><u>[New] Action Camera Accessories Buying Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-pro-gear-for-documenting-excursions/"><u>[New] Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-sound-of-serenity-windowsmac-adjustments/"><u>[New] The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-seamless-conversion-transforming-mod-files-into-high-quality-mp4s-without-losing-a-beat/"><u>1. Seamless Conversion: Transforming MOD Files Into High-Quality MP4s Without Losing a Beat</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alienware-aurora-r7-evaluation-high-performance-with-considerable-cost/"><u>Alienware Aurora R7 Evaluation: High Performance with Considerable Cost</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-diy-methods-for-transforming-vhs-home-videos-into-dvd-format-with-your-laptop-or-desktop-pc/"><u>Easy DIY Methods for Transforming VHS Home Videos Into DVD Format with Your Laptop or Desktop PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-troubleshooting-techniques-making-tozo-t6-function-properly-in-windows-11/"><u>Essential Troubleshooting Techniques: Making Tozo T6 Function Properly in Windows 11</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-use-a-dvd-cprm-crack-tool-for-legal-viewing-of-secure-discs-on-computers/"><u>How to Use a DVD CPRM Crack Tool for Legal Viewing of Secure Discs on Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-13-mini-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 13 mini? Fixed | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-14-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi 14 FRP Without Computer</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/meilleurs-outils-dencoding-mp4-avril-2023-techniques-efficaces-pour-traiter-des-videos/"><u>Meilleurs Outils D'Encoding MP4 Avril 2023: Techniques Efficaces Pour Traiter Des Vidéos</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/passos-facilissimos-converta-seus-dvds-em-formatos-digitais-com-os-metodos-mais-eficientes-guia-2023/"><u>Passos Facilíssimos: Converta Seus DVDs Em Formatos Digitais Com Os Métodos Mais Eficientes [Guia 2023]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-installation-of-microsoft-copilot-for-macos-users/"><u>Step-by-Step Installation of Microsoft Copilot for macOS Users</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-8-methods-for-circumventing-drm-on-dvds-including-5-complimentary-solutions/"><u>Top 8 Methods for Circumventing DRM on DVDs - Including 5 Complimentary Solutions</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/tutorial-pour-transformer-des-dvd-en-fichiers-video-mp4-gratuits-sur-windows-et-macos-via-winxdvd/"><u>Tutorial Pour Transformer Des DVD en Fichiers Vidéo MP4 Gratuits Sur Windows Et macOS via WinXDVD</u></a></li>
 </ul></div>
 
