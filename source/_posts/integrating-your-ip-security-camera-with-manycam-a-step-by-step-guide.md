@@ -1,7 +1,7 @@
 ---
 title: "Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide"
-date: 2024-11-07T22:34:24.492Z
-updated: 2024-11-13T22:41:18.851Z
+date: 2024-11-29T16:24:05.896Z
+updated: 2024-12-01T19:08:01.528Z
 tags:
   - product
   - solution
@@ -608,22 +608,12 @@ To add a new camera to the list, click the **Add IP Camera** button in the IP Ca
 
 #### ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-new.png)Automatically detect and add IP camera within your local network
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If supported by your IP camera, ManyCam will be able to find it automatically. ManyCam can find IP cameras within your local network only. To proceed, click on the chain icon as shown in the image below.
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note 
@@ -636,14 +626,11 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_4.png)
 
-The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
 
 ### What IP camera URL should I use?
 
@@ -665,13 +652,6 @@ Note
 
  Please note that ManyCam does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Set custom Buffering time for your IP camera stream
 
 Note 
@@ -686,6 +666,10 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
 ### Troubleshooting
@@ -695,14 +679,11 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_6.png)
 
- Updated on October 6, 2022 
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Updated on October 6, 2022 
 
 ### 
 
@@ -718,6 +699,10 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a PDF file as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -743,19 +728,19 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-firefox-video-capture-utilities-for-2024/"><u>[Updated] Firefox Video Capture Utilities for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[Updated] In 2024, Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-obs-live-video-to-insta-platform/"><u>[Updated] OBS Live Video to Insta Platform</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/avidemux/"><u>Avidemuxを使った簡単な動画オーディオレベル調整手順</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/best-video-codecs-for-efficient-upload-storage-and-viewing-on-google-drive-platforms/"><u>Best Video Codecs for Efficient Upload, Storage, and Viewing on Google Drive Platforms</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/easy-beginners-guide-to-incorporating-captions-into-your-premiere-projects/"><u>Easy Beginners' Guide to Incorporating Captions Into Your Premiere Projects</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/easy-instructional-video-on-converting-avi-videos-to-mp4-using-vlc-software/"><u>Easy Instructional Video on Converting AVI Videos to MP4 Using VLC Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/exclusive-wonderfox-free-contest-convert-your-dvds-on-iphone-6-win-prizes-for-apple-and-samsung-enthusiasts/"><u>Exclusive WonderFox Free Contest: Convert Your DVDs on iPhone 6 - Win Prizes for Apple & Samsung Enthusiasts!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-red-magic-8s-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia Red Magic 8S Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-v29-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo V29 Pro Phones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ified-design-guide-add-your-own-style-to-your-video-shorts/"><u>Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-verdict-on-the-gaomon-pd1n560-is-it-the-perfect-pen-display-for-your-creative-ventures/"><u>The Definitive Verdict on the Gaomon PD1n560: Is It the Perfect Pen Display for Your Creative Ventures?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-strategy-with-these-20-marketing-terms/"><u>Transform Your Strategy with These 20 Marketing Terms</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/44ov44oq44od44kv44op44o844gl44kj44gu5yuv55s744oa44km44oz44ot44o844oj77ya44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj/"><u>フリックラーからの動画ダウンロード：ステップバイステップガイド</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-action-recorder-with-facing-mode/"><u>[Updated] Ultimate Action Recorder with Facing Mode</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-how-to-use-aomei-backupper-comprehensive-step-by-step-guide-and-video-walkthrough/"><u>1. How to Use AOMEI BackUpper: Comprehensive Step-by-Step Guide & Video Walkthrough</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>2024 Approved Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-xr-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone XR? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/conversion-gratuita-de-archivos-avi-a-mp4-en-linea-con-eficiencia-y-rapidez-usando-el-servicio-de-movavi/"><u>Conversión Gratuita De Archivos AVI a MP4 en Línea Con Eficiencia Y Rapidez, Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-and-fast-mp4-to-flv-converter-convert-videos-online-instantly/"><u>Free and Fast MP4 to FLV Converter - Convert Videos Online Instantly!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-converter-change-flac-files-to-mpg-format-with-movavis-web-tool/"><u>Free Online Converter: Change Flac Files to Mpg Format with Movavi's Web Tool</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/gratis-online-omzwerker-von-mp4-naar-quicktime-mov-formaten-geavanceerd-video-konverteren/"><u>Gratis Online Omzwerker Von MP4 Naar QuickTime MOV Formaten - Geavanceerd Video Konverteren</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to add a digital signature block to JPG</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36i Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-disabled-mute-button/"><u>Steps to Rectify Disabled Mute Button</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-utrolige-gjenstander-for-optimert-online-og-offisielt-video-voksmenhet/"><u>Top 5 Utrolige Gjenstander for Optimert Online Og Offisielt Video-Voksmenhet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-mobile-cloud-space-hacks-for-android/"><u>Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/vrij-van-kosten-converting-vob-in-wma-formats-helemaal-online-movieconvix/"><u>Vrij Van Kosten Converting VOB in WMA Formats Helemaal Online - MovieConvix</u></a></li>
 </ul></div>
 

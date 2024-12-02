@@ -1,7 +1,7 @@
 ---
 title: Instalación Sencilla De OBS Studio en Sistemas Windows, MacOS Y Linux - Descarga Directa
-date: 2024-11-17T02:27:12.233Z
-updated: 2024-11-23T00:14:58.706Z
+date: 2024-11-28T01:09:37.062Z
+updated: 2024-12-01T21:10:50.906Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2bf8e16eab36445ca53259ede.jpg
@@ -28,10 +28,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -156,10 +152,6 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -219,7 +211,7 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -282,6 +274,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -298,10 +294,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -321,6 +313,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -350,13 +346,13 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -382,6 +378,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -392,10 +392,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -426,10 +422,14 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -447,10 +447,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -521,7 +517,7 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -529,7 +525,7 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
@@ -549,6 +545,10 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,15 +585,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>[New] In 2024, Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-multi-background-streaming-the-green-screen-way/"><u>[Updated] Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/cafogg/"><u>CAF至OGG自由下載 - 移順無條件移動者</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/como-descobrir-o-truque-para-playback-de-videos-mp4-em-sistemas-operacionais-windows-1087/"><u>Como Descobrir O Truque Para Playback De Vídeos MP4 Em Sistemas Operacionais Windows (10/8/7)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-gaming-essentials-fixing-crashes-in-armored-core-6-for-an-uninterrupted-experience/"><u>PC Gaming Essentials: Fixing Crashes in Armored Core 6 for an Uninterrupted Experience</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ri-codifica-ogg-in-formato-mp3-senza-costi-con-movavi/"><u>Ri-Codifica OGG in Formato MP3 Senza Costi Con Movavi!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-multiplayer-sessions-with-xbox-zoom-support-for-2024/"><u>Seamless Multiplayer Sessions with Xbox Zoom Support for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/students-gateway-to-history-the-top-10-youtube-archives-for-2024/"><u>Students' Gateway to History The Top 10 Youtube Archives for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/transformacion-gratuita-de-archivo-w63-a-formatos-ampliados-solucion-en-linea/"><u>Transformación Gratuita De Archivo W63 a Formatos Ampliados - Solución en Línea</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-privacy-and-security-with-apple-vision-pros-vpn-setup-explained-digital-guardian/"><u>Unlocking Privacy & Security with Apple Vision Pro's VPN Setup Explained | Digital Guardian</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevate-your-visuals-comprehensive-guide-to-video-enhancer-22-for-2024/"><u>[New] Elevate Your Visuals Comprehensive Guide to Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[New] Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-proiphone-photo-techniques-for-beginners/"><u>[New] In 2024, Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[New] Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-shorts-thumbnail-dilemnas-and-quick-fixes-for-2024/"><u>[Updated] YouTube's Shorts Thumbnail Dilemnas & Quick Fixes for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/aomei-backupper-windows-server/"><u>AOMEI Backupper: ベストなバックアップ解決策をWindows Serverに！</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/apple-unveils-the-latest-introducing-ios-8-the-next-generation-operating-system/"><u>Apple Unveils the Latest: Introducing iOS 8 – The Next Generation Operating System</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/break-down-the-pros-and-cons-of-travel-insurance-offering-a-perspective-tailored-for-budget-travelers/"><u>Break Down the Pros and Cons of Travel Insurance, Offering a Perspective Tailored for Budget Travelers.</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comprehensive-tutorial-on-transforming-flv-files-to-3gp-for-enhanced-mobile-viewing/"><u>Comprehensive Tutorial on Transforming FLV Files to 3GP for Enhanced Mobile Viewing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/craving-explorerdl/"><u>Craving ExplorerのDLに失敗する理由と解消方法</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-tips-and-tricks-how-to-change-your-mka-files-into-mp3s-efficiently/"><u>Easy Tips and Tricks: How To Change Your MKA Files Into MP3s Efficiently</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-desktop-and-online-methods-for-transforming-your-mod-videos-into-mov/"><u>Effortless Desktop and Online Methods for Transforming Your MOD Videos Into MOV</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-for-transforming-caf-audio-to-mp3-on-pcs-mac-computers-and-via-online-tools/"><u>Effortless Guide for Transforming CAF Audio to MP3 on PCs, Mac Computers & via Online Tools</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-methods-combining-wav-audio-tracks-seamlessly/"><u>Effortless Methods: Combining WAV Audio Tracks Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-acer-pcs-wi-fi-up-and-running-free-driver-downloads-now/"><u>Get Your Acer PC's Wi-Fi Up and Running: FREE Driver Downloads Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A1x 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-disk-repair-how-to-utilize-the-power-of-chkdsk-command-on-windows-operating-systems/"><u>Navigating Disk Repair: How to Utilize the Power of Chkdsk Command on Windows Operating Systems</u></a></li>
 </ul></div>
 
