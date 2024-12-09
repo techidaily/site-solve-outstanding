@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Running Manual Scans on Windows Defender - Tips From YL Computing"
-date: 2024-11-25T16:18:46.665Z
-updated: 2024-12-02T00:32:10.710Z
+date: 2024-12-04T16:55:42.115Z
+updated: 2024-12-09T17:02:10.355Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mr-beasts-financial-portrait/"><u>[New] 2024 Approved Mr. Beast’s Financial Portrait</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-auditory-playscripts-collection/"><u>[New] Ultimate Auditory Playscripts Collection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-fcps-premier-selection-the-top-10-editing-plugins-for-2024/"><u>[Updated] FCP's Premier Selection The Top 10 Editing Plugins for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-cinematic-dying-in-pro/"><u>[Updated] The Art of Cinematic Dying in Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-no-data-high-quality-dvd-extraction-techniques/"><u>1. Ultimate Guide: No-Data, High-Quality DVD Extraction Techniques</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comparacion-detallada-de-winx-dvd-ripper-y-handbrake-resena-exhaustiva-y-experiencia-usual-del-editor-libre-de-dvd-numero-uno/"><u>Comparación Detallada De WinX DVD Ripper Y Handbrake: Reseña Exhaustiva Y Experiencia Usual Del Editor Libre De DVD Número Uno</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/les-dix-astuces-magistrales-pour-resoudre-le-defi-de-lechec-de-lecture-du-dvd-guide-complet/"><u>Les Dix Astuces Magistrales Pour Résoudre Le Défi De L'Échec De Lecture Du DVD - Guide Complet!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/maintaining-high-quality-conversion-transforming-mpg-to-mp4-seamlessly/"><u>Maintaining High-Quality Conversion: Transforming MPG to MP4 Seamlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010247140-mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now</u></a></li>
-<li><a href="https://win11.techidaily.com/1719249883200-revive-keys-in-crisis-arrows-rescued/"><u>Revive Keys in Crisis: Arrows Rescued!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/rippen-und-speichern-von-dvd-sammlungen-auf-smartphones-oder-tablets-wie-man-mit-apps-schnappschusse-macht/"><u>Rippen Und Speichern Von DVD-Sammlungen Auf Smartphones Oder Tablets – Wie Man Mit Apps Schnappschüsse Macht</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/the-ultimate-winx-dvd-handbook-your-complete-tutorial-on-software-utilization-and-features/"><u>The Ultimate WinX DVD Handbook: Your Complete Tutorial on Software Utilization and Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-webcam-mastery-choosing-the-best-for-your-podcast/"><u>2024 Approved Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-itel-p55-5g-frp-bypass-by-drfone-android/"><u>About Itel P55 5G FRP Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-a05-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Galaxy A05 support MOV videos ?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-adjust-user-profiles-using-control-panel-options-a-guide-by-yl-computing/"><u>How to Adjust User Profiles Using Control Panel Options: A Guide by YL Computing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-fix-a-laptop-that-wont-boot-essential-steps-and-troubleshooting-tips-powered-by-yl-computing/"><u>How to Fix a Laptop That Won't Boot: Essential Steps and Troubleshooting Tips - Powered by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>In 2024, Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-3frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 3FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/seoul-stands-against-ocean-pollution-by-fukushima-water-korean-sea-tests-show-minimal-radiation-risk-complying-with-who-standards/"><u>Seoul Stands Against Ocean Pollution by Fukushima Water: Korean Sea Tests Show Minimal Radiation Risk, Complying with WHO Standards</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/solving-printer-problems-efficiently-uncover-the-reasons-behind-incorrect-printing-with-expert-advice-from-yl-software/"><u>Solving Printer Problems Efficiently: Uncover the Reasons Behind Incorrect Printing with Expert Advice From YL Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-solutions-for-fixing-defective-ram-units-tips-by-yl-computing-experts/"><u>Step-by-Step Solutions for Fixing Defective RAM Units - Tips by YL Computing Experts</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-resolving-windows-driver-errors-with-yl-software/"><u>Step-by-Step Tutorial: Resolving Windows Driver Errors with YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-the-future-of-communication-the-quintessential-5-chatgpt-instructions/"><u>Tailoring the Future of Communication: The Quintessential 5 ChatGPT Instructions</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-why-is-my-scanner-refusing-to-take-sheets-tips-by-yl-software-solutions/"><u>Troubleshooting: Why Is My Scanner Refusing to Take Sheets? - Tips by YL Software Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveil-the-best-of-history-top-10-youtube-channel-list/"><u>Unveil the Best of History Top 10 YouTube Channel List</u></a></li>
 </ul></div>
 

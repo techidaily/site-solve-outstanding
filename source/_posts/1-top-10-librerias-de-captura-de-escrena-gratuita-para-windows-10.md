@@ -1,7 +1,7 @@
 ---
 title: 1. Top 10 Librerías De Captura De Escrena Gratuita Para Windows 10
-date: 2024-11-28T20:17:23.379Z
-updated: 2024-12-02T01:43:45.384Z
+date: 2024-12-07T16:26:38.116Z
+updated: 2024-12-09T16:45:17.561Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b864cfccf1cdec1e982bafc3d.jpg
@@ -56,7 +56,7 @@ Movavi Photo Editor
 [![](https://cdn.staticont.net/pages/0023/55/a1d7ead2c461be068f9b2b2ab55c0f6d943eb66d.webp)](https://tools.techidaily.com/movavi/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Alex Weng](https://tools.techidaily.com/movavi/products/)
@@ -165,10 +165,6 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 [Movavi Photo Editor](https://tools.techidaily.com/movavi/photo-editor/)
@@ -199,10 +195,6 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
 
 Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完整閱讀該篇指南，請按一下下方的連結。
@@ -217,6 +209,10 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -224,7 +220,7 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
@@ -243,6 +239,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
 優點：
@@ -253,15 +253,15 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 使用者介面過時且不符合大眾口味
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -273,15 +273,15 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -294,7 +294,7 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 佈局過於簡單，可能會使初學者困惑
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -330,7 +330,7 @@ Movavi Photo Editor
 ## 常見問題集
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -347,6 +347,10 @@ Movavi Photo Editor
 ### 那一個是用於觀賞照片的最佳軟體?
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
@@ -395,10 +399,6 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -438,22 +438,22 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-hd-screenshots-for-mac-limit-156-chars-for-2024/"><u>[New] Essential HD Screenshots for Mac (Limit 156 Chars) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-analyzing-dji-x4-fpv-helmet-functionality/"><u>[Updated] Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-crafting-your-first-awkward-potion-on-minecraft/"><u>A Beginner's Guide: Crafting Your First Awkward Potion on Minecraft</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/breakfast-vegetable-omelette-bell-peppers-spinach-mushrooms-with-a-slice-of-whole-grain-toast-herbal-tea/"><u>Breakfast: Vegetable Omelette (Bell Peppers, Spinach, Mushrooms) with a Slice of Whole-Grain Toast; Herbal Tea.</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/extracteur-de-dvd-et-conversion-video-professionnel-avec-fonctionnalites-de-transfert-ios-site-officiel-du-logiciel-winxdvd/"><u>Extracteur De DVD Et Conversion Vidéo Professionnel Avec Fonctionnalités De Transfert iOS - Site Officiel Du Logiciel WinXDVD</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-choose-the-best-mp4-codec-for-your-videos-expert-tips-and-tricks/"><u>How to Choose the Best MP4 Codec for Your Videos – Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-childhood-wings-5-best-drone-companions/"><u>In 2024, Childhood Wings 5 Best Drone Companions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass OnePlus Ace 2V FRP</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mac-dvd-mojave/"><u>Mac 環境における DVD 再生課題：Mojave以上へ対応した対策とテクニック</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-unlocking-global-audiences-top-video-language-converters/"><u>New In 2024, Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ottimowinx-editing-videografico-intelligente-per-conversione-stabilita-e-modifica-rapida-dei-video/"><u>OttimoWinX: Editing Videografico Intelligente per Conversione, Stabilità E Modifica Rapida Dei Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-background-music-compilations-for-2024/"><u>Premium Background Music Compilations for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-football-manager-2020-freezing-issue-game-up-and-running-again/"><u>Solve Football Manager 2020 Freezing Issue - Game Up and Running Again</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/topo-8-de-herramientas-ai-para-la-rehabilitacion-digital-de-imagenes-clasicas-totalmente-gratis/"><u>Topo 8 De Herramientas AI Para La Rehabilitación Digital De Imágenes Clásicas, Totalmente Gratis</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-to-unlocking-encrypted-dvds-discover-the-best-strategies-and-access-5-free-solutions/"><u>Ultimate Guide to Unlocking Encrypted DVDs: Discover the Best Strategies and Access 5 Free Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-tiktok-hack-reversing-videos-in-just-a-few-clicks/"><u>Updated 2024 Approved The Ultimate TikTok Hack Reversing Videos in Just a Few Clicks</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1725285038841-ai/"><u>ブラウザーを通してAIが行う素早い顔合成：おすすめの最高のサイトにご参加！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-go-green-for-effective-ctas-via-subscription-for-2024/"><u>[New] Go Green for Effective CTAs via Subscription for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ideal-mac-video-logic-tool-for-2024/"><u>[New] Ideal Mac Video Logic Tool for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-gopro-skills-with-this-tutorial/"><u>[New] In 2024, Elevate Your GoPro Skills with This Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] 2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dive-into-yi-4k-plus-action-camera-an-all-encompassing-review/"><u>2024 Approved Dive Into Yi 4K + Action Camera An All-Encompassing Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-cash-flow-management-for-youtubers/"><u>Channel Cash Flow Management for YouTubers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effective-ways-to-safeguard-your-crypto-assets-insights-from-yl-computing-and-yl-software/"><u>Effective Ways to Safeguard Your Crypto Assets - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/exploring-the-consequences-of-the-boxer-uprising-in-chinese-history-insights-by-yl-computing-and-yl-software/"><u>Exploring the Consequences of the Boxer Uprising in Chinese History - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-can-i-effectively-upgrade-driver-software-on-a-motherboard-yl-computings-guide/"><u>How Can I Effectively Upgrade Driver Software on a Motherboard? - YL Computing's Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-130-music-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia 130 Music</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-the-art-of-crypto-security-strategies-and-tools-to-keep-your-coins-protected-by-yl-computing-experts/"><u>Mastering the Art of Crypto Security: Strategies and Tools to Keep Your Coins Protected by YL Computing Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-p40-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel P40 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/setting-up-imap-on-your-gmail-a-step-by-step-guide-tips-from-yl-computing/"><u>Setting Up IMAP on Your Gmail: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/tailoring-your-microsoft-windows-control-panel-a-step-by-step-guide-expert-tips-from-yl-computing/"><u>Tailoring Your Microsoft Windows Control Panel: A Step-by-Step Guide - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-picks-for-kids-and-first-time-fliers-easy-drone-models/"><u>Top Picks for Kids & First-Time Fliers Easy Drone Models</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/understanding-typical-challenges-with-system-registrations-insights-from-yl-computings-experience/"><u>Understanding Typical Challenges with System Registrations: Insights From YL Computing's Experience</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/verify-and-establish-network-link-for-your-printer-with-tips-by-yl-software-experts/"><u>Verify and Establish Network Link for Your Printer with Tips by YL Software Experts</u></a></li>
 </ul></div>
 
