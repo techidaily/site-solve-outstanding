@@ -43,8 +43,8 @@
 <meta property="og:image" content="https://www.ubackup.com/assets/images/author/aurore.png">
 <meta property="og:image" content="https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg">
 <meta property="og:image" content="https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png">
-<meta property="article:published_time" content="2024-12-28T14:47:32.629Z">
-<meta property="article:modified_time" content="2024-12-30T20:29:16.923Z">
+<meta property="article:published_time" content="2024-12-28T14:32:29.062Z">
+<meta property="article:modified_time" content="2025-01-01T13:09:49.411Z">
 <meta property="article:author" content="Larry">
 <meta property="article:tag" content=" Tools, File explorer, Convert, Repair tools, data recovery">
 <meta name="twitter:card" content="summary">
@@ -370,324 +370,313 @@
 
 
         <div class="main-content-header">
-            <header class="navbar-container px-6 md:px-12">
+            $logo-title-font-size = 1.7rem
+$desktop-search-icon-font-size = 1.5rem
+$navbar-bar-line-height = 2.5px
+$logo-image-box-width = 34px
 
-    <div class="navbar-content ">
-        <div class="left">
-            
-            <a class="logo-title" href="/">
-                
-                Solve Outstanding
-                
-            </a>
-        </div>
+@import '../../common/variables'
 
-        <div class="right">
-            <!-- PC -->
-            <div class="desktop">
-                <ul class="navbar-list">
-                    
-                        
-                            
+.navbar-container
+  font-family 'Chillax-Variable', sans-serif
+  width 100%
+  height 100%
+  box-sizing border-box
+  display flex
+  align-items center
+  justify-content center
+  background $nav-color-bg
+  -webkit-backdrop-filter blur(10px)
+  backdrop-filter blur(10px)
+  padding-top $scroll-progress-bar-height
+  hover-style(
+    false,
+    0,
+    0
+  )
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/"
-                                        >
-                                    <i class="fa-regular fa-house fa-fw"></i>
-                                    HOME
-                                    
-                                </a>
+  .navbar-content
+    position relative
+    height 100%
+    width 100%
+    max-width $navbar-width-pages
+    display flex
+    flex-direction row
+    justify-content space-between
+    align-items center
+    z-index $z-index-5
+    transition max-width 0.3s ease
 
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
+    &.has-home-banner
+      max-width $navbar-width-home
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   target="_blank" rel="noopener" href="https://tools.techidaily.com"
-                                        >
-                                    <i class="fa-regular fa-archive fa-fw"></i>
-                                    TOOLS
-                                    
-                                </a>
+    .left
+      display flex
+      align-items center
+      //transform-origin bottom
+      //transition-t('transform', '0', '0.15', 'ease')
+      //
+      //.navbar-shrink &
+      //  transform scale(0.9)
+      //  transform-origin bottom
 
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
+      if (hexo-config('defaults.logo') && hexo-config('defaults.logo') != '')
+        .logo-image
+          width $logo-image-box-width
+          height $logo-image-box-width
+          margin-right 12px
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class="has-dropdown"
-                                   href="#"
-                                        onClick=&#34;return false;&#34;>
-                                    <i class="fa-regular fa-link fa-fw"></i>
-                                    LINKS
-                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
-                                </a>
+          +redefine-tablet()
+            width: $logo-image-box-width * 0.9
+            height: $logo-image-box-width * 0.9
 
-                                <!-- Submenu -->
-                                
-                                    <ul class="sub-menu">
-                                        
-                                            <li>
-                                                <a target="_blank" rel="noopener" href="https://howto.techidaily.com">
-                                                    HOWTO
-                                                </a>
-                                            </li>
-                                        
-                                            <li>
-                                                <a target="_blank" rel="noopener" href="https://img0mobiles.techidaily.com">
-                                                    MOBILE IMAGES
-                                                </a>
-                                            </li>
-                                        
-                                    </ul>
-                                
-                            </li>
-                    
-                        
-                            
+          +redefine-mobile()
+            width: $logo-image-box-width * 0.8
+            height: $logo-image-box-width * 0.8
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/privacy"
-                                        >
-                                    <i class="fa-regular fa-shield-halved fa-fw"></i>
-                                    PRIVACY
-                                    
-                                </a>
+          img
+            border-radius 6px
+            width 100%
 
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
+      .logo-title
+        font-size $logo-title-font-size
+        font-weight 520
+        //letter-spacing 1px
+        line-height 1
+        color var(--first-text-color)
+        transform translateY(1px)
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/terms_conditions"
-                                        >
-                                    <i class="fa-regular fa-file-contract fa-fw"></i>
-                                    TERMS&amp;CONDITIONS
-                                    
-                                </a>
+        h1
+          margin 0
+          font-size $logo-title-font-size
+          font-weight 520
+          //letter-spacing 1px
+          line-height 1
+          color var(--first-text-color)
+          transform translateY(1px)
 
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                        
-                            
+          +redefine-tablet()
+            font-size: $logo-title-font-size * 0.9
 
-                            <li class="navbar-item">
-                                <!-- Menu -->
-                                <a class=""
-                                   href="/about"
-                                        >
-                                    <i class="fa-regular fa-user fa-fw"></i>
-                                    ABOUT
-                                    
-                                </a>
+          +redefine-mobile()
+            font-size: $logo-title-font-size * 0.8
 
-                                <!-- Submenu -->
-                                
-                            </li>
-                    
-                    
-                        <li class="navbar-item search search-popup-trigger">
-                            <i class="fa-solid fa-magnifying-glass"></i>
-                        </li>
-                    
-                </ul>
-            </div>
-            <!-- Mobile -->
-            <div class="mobile">
-                
-                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
-                    </div>
-                
-                <div class="icon-item navbar-bar">
-                    <div class="navbar-bar-middle"></div>
-                </div>
-            </div>
-        </div>
-    </div>
+        +redefine-tablet()
+          font-size: $logo-title-font-size * 0.9
 
-    <!-- Mobile sheet -->
-    <div class="navbar-drawer h-screen w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
-        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
-            
-                
-                    
+        +redefine-mobile()
+          font-size: $logo-title-font-size * 0.8
 
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/"
-                        >
-                            <span>
-                                HOME
-                            </span>
-                            
-                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
+    .right
+      .desktop
+        .navbar-list
+          display flex
+          gap 24px
+          align-items center
 
-                        
-                    </li>
-            
-                
-                    
+          +redefine-tablet()
+            display none
 
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           target="_blank" rel="noopener" href="https://tools.techidaily.com"
-                        >
-                            <span>
-                                TOOLS
-                            </span>
-                            
-                                <i class="fa-regular fa-archive fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
+          .navbar-item
+            float left
+            // padding 5px
+            position relative
+            font-size 1rem
+            font-weight 450
+            cursor pointer
+            color var(--default-text-color)
 
-                        
-                    </li>
-            
-                
-                    
+            a
+              display block
+              padding 5px
 
-                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
-                        
-                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                             navbar-data-toggle="submenu-Links"
-                        >
-                            <span>
-                                LINKS
-                            </span>
-                            
-                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
-                            
-                        </div>
-                        
+            a .fa-chevron-down
+              transform rotate(0deg)
+              transition transform 0.3s ease
 
-                        
-                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-Links">
-                                
-                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
-                                        <a class=" text-third-text-color text-xl"
-                                           target="_blank" rel="noopener" href="https://howto.techidaily.com">HOWTO</a>
-                                    </div>
-                                
-                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
-                                        <a class=" text-third-text-color text-xl"
-                                           target="_blank" rel="noopener" href="https://img0mobiles.techidaily.com">MOBILE IMAGES</a>
-                                    </div>
-                                
-                            </div>
-                        
-                    </li>
-            
-                
-                    
+            a, .active
+              &::after
+                content ''
+                position absolute
+                bottom -5px
+                left 50%
+                width 100%
+                height 2px
+                transform translate3d(-50%, -5px, 0)
+                border-radius $redefine-border-radius-large
+                background var(--primary-color)
+                opacity 0
+                transition-t('transform, bottom, opacity', '0.2, 0.2, 0.2', '0.2, 0.2, 0.2', 'ease, ease, ease')
 
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/privacy"
-                        >
-                            <span>
-                                PRIVACY
-                            </span>
-                            
-                                <i class="fa-regular fa-shield-halved fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
+                .navbar-shrink &
+                  bottom -($navbar-shrink-height / 2 - 17)
 
-                        
-                    </li>
-            
-                
-                    
+            &:hover a .fa-chevron-down
+              transform rotate(180deg)
 
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/terms_conditions"
-                        >
-                            <span>
-                                TERMS&amp;CONDITIONS
-                            </span>
-                            
-                                <i class="fa-regular fa-file-contract fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
+            &:hover .has-dropdown
+              &::after
+                display none !important
 
-                        
-                    </li>
-            
-                
-                    
+            &:hover a, .active
+              &::after
+                transform translate3d(-50%, 0, 0)
+                opacity 1
+                transition-t('transform, bottom, opacity', '0, 0, 0', '0.2, 0.2, 0.2', 'ease, ease, ease')
 
-                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
-                        
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
-                           href="/about"
-                        >
-                            <span>
-                                ABOUT
-                            </span>
-                            
-                                <i class="fa-regular fa-user fa-sm fa-fw"></i>
-                            
-                        </a>
-                        
+                .navbar-shrink &
+                  bottom -($navbar-shrink-height / 2 - 17)
 
-                        
-                    </li>
-            
+            &.search
+              font-size $desktop-search-icon-font-size
+              margin-left 26px
 
-            
-            
-        </ul>
+              i
+                color var(--default-text-color)
 
-        <div class="statistics flex justify-around my-2.5">
-    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
-        <div class="label text-third-text-color text-sm">Tags</div>
-    </div>
-    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9</div>
-        <div class="label text-third-text-color text-sm">Categories</div>
-    </div>
-    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">933</div>
-        <div class="label text-third-text-color text-sm">Posts</div>
-    </div>
-</div>
-    </div>
+            .sub-menu
+              position absolute
+              right auto
+              left 50%
+              -webkit-transform translate(-50%, 0)
+              -o-transform translate(-50%, 0)
+              transform translate(-50%, 0)
+              margin-top 0px
+              width auto
+              text-align center
+              list-style none
+              padding 0 10px
+              border-radius $redefine-border-radius-large
+              // visibility hidden
+              max-height 0px
+              overflow hidden
+              transition-t('all', '0', '0.2', 'linear')
 
-    <div class="window-mask"></div>
+              li a
+                white-space nowrap
+                color var(--default-text-color)
+                font-size 1rem
+                padding 3px 15px
+                display block
+                text-align center
+                border-radius 8px
+                transition-t('all', '0', '0.2', 'linear')
 
-</header>
+                &:hover
+                  color var(--primary-color)
+                  background-color var(--third-background-color)
 
+        .navbar-list .navbar-item:hover .sub-menu
+          // visibility visible
+          max-height 500px
+          transition-t('all', '0', '0.2', 'ease')
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            5px
+          )
+
+      .mobile
+        display flex
+        justify-content space-between
+        align-items center
+
+        .icon-item
+          display none
+          position relative
+          cursor pointer
+          font-size 18px
+          margin-left 12px
+          width 20px
+          height 20px
+          color var(--default-text-color)
+
+          i
+            color var(--default-text-color)
+
+          &:first-child
+            margin-left 0
+
+          +redefine-tablet()
+            display flex
+            justify-content center
+            align-items center
+
+        .navbar-bar
+          .navbar-bar-middle
+            width 18px
+            height $navbar-bar-line-height
+            position relative
+            background var(--default-text-color)
+
+            .navbar-drawer-show &
+              background transparent
+
+            &::before, &::after
+              content ''
+              position absolute
+              left 0
+              width 100%
+              height $navbar-bar-line-height
+              background var(--default-text-color)
+              transition-t('transform', '0', '0.38', 'ease')
+
+            &::before
+              top -6px
+
+              .navbar-drawer-show &
+                transform translateY(6px) rotate(45deg)
+
+            &::after
+              bottom -6px
+
+              .navbar-drawer-show &
+                transform translateY(-6px) rotate(-45deg)
+
+  .navbar-drawer
+    padding $navbar-height 0 20px 0
+    transform translateX(100%)
+    transform-origin top
+    z-index $z-index-2
+    height 100vh
+    overflow-y auto
+    transition-t('transform', '0', '0.38', 'ease')
+
+    .navbar-drawer-show &
+      transform translateX(0)
+
+  .window-mask
+    position absolute
+    top 0
+    width 100%
+    height 100vh
+    background rgba(0, 0, 0, 0.4)
+    z-index $z-index-1
+    visibility hidden
+    opacity 0
+    transition-t('transform, opacity', '0, 0', '0.38, 0.38', 'ease, ease')
+
+    .navbar-drawer-show &
+      visibility visible
+      opacity 1
+
+.navbar-drawer-show
+  overflow hidden
+
+[data-target] {
+  display: block; /* or flex, depending on your layout */
+  overflow: hidden;
+}
+
+[data-target] .submenu-item {
+  opacity: 0;
+}
+
+.icon-rotated {
+  transform: rotate(90deg);
+}
 
         </div>
 
@@ -729,15 +718,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-28 22:47:32</span>
-        <span class="mobile">2024-12-28 22:47:32</span>
+        <span class="desktop">2024-12-28 22:32:29</span>
+        <span class="mobile">2024-12-28 22:32:29</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-31 04:29:16</span>
-            <span class="mobile">2024-12-31 04:29:16</span>
+            <span class="desktop">2025-01-01 21:09:49</span>
+            <span class="mobile">2025-01-01 21:09:49</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -792,10 +781,6 @@
                      data-src="https://www.ubackup.com/assets/images/author/aurore.png"
                       alt="Aurore"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>Par<a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Aurore <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>Publié le 26&#x2F;06&#x2F;2024</p>
 <p>Partager sur : <img  
                      lazyload
@@ -825,6 +810,10 @@
 <li><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Dernières réflexions sur l’utilitaire de sauvegarde Buffalo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Logiciel-de-sauvegarde-NAS-Buffalo-pour-systeme-Windows"><a href="#Logiciel-de-sauvegarde-NAS-Buffalo-pour-systeme-Windows" class="headerlink" title="Logiciel de sauvegarde NAS Buffalo pour système Windows"></a>Logiciel de sauvegarde NAS Buffalo pour système Windows</h2><p>NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d’autres périphériques.</p>
 <p>À ce stade, vous avez besoin d’un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d’un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016. Que faire si vous utilisez Windows 7&#x2F;8&#x2F;10&#x2F;11 ?</p>
 <p><a target="_blank" rel="noopener" href="https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png"><img  
@@ -833,11 +822,11 @@
                      data-src="https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                       alt="buffalo"
                 ></a></p>
-<p>Ne vous inquiétez pas trop. Vous pouvez envisager d’utiliser un logiciel de sauvegarde NAS tiers pour vous aider. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >AOMEI Backupper Standard <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7&#x2F;8&#x2F;10&#x2F;11&#x2F;XP&#x2F;Vista), de sa gratuité, de sa facilité d’utilisation, de sa flexibilité et de ses fonctionnalités riches.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+<p>Ne vous inquiétez pas trop. Vous pouvez envisager d’utiliser un logiciel de sauvegarde NAS tiers pour vous aider. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >AOMEI Backupper Standard <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7&#x2F;8&#x2F;10&#x2F;11&#x2F;XP&#x2F;Vista), de sa gratuité, de sa facilité d’utilisation, de sa flexibilité et de ses fonctionnalités riches.</p>
 <h2 id="Avantages-du-logiciel-de-sauvegarde-NAS-Buffalo-AOMEI-Backupper-Standard"><a href="#Avantages-du-logiciel-de-sauvegarde-NAS-Buffalo-AOMEI-Backupper-Standard" class="headerlink" title="Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard"></a>Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard</h2><p>AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11&#x2F;10&#x2F;8&#x2F;7&#x2F;XP&#x2F;Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :</p>
 <p><strong>Sauvegarde régulière des fichiers&#x2F;systèmes&#x2F;disques&#x2F;partitions</strong> : Il prend en charge les <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >sauvegardes planifiées <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> quotidiennes, hebdomadaires et mensuelles, vous n’avez donc pas à vous soucier de la perte de données en raison d’oublis de sauvegarde.</p>
 <p><strong>Sauvegarde uniquement des modifications</strong> : Par défaut, il utilise la <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >sauvegarde incrémentielle <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> pour sauvegarder uniquement les fichiers modifiés. Cela permet d’économiser considérablement du temps et de l’espace disque lorsqu’il y a beaucoup de fichiers à sauvegarder.</p>
@@ -853,7 +842,7 @@
 <p>Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.</p>
 <p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/"><strong>Télécharger gratuiciel</strong> Windows 11&#x2F;10&#x2F;8.1&#x2F;8&#x2F;7</a></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Comment-utiliser-le-logiciel-de-sauvegarde-NAS-Buffalo-pour-Windows-pour-sauvegarder-des-fichiers"><a href="#Comment-utiliser-le-logiciel-de-sauvegarde-NAS-Buffalo-pour-Windows-pour-sauvegarder-des-fichiers" class="headerlink" title="Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers"></a>Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers</h2><p>Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l’image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.</p>
@@ -874,11 +863,15 @@
                       alt="ajouter un fichier ou un dossier"
                 ></a></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p>Cliquez sur <strong>Share&#x2F;NAS</strong> pour ouvrir la fenêtre suivante.</p>
 <p><a target="_blank" rel="noopener" href="https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png"><img src="https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="share/nas"></a></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p>Ensuite, cliquez sur <strong>Ajouter un périphérique Share ou NAS</strong>, saisissez le nom d’affichage, l’adresse IP, le nom d’utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.</p>
 <p><a target="_blank" rel="noopener" href="https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png"><img  
                      lazyload
@@ -893,6 +886,10 @@
                      data-src="https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                       alt="destination"
                 ></a></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p><strong>Étape 4.</strong> Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l’endroit inférieur et cliquez sur <strong>Démarrer</strong> pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l’ordinateur pour exécuter les tâches planifiées, le logiciel s’ouvrira et exécutera automatiquement cette tâche.</p>
 <p><a target="_blank" rel="noopener" href="https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png"><img  
                      lazyload
@@ -909,10 +906,6 @@
                      data-src="https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                       alt="options"
                 ></a></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Dernieres-reflexions-sur-l’utilitaire-de-sauvegarde-Buffalo"><a href="#Dernieres-reflexions-sur-l’utilitaire-de-sauvegarde-Buffalo" class="headerlink" title="Dernières réflexions sur l’utilitaire de sauvegarde Buffalo"></a>Dernières réflexions sur l’utilitaire de sauvegarde Buffalo</h2><p>Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l’espace disque. Si vous souhaitez réduire davantage la taille de l’image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.</p>
 <p>Et la manière la plus efficace de libérer de l’espace disque est de supprimer les anciennes images de sauvegarde avec les méthodes de nettoyage automatique des sauvegardes dans le Plan de sauvegarde. De plus, vous pouvez profiter d’une méthode de sauvegarde plus sûre - la sauvegarde différentielle, qui nécessite moins de temps de sauvegarde et d’espace disque, tout en étant facile à récupérer.</p>
 <p>Croyez-nous, c’est l’un des logiciels de sauvegarde les plus puissants pour protéger vos données et votre système. Veuillez le télécharger pour profiter de ces fonctionnalités.</p>
@@ -925,12 +918,12 @@
                      data-src="https://www.ubackup.com/assets/images/author/aurore.png"
                       alt="Aurore"
                 > </p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Aurore <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> · Éditeur</p>
-<p>Éditrice senior d’AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l’ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Aurore <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> · Éditeur</p>
+<p>Éditrice senior d’AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l’ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.</p>
 <h2 id="Autres-articles-connexes"><a href="#Autres-articles-connexes" class="headerlink" title="Autres articles connexes"></a>Autres articles connexes</h2><h5 id="Meilleur-logiciel-pour-sauvegarder-NAS-Buffalo-sur-disque-dur-externe"><a href="#Meilleur-logiciel-pour-sauvegarder-NAS-Buffalo-sur-disque-dur-externe" class="headerlink" title="Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe"></a><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h5><p>Vous apprendrez comment sauvegarder votre NAS Buffalo sur un disque dur externe pour protéger vos données avec le meilleur logiciel de sauvegarde gratuit pour Buffalo.</p>
 <h5 id="Creer-une-sauvegarde-NAS-vers-NAS-avec-le-meilleur-logiciel-de-sauvegarde-NAS-gratuit"><a href="#Creer-une-sauvegarde-NAS-vers-NAS-avec-le-meilleur-logiciel-de-sauvegarde-NAS-gratuit" class="headerlink" title="Créer une sauvegarde NAS vers NAS avec le meilleur logiciel de sauvegarde NAS gratuit"></a><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Créer une sauvegarde NAS vers NAS avec le meilleur logiciel de sauvegarde NAS gratuit <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h5><p>Vous pouvez apprendre ici comment sauvegarder un NAS (Synology, QNAP) vers un autre NAS (Synology, QNAP) dans Windows. Vous trouverez ci-dessous 2 façons d’effectuer facilement une sauvegarde NAS à NAS.</p>
 <h5 id="Comment-sauvegarder-votre-NAS-Synology-sur-peripherique-de-stockage"><a href="#Comment-sauvegarder-votre-NAS-Synology-sur-peripherique-de-stockage" class="headerlink" title="Comment sauvegarder votre NAS Synology sur périphérique de stockage ?"></a><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/ubackup/products/" >Comment sauvegarder votre NAS Synology sur périphérique de stockage ? <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h5><p>Meilleur logiciel de sauvegarde pour coier les données régulièrement de votre NAS Synology vers un autre NAS Synology, un disque dur externe et une clé USB dans Windows 11, 10, 8 et 7.</p>
@@ -945,10 +938,6 @@
                      data-src="https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg"
                      
                 > 100% Propre &amp; Sûr</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -968,20 +957,20 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/new-unveiling-the-magic-of-end-screens-for-vimeo-content-for-2024/"><u>[New] Unveiling the Magic of End Screens for Vimeo Content for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/updated-all-around-vs-3d-visual-perspectives/"><u>[Updated] All Around Vs 3D Visual Perspectives</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/colliding-realms-diving-into-metaverse-potentialities/"><u>Colliding Realms: Diving Into Metaverse Potentialities</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/decoding-multilingual-typography-on-windows-systems/"><u>Decoding Multilingual Typography on Windows Systems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-awesome.techidaily.com/effective-strategies-for-securely-removing-the-windowsold-directory-in-windows-11-a-three-step-guide/"><u>Effective Strategies for Securely Removing the 'Windows.old' Directory in Windows 11: A Three-Step Guide</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/expert-advice-how-to-conduct-your-own-scan-using-windows-defender-by-yl-software/"><u>Expert Advice: How to Conduct Your Own Scan Using Windows Defender by YL Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-fix-unrecognized-scanner-issues-in-windows-tips-from-yl-computing/"><u>How to Fix Unrecognized Scanner Issues in Windows - Tips From YL Computing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-file-joining-solutions/"><u>In 2024, Best Free MOV File Joining Solutions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-advanced.techidaily.com/passaggio-di-windows-server-2016-a-un-different-hard-drive-la-guida/"><u>Passaggio Di Windows Server 2016 a Un Different Hard Drive – La Guida</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/solving-failed-program-installations-expert-advice-from-yl-computing/"><u>Solving Failed Program Installations: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/solving-the-printer-wont-print-a-comprehensive-guide-by-yl-computing/"><u>Solving the 'Printer Won't Print': A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-guide-how-to-fix-connection-issues-between-your-scanner-and-pc-tips-from-yl-software/"><u>Troubleshooting Guide: How to Fix Connection Issues Between Your Scanner and PC - Tips From YL Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/yl-software-guide-diagnosing-and-fixing-unresponsive-printer-issues/"><u>YL Software Guide: Diagnosing and Fixing Unresponsive Printer Issues</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/igital-splendor-on-youtube-the-hue-harmonization-way/"><u>[New] Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktok-titans-the-ultimate-list-of-30-stellar-handle-ideas/"><u>[New] In 2024, TikTok Titans The Ultimate List of 30 Stellar Handle Ideas</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-dive-into-group-chats-joining-zoom-meetings-on-phone/"><u>[Updated] Dive Into Group Chats Joining Zoom Meetings on Phone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/comprehensive-guide-on-preserving-important-documents-with-yls-top-backup-techniques/"><u>Comprehensive Guide on Preserving Important Documents with YL's Top Backup Techniques</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ensuring-proper-functionality-of-your-equipment-insights-from-yl-software-experts/"><u>Ensuring Proper Functionality of Your Equipment - Insights From YL Software Experts</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/exploring-potential-graphic-processor-speed-bottlenecks-guidance-by-yl-software-experts/"><u>Exploring Potential Graphic Processor Speed Bottlenecks: Guidance by YL Software Experts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-replay-the-art-of-twitch-livestream-control/"><u>In 2024, Replay The Art of Twitch Livestream Control</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-sony-xperia-5-v-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Sony Xperia 5 V? Fixed | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/optimizing-twitter-video-shares-for-facebook-users/"><u>Optimizing Twitter Video Shares for Facebook Users</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/space-requirements-for-hd-video-on-64gb-for-2024/"><u>Space Requirements for HD Video on 64GB for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-restoring-your-network-configuration-with-ease-tech-solutions-by-yl/"><u>Step-by-Step Guide: Restoring Your Network Configuration with Ease - Tech Solutions by YL</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/the-quintessential-quest-for-corporate-social-supremacy/"><u>The Quintessential Quest for Corporate Social Supremacy</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/top-9-signs-your-iphone-is-suffering-from-liquid-damage/"><u>Top 9 Signs Your iPhone Is Suffering From Liquid Damage</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/yl-software-expertise-a-step-by-step-approach-to-retrieving-lost-files-in-windows/"><u>YL Software Expertise: A Step-by-Step Approach to Retrieving Lost Files in Windows</u></a></li>
 </ul></div>
 
 
@@ -994,11 +983,11 @@
         <li><strong>Title:</strong> Step-by-Step Guide: Transferring Your Data - Full Laptop Backup to ExFAT External HDD on Windows 11</li>
         <li><strong>Author:</strong> Larry</li>
         <li><strong>Created at
-                :</strong> 2024-12-28 22:47:32</li>
+                :</strong> 2024-12-28 22:32:29</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-31 04:29:16
+                    :</strong> 2025-01-01 21:09:49
             </li>
         
         <li>
@@ -1030,13 +1019,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/mastering-mouse-configuration-tips-for-tweaking-controls-in-the-windows-control-panel-expert-advice-from-yl-computing/"
+                        href="/the-maze-runner-series-inspirational-imagery-and-wide-range-of-pictures-for-your-pc-or-laptop-premium-graphics-from-yl-software/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Mastering Mouse Configuration: Tips for Tweaking Controls in the Windows Control Panel - Expert Advice From YL Computing</span>
+                                <span class="post-nav-title-item">The Maze Runner Series: Inspirational Imagery and Wide Range of Pictures for Your PC or Laptop – Premium Graphics From YL Software</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1046,10 +1035,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/paragon-software-zur-migration-von-betriebssystemen-auf-ssds-fehlerbehebung-und-alternative-losungen/"
+                        href="/trier-votre-video-mov-au-format-webm-sans-cout-tapez-les-facilement-avec-moovavi/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Paragon-Software Zur Migration Von Betriebssystemen Auf SSDs: Fehlerbehebung Und Alternative Lösungen</span>
+                                <span class="post-nav-title-item">Trier Votre Vidéo MOV Au Format WebM Sans Coût - Tapez-Les Facilement Avec Moovavi!</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1113,7 +1102,7 @@
               <span>2017</span>
               -
             
-            2024 Larry.&nbsp;&nbsp; All Rights Reserved.
+            2025 Larry.&nbsp;&nbsp; All Rights Reserved.
             
         </div>
         
