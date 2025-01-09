@@ -41,8 +41,8 @@
 <meta property="og:image" content="https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg">
 <meta property="og:image" content="https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg">
 <meta property="og:image" content="https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg">
-<meta property="article:published_time" content="2024-12-25T15:11:37.718Z">
-<meta property="article:modified_time" content="2025-01-01T13:47:31.053Z">
+<meta property="article:published_time" content="2025-01-02T08:26:55.416Z">
+<meta property="article:modified_time" content="2025-01-09T09:07:37.173Z">
 <meta property="article:author" content="Larry">
 <meta property="article:tag" content=" Tools, File explorer, Convert, Repair tools, data recovery">
 <meta name="twitter:card" content="summary">
@@ -368,313 +368,324 @@
 
 
         <div class="main-content-header">
-            $logo-title-font-size = 1.7rem
-$desktop-search-icon-font-size = 1.5rem
-$navbar-bar-line-height = 2.5px
-$logo-image-box-width = 34px
+            <header class="navbar-container px-6 md:px-12">
 
-@import '../../common/variables'
+    <div class="navbar-content ">
+        <div class="left">
+            
+            <a class="logo-title" href="/">
+                
+                Solve Outstanding
+                
+            </a>
+        </div>
 
-.navbar-container
-  font-family 'Chillax-Variable', sans-serif
-  width 100%
-  height 100%
-  box-sizing border-box
-  display flex
-  align-items center
-  justify-content center
-  background $nav-color-bg
-  -webkit-backdrop-filter blur(10px)
-  backdrop-filter blur(10px)
-  padding-top $scroll-progress-bar-height
-  hover-style(
-    false,
-    0,
-    0
-  )
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            
 
-  .navbar-content
-    position relative
-    height 100%
-    width 100%
-    max-width $navbar-width-pages
-    display flex
-    flex-direction row
-    justify-content space-between
-    align-items center
-    z-index $z-index-5
-    transition max-width 0.3s ease
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/"
+                                        >
+                                    <i class="fa-regular fa-house fa-fw"></i>
+                                    HOME
+                                    
+                                </a>
 
-    &.has-home-banner
-      max-width $navbar-width-home
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
 
-    .left
-      display flex
-      align-items center
-      //transform-origin bottom
-      //transition-t('transform', '0', '0.15', 'ease')
-      //
-      //.navbar-shrink &
-      //  transform scale(0.9)
-      //  transform-origin bottom
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   target="_blank" rel="noopener" href="https://tools.techidaily.com"
+                                        >
+                                    <i class="fa-regular fa-archive fa-fw"></i>
+                                    TOOLS
+                                    
+                                </a>
 
-      if (hexo-config('defaults.logo') && hexo-config('defaults.logo') != '')
-        .logo-image
-          width $logo-image-box-width
-          height $logo-image-box-width
-          margin-right 12px
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
 
-          +redefine-tablet()
-            width: $logo-image-box-width * 0.9
-            height: $logo-image-box-width * 0.9
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="has-dropdown"
+                                   href="#"
+                                        onClick=&#34;return false;&#34;>
+                                    <i class="fa-regular fa-link fa-fw"></i>
+                                    LINKS
+                                    <i class="fa-solid fa-chevron-down fa-fw"></i>
+                                </a>
 
-          +redefine-mobile()
-            width: $logo-image-box-width * 0.8
-            height: $logo-image-box-width * 0.8
+                                <!-- Submenu -->
+                                
+                                    <ul class="sub-menu">
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://howto.techidaily.com">
+                                                    HOWTO
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" rel="noopener" href="https://img0mobiles.techidaily.com">
+                                                    MOBILE IMAGES
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                    
+                        
+                            
 
-          img
-            border-radius 6px
-            width 100%
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/privacy"
+                                        >
+                                    <i class="fa-regular fa-shield-halved fa-fw"></i>
+                                    PRIVACY
+                                    
+                                </a>
 
-      .logo-title
-        font-size $logo-title-font-size
-        font-weight 520
-        //letter-spacing 1px
-        line-height 1
-        color var(--first-text-color)
-        transform translateY(1px)
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
 
-        h1
-          margin 0
-          font-size $logo-title-font-size
-          font-weight 520
-          //letter-spacing 1px
-          line-height 1
-          color var(--first-text-color)
-          transform translateY(1px)
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/terms_conditions"
+                                        >
+                                    <i class="fa-regular fa-file-contract fa-fw"></i>
+                                    TERMS&amp;CONDITIONS
+                                    
+                                </a>
 
-          +redefine-tablet()
-            font-size: $logo-title-font-size * 0.9
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                        
+                            
 
-          +redefine-mobile()
-            font-size: $logo-title-font-size * 0.8
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class=""
+                                   href="/about"
+                                        >
+                                    <i class="fa-regular fa-user fa-fw"></i>
+                                    ABOUT
+                                    
+                                </a>
 
-        +redefine-tablet()
-          font-size: $logo-title-font-size * 0.9
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                    
+                        <li class="navbar-item search search-popup-trigger">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        +redefine-mobile()
-          font-size: $logo-title-font-size * 0.8
+    <!-- Mobile sheet -->
+    <div class="navbar-drawer h-screen w-full absolute top-0 left-0 bg-background-color flex flex-col justify-between">
+        <ul class="drawer-navbar-list flex flex-col px-4 justify-center items-start">
+            
+                
+                    
 
-    .right
-      .desktop
-        .navbar-list
-          display flex
-          gap 24px
-          align-items center
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/"
+                        >
+                            <span>
+                                HOME
+                            </span>
+                            
+                                <i class="fa-regular fa-house fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
 
-          +redefine-tablet()
-            display none
+                        
+                    </li>
+            
+                
+                    
 
-          .navbar-item
-            float left
-            // padding 5px
-            position relative
-            font-size 1rem
-            font-weight 450
-            cursor pointer
-            color var(--default-text-color)
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           target="_blank" rel="noopener" href="https://tools.techidaily.com"
+                        >
+                            <span>
+                                TOOLS
+                            </span>
+                            
+                                <i class="fa-regular fa-archive fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
 
-            a
-              display block
-              padding 5px
+                        
+                    </li>
+            
+                
+                    
 
-            a .fa-chevron-down
-              transform rotate(0deg)
-              transition transform 0.3s ease
+                    <li class="drawer-navbar-item-sub text-base my-1.5 flex flex-col w-full">
+                        
+                        <div class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary cursor-pointer text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                             navbar-data-toggle="submenu-Links"
+                        >
+                            <span>
+                                LINKS
+                            </span>
+                            
+                                <i class="fa-solid fa-chevron-right fa-sm fa-fw transition-all"></i>
+                            
+                        </div>
+                        
 
-            a, .active
-              &::after
-                content ''
-                position absolute
-                bottom -5px
-                left 50%
-                width 100%
-                height 2px
-                transform translate3d(-50%, -5px, 0)
-                border-radius $redefine-border-radius-large
-                background var(--primary-color)
-                opacity 0
-                transition-t('transform, bottom, opacity', '0.2, 0.2, 0.2', '0.2, 0.2, 0.2', 'ease, ease, ease')
+                        
+                            <div class="flex-col items-start px-2 py-2 hidden" data-target="submenu-Links">
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://howto.techidaily.com">HOWTO</a>
+                                    </div>
+                                
+                                    <div class="drawer-navbar-item text-base flex flex-col justify-center items-start hover:underline active:underline hover:underline-offset-1 rounded-3xl">
+                                        <a class=" text-third-text-color text-xl"
+                                           target="_blank" rel="noopener" href="https://img0mobiles.techidaily.com">MOBILE IMAGES</a>
+                                    </div>
+                                
+                            </div>
+                        
+                    </li>
+            
+                
+                    
 
-                .navbar-shrink &
-                  bottom -($navbar-shrink-height / 2 - 17)
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/privacy"
+                        >
+                            <span>
+                                PRIVACY
+                            </span>
+                            
+                                <i class="fa-regular fa-shield-halved fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
 
-            &:hover a .fa-chevron-down
-              transform rotate(180deg)
+                        
+                    </li>
+            
+                
+                    
 
-            &:hover .has-dropdown
-              &::after
-                display none !important
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/terms_conditions"
+                        >
+                            <span>
+                                TERMS&amp;CONDITIONS
+                            </span>
+                            
+                                <i class="fa-regular fa-file-contract fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
 
-            &:hover a, .active
-              &::after
-                transform translate3d(-50%, 0, 0)
-                opacity 1
-                transition-t('transform, bottom, opacity', '0, 0, 0', '0.2, 0.2, 0.2', 'ease, ease, ease')
+                        
+                    </li>
+            
+                
+                    
 
-                .navbar-shrink &
-                  bottom -($navbar-shrink-height / 2 - 17)
+                    <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
+                        
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                           href="/about"
+                        >
+                            <span>
+                                ABOUT
+                            </span>
+                            
+                                <i class="fa-regular fa-user fa-sm fa-fw"></i>
+                            
+                        </a>
+                        
 
-            &.search
-              font-size $desktop-search-icon-font-size
-              margin-left 26px
+                        
+                    </li>
+            
 
-              i
-                color var(--default-text-color)
+            
+            
+        </ul>
 
-            .sub-menu
-              position absolute
-              right auto
-              left 50%
-              -webkit-transform translate(-50%, 0)
-              -o-transform translate(-50%, 0)
-              transform translate(-50%, 0)
-              margin-top 0px
-              width auto
-              text-align center
-              list-style none
-              padding 0 10px
-              border-radius $redefine-border-radius-large
-              // visibility hidden
-              max-height 0px
-              overflow hidden
-              transition-t('all', '0', '0.2', 'linear')
+        <div class="statistics flex justify-around my-2.5">
+    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
+        <div class="label text-third-text-color text-sm">Tags</div>
+    </div>
+    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9</div>
+        <div class="label text-third-text-color text-sm">Categories</div>
+    </div>
+    <div class="item tag-count-item flex flex-col justify-center items-center w-20">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">933</div>
+        <div class="label text-third-text-color text-sm">Posts</div>
+    </div>
+</div>
+    </div>
 
-              li a
-                white-space nowrap
-                color var(--default-text-color)
-                font-size 1rem
-                padding 3px 15px
-                display block
-                text-align center
-                border-radius 8px
-                transition-t('all', '0', '0.2', 'linear')
+    <div class="window-mask"></div>
 
-                &:hover
-                  color var(--primary-color)
-                  background-color var(--third-background-color)
+</header>
 
-        .navbar-list .navbar-item:hover .sub-menu
-          // visibility visible
-          max-height 500px
-          transition-t('all', '0', '0.2', 'ease')
-          redefine-container(
-            false,
-            0,
-            0,
-            10px,
-            5px
-          )
-
-      .mobile
-        display flex
-        justify-content space-between
-        align-items center
-
-        .icon-item
-          display none
-          position relative
-          cursor pointer
-          font-size 18px
-          margin-left 12px
-          width 20px
-          height 20px
-          color var(--default-text-color)
-
-          i
-            color var(--default-text-color)
-
-          &:first-child
-            margin-left 0
-
-          +redefine-tablet()
-            display flex
-            justify-content center
-            align-items center
-
-        .navbar-bar
-          .navbar-bar-middle
-            width 18px
-            height $navbar-bar-line-height
-            position relative
-            background var(--default-text-color)
-
-            .navbar-drawer-show &
-              background transparent
-
-            &::before, &::after
-              content ''
-              position absolute
-              left 0
-              width 100%
-              height $navbar-bar-line-height
-              background var(--default-text-color)
-              transition-t('transform', '0', '0.38', 'ease')
-
-            &::before
-              top -6px
-
-              .navbar-drawer-show &
-                transform translateY(6px) rotate(45deg)
-
-            &::after
-              bottom -6px
-
-              .navbar-drawer-show &
-                transform translateY(-6px) rotate(-45deg)
-
-  .navbar-drawer
-    padding $navbar-height 0 20px 0
-    transform translateX(100%)
-    transform-origin top
-    z-index $z-index-2
-    height 100vh
-    overflow-y auto
-    transition-t('transform', '0', '0.38', 'ease')
-
-    .navbar-drawer-show &
-      transform translateX(0)
-
-  .window-mask
-    position absolute
-    top 0
-    width 100%
-    height 100vh
-    background rgba(0, 0, 0, 0.4)
-    z-index $z-index-1
-    visibility hidden
-    opacity 0
-    transition-t('transform, opacity', '0, 0', '0.38, 0.38', 'ease, ease')
-
-    .navbar-drawer-show &
-      visibility visible
-      opacity 1
-
-.navbar-drawer-show
-  overflow hidden
-
-[data-target] {
-  display: block; /* or flex, depending on your layout */
-  overflow: hidden;
-}
-
-[data-target] .submenu-item {
-  opacity: 0;
-}
-
-.icon-rotated {
-  transform: rotate(90deg);
-}
 
         </div>
 
@@ -716,15 +727,15 @@ $logo-image-box-width = 34px
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-25 23:11:37</span>
-        <span class="mobile">2024-12-25 23:11:37</span>
+        <span class="desktop">2025-01-02 16:26:55</span>
+        <span class="mobile">2025-01-02 16:26:55</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-01 21:47:31</span>
-            <span class="mobile">2025-01-01 21:47:31</span>
+            <span class="desktop">2025-01-09 17:07:37</span>
+            <span class="mobile">2025-01-09 17:07:37</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -801,10 +812,6 @@ $logo-image-box-width = 34px
                      data-src="https://cdn.staticont.net/pages/0023/55/a1d7ead2c461be068f9b2b2ab55c0f6d943eb66d.webp"
                      
                 ></a></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/movavi/products/" >Alex Weng <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>2024年8月16日</p>
 <p> 19,027 </p>
@@ -886,6 +893,10 @@ $logo-image-box-width = 34px
 <ul>
 <li>圖片都必須上傳至軟體</li>
 </ul>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3><p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/apowersoft/products/"><strong>Apowersoft Photo Viewer</strong></a></p>
 <p><img  
                      lazyload
@@ -893,10 +904,6 @@ $logo-image-box-width = 34px
                      data-src="https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp"
                      
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。</p>
 <p>Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完整閱讀該篇指南，請按一下下方的連結。</p>
 <p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/movavi/products/" >最優秀的相片整理軟體 (英語頁面) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
@@ -908,6 +915,10 @@ $logo-image-box-width = 34px
 <ul>
 <li>GUI 看起來很舊，簡直像 XP，而且功能有限</li>
 </ul>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="-3"><a href="#-3" class="headerlink" title=""></a></h3><p><a target="_blank" rel="noopener" href="https://www.faststone.org/"><strong>FastStone Image Viewer</strong></a></p>
 <p><img  
                      lazyload
@@ -916,7 +927,7 @@ $logo-image-box-width = 34px
                      
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p>FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視&#x2F;比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。</p>
@@ -928,6 +939,10 @@ $logo-image-box-width = 34px
 <ul>
 <li>對普通使用者而言工具太多了</li>
 </ul>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="-4"><a href="#-4" class="headerlink" title=""></a></h3><p><a target="_blank" rel="noopener" href="https://www.irfanview.com/"><strong>IrfanView</strong></a></p>
 <p><img  
                      lazyload
@@ -935,10 +950,6 @@ $logo-image-box-width = 34px
                      data-src="https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp"
                      
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。</p>
 <p>優點：</p>
 <ul>
@@ -965,7 +976,7 @@ $logo-image-box-width = 34px
 <li>圖片只能在單一頁籤中開啟且無法捲動</li>
 </ul>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="-6"><a href="#-6" class="headerlink" title=""></a></h3><p><a target="_blank" rel="noopener" href="https://github.com/nomacs/nomacs"><strong>Nomacs</strong></a></p>
@@ -984,6 +995,10 @@ $logo-image-box-width = 34px
 <ul>
 <li>佈局過於簡單，可能會使初學者困惑</li>
 </ul>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="-7"><a href="#-7" class="headerlink" title=""></a></h3><p><a target="_blank" rel="noopener" href="https://www.google.com/intl/zh-TW/photos/about/"><strong>Google Photos</strong></a></p>
 <p><img  
                      lazyload
@@ -991,10 +1006,6 @@ $logo-image-box-width = 34px
                      data-src="https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp"
                      
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p>Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。</p>
 <p>優點：</p>
 <ul>
@@ -1017,7 +1028,11 @@ $logo-image-box-width = 34px
                       alt="Movavi Photo Editor"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="常見問題集"><a href="#常見問題集" class="headerlink" title="常見問題集"></a>常見問題集</h2><h3 id="最好的-Windows-相片檢視器是什麼？"><a href="#最好的-Windows-相片檢視器是什麼？" class="headerlink" title="最好的 Windows 相片檢視器是什麼？"></a>最好的 Windows 相片檢視器是什麼？</h3><p>以下是 Windows PC 最好的相片檢視器：</p>
@@ -1029,14 +1044,10 @@ $logo-image-box-width = 34px
 <li>Nomacs</li>
 <li>Google Photos</li>
 </ul>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="那一個是用於觀賞照片的最佳軟體"><a href="#那一個是用於觀賞照片的最佳軟體" class="headerlink" title="那一個是用於觀賞照片的最佳軟體?"></a>那一個是用於觀賞照片的最佳軟體?</h3><p>我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 &amp; 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!</p>
 <h3 id="什麼是Windows照片瀏覽器的良好替代品"><a href="#什麼是Windows照片瀏覽器的良好替代品" class="headerlink" title="什麼是Windows照片瀏覽器的良好替代品?"></a>什麼是Windows照片瀏覽器的良好替代品?</h3><p>這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="那一個工具可以稱為最棒的Windows-10免費照片應用程式"><a href="#那一個工具可以稱為最棒的Windows-10免費照片應用程式" class="headerlink" title="那一個工具可以稱為最棒的Windows 10免費照片應用程式?"></a>那一個工具可以稱為最棒的Windows 10免費照片應用程式?</h3><p>講到免費照片秀圖軟體，前幾個被想到的名字裡通常會包含老牌的FastStone Image Viewer。在瀏覽方面，它就相當於一個影像版的檔案管理員，用途與操作也極類似，不需要特別學習。經典的三階層三區塊版面，可以同時掌握我的電腦(所有磁碟)，子目錄內容與照片預覽，所以操作十分便利。它的幻燈片功能，可提供以目錄為基礎的連續播放，並支援許多調整參數，是自動看圖的優質之選。</p>
@@ -1111,25 +1122,21 @@ $logo-image-box-width = 34px
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/new-in-depth-examination-the-dji-phantom-3-experience/"><u>[New] In-Depth Examination The DJI Phantom 3 Experience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/new-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips-for-2024/"><u>[New] Prime Emulation Tools Sony's PS1 Classics at the Fingertips for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ed-top-auditory-alteration-aids-for-streamers-and-clips/"><u>[Updated] Top Auditory Alteration Aids for Streamers and Clips</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/detecting-hard-drive-issues-before-they-lead-to-data-loss-expert-advice-from-yl-software/"><u>Detecting Hard Drive Issues Before They Lead to Data Loss - Expert Advice From YL Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/effective-ways-to-safeguard-your-crypto-assets-insights-from-yl-computing-and-yl-software/"><u>Effective Ways to Safeguard Your Crypto Assets - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/exploring-the-consequences-of-the-boxer-uprising-in-chinese-history-insights-by-yl-computing-and-yl-software/"><u>Exploring the Consequences of the Boxer Uprising in Chinese History - Insights by YL Computing & YL Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/hard-reset-infinix-smart-7-hd-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 7 HD in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/hardware-basics-preparing-for-big-sur-os-for-2024/"><u>Hardware Basics Preparing for Big Sur OS for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-can-i-effectively-upgrade-driver-software-on-a-motherboard-yl-computings-guide/"><u>How Can I Effectively Upgrade Driver Software on a Motherboard? - YL Computing's Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/how-to-create-amazing-mosaic-photo-collage/"><u>How to Create Amazing Mosaic Photo Collage</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-pop-8-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Pop 8 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/in-2024-mastering-photo-editing-removing-backdrops-with-picsart/"><u>In 2024, Mastering Photo Editing Removing Backdrops with Picsart</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 5G Phone? Unlock It Now</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/insider-reveals-privacy-concerns-exposed-on-fb/"><u>Insider Reveals, Privacy Concerns Exposed on FB</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mastering-the-art-of-crypto-security-strategies-and-tools-to-keep-your-coins-protected-by-yl-computing-experts/"><u>Mastering the Art of Crypto Security: Strategies and Tools to Keep Your Coins Protected by YL Computing Experts</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/tailoring-your-microsoft-windows-control-panel-a-step-by-step-guide-expert-tips-from-yl-computing/"><u>Tailoring Your Microsoft Windows Control Panel: A Step-by-Step Guide - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/understanding-typical-challenges-with-system-registrations-insights-from-yl-computings-experience/"><u>Understanding Typical Challenges with System Registrations: Insights From YL Computing's Experience</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/verify-and-establish-network-link-for-your-printer-with-tips-by-yl-software-experts/"><u>Verify and Establish Network Link for Your Printer with Tips by YL Software Experts</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/why-are-you-experiencing-recurring-blue-screen-errors-insights-from-yl-computing/"><u>Why Are You Experiencing Recurring Blue Screen Errors? Insights From YL Computing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle-for-2024/"><u>[New] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-in-2024-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[New] In 2024, Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/new-in-2024-essential-techniques-for-enhancing-obs-studio-edits/"><u>[New] In 2024, Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-methods-to-archive-slideshows/"><u>[Updated] 2024 Approved Effortless Methods to Archive Slideshows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/character-inspector-easy-steps-for-windows-11/"><u>Character Inspector: Easy Steps for Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/complete-instructions-for-downloading-and-setting-up-the-hp-laserjet-pro-m402n-driver-in-windows/"><u>Complete Instructions for Downloading and Setting Up the HP LaserJet Pro M402n Driver in Windows</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effective-strategies-for-organizing-installed-programs-via-windows-control-panel-masterclass-by-yl-software-professionals/"><u>Effective Strategies for Organizing Installed Programs via Windows Control Panel | Masterclass by YL Software Professionals</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/epic-monster-visuals-for-desktop-premium-wallpaper-collection-by-yl-software/"><u>Epic Monster Visuals for Desktop: Premium Wallpaper Collection by YL Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/exploring-service-options-for-cryptocurrency-portfolio-maintenance-a-guide-by-yl-computing/"><u>Exploring Service Options for Cryptocurrency Portfolio Maintenance: A Guide by YL Computing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/story-1-misconception-about-audience-targeting-on-social-media-platforms/"><u>Story 1: Misconception About Audience Targeting on Social Media Platforms</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/trouble-free-listening-expert-techniques-for-diagnosing-and-repairing-windows-sound-cards-by-yl-software/"><u>Trouble-Free Listening: Expert Techniques for Diagnosing and Repairing Windows Sound Cards by YL Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-tips-resolving-black-ink-printing-issues-on-your-printer-advice-from-yl-computing/"><u>Troubleshooting Tips: Resolving Black Ink Printing Issues on Your Printer - Advice From YL Computing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/ultimate-walkthrough-setting-up-and-installing-your-brother-printer-driver/"><u>Ultimate Walkthrough: Setting up and Installing Your Brother Printer Driver</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/unbeatable-prices-snap-up-oneplus-specials-this-cyber-monday/"><u>Unbeatable Prices - Snap Up OnePlus Specials This Cyber Monday!</u></a></li>
 </ul></div>
 
 
@@ -1142,11 +1149,11 @@ $logo-image-box-width = 34px
         <li><strong>Title:</strong> 使用 MoviVaiv 提供的移植器：即時無限制地在線上更改3G到MP4格式</li>
         <li><strong>Author:</strong> Larry</li>
         <li><strong>Created at
-                :</strong> 2024-12-25 23:11:37</li>
+                :</strong> 2025-01-02 16:26:55</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-01 21:47:31
+                    :</strong> 2025-01-09 17:07:37
             </li>
         
         <li>
@@ -1178,13 +1185,13 @@ $logo-image-box-width = 34px
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/descarga-gratuita-del-grabadora-de-movavi-prueba-en-linea-sin-coste/"
+                        href="/quick-and-simple-methods-for-reducing-video-size-on-twitter-pc-online-tools-or-applications/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Descarga Gratuita Del Grabadora De Movavi - Prueba en Línea Sin Coste</span>
+                                <span class="post-nav-title-item">Quick &amp; Simple Methods for Reducing Video Size on Twitter: PC, Online Tools or Applications</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1194,10 +1201,10 @@ $logo-image-box-width = 34px
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/cd-rom-unrecognized-by-pc-troubleshooting-steps-from-yl-software-experts/"
+                        href="/mastering-the-art-of-crypto-security-strategies-and-tools-to-keep-your-coins-protected-by-yl-computing-experts/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">CD-ROM Unrecognized by PC - Troubleshooting Steps From YL Software Experts</span>
+                                <span class="post-nav-title-item">Mastering the Art of Crypto Security: Strategies and Tools to Keep Your Coins Protected by YL Computing Experts</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
