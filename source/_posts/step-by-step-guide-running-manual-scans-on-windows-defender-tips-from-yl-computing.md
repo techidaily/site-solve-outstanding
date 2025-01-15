@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Running Manual Scans on Windows Defender - Tips From YL Computing"
-date: 2025-01-07T16:57:58.589Z
-updated: 2025-01-09T16:52:23.574Z
+date: 2025-01-10T19:07:08.804Z
+updated: 2025-01-15T10:25:56.743Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,14 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-av1-triumph-surpassing-vp9-performance-for-2024/"><u>[New] AV1 Triumph Surpassing VP9 Performance for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-essentials-for-successful-channel-creation/"><u>[New] In 2024, Youtube Essentials for Successful Channel Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-discovering-windows-best-snipping-and-cropping-software/"><u>[Updated] In 2024, Discovering Windows' Best Snipping and Cropping Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/boost-your-gadgets-speed-on-windows-11-expert-tips-from-yl-computing/"><u>Boost Your Gadget's Speed on Windows 11: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/diagnose-and-fix-your-graphics-card-expert-tips-from-yl-software-experts/"><u>Diagnose and Fix Your Graphics Card: Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-fix-a-scanning-issue-when-your-scanner-stops-functioning-in-windows-tips-and-solutions-by-yl-computing/"><u>How to Fix a Scanning Issue When Your Scanner Stops Functioning in Windows - Tips & Solutions by YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-a-grip-on-your-footage-fcpx-video-stabilization-made-easy/"><u>In 2024, Get a Grip on Your Footage FCPX Video Stabilization Made Easy</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/securing-your-identity-with-crypto-transactions-expert-advice-from-yl-software/"><u>Securing Your Identity with Crypto Transactions - Expert Advice From YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-oculus-quest-2-a-step-by-step-guide-for-non-working-mics/"><u>Solving Audio Problems on Oculus Quest 2 – A Step-by-Step Guide for Non-Working Mics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-film-like-a-pro-easy-movie-creation-for-beginners/"><u>Updated Film Like a Pro Easy Movie Creation for Beginners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-comprehensive-list-of-mac-methods-to-record-minecraft-play/"><u>[New] 2024 Approved A Comprehensive List of Mac Methods to Record Minecraft Play</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-creating-memes-made-easy-using-kinemaster-for-2024/"><u>[New] Creating Memes Made Easy Using KineMaster for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-swiftly-fix-red-eyes-in-iphone-photography-at-no-cost-for-2024/"><u>[New] Swiftly Fix Red Eyes in iPhone Photography at No Cost for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-eternal-display-documentation-for-2024/"><u>[Updated] Eternal Display Documentation for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1-easy-guide-to-accessing-your-pcs-hardware-info-a-complete-tutorial/"><u>1. Easy Guide to Accessing Your PC's Hardware Info: A Complete Tutorial</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/3-efectivos-metodos-para-respaldar-aplicaciones-de-windows-versiones-11-a-7/"><u>3 Efectivos Métodos Para Respaldar Aplicaciones De Windows: Versiones 11 a 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-l2540dw-windows-printer-driver-software-and-easy-installation-steps/"><u>Get the Latest Brother L2540DW Windows Printer Driver Software & Easy Installation Steps</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/repair-strategies-for-compromised-system-registries-expert-tips-from-yl-computing/"><u>Repair Strategies for Compromised System Registries: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/yl-softwares-guide-adjusting-settings-in-windows-firewall-through-the-control-panel-interface/"><u>YL Software's Guide: Adjusting Settings in Windows Firewall Through the Control Panel Interface</u></a></li>
 </ul></div>
 
