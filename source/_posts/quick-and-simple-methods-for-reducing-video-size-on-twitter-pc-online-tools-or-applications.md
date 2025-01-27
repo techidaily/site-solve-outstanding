@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple Methods for Reducing Video Size on Twitter: PC, Online Tools or Applications"
-date: 2025-01-14T10:54:50.673Z
-updated: 2025-01-15T07:38:50.589Z
+date: 2025-01-21T16:53:36.205Z
+updated: 2025-01-27T16:34:42.019Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
@@ -176,6 +176,10 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -183,10 +187,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -213,10 +213,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -248,10 +244,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -277,6 +269,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -318,9 +314,17 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -330,6 +334,10 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -337,7 +345,7 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
@@ -369,7 +377,7 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
@@ -382,10 +390,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -396,10 +400,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -430,13 +430,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
@@ -505,7 +505,7 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -585,19 +585,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-new-dimensions-exploring-xbox-ones-zooming-feature/"><u>[New] Unlock New Dimensions Exploring Xbox One's Zooming Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[Updated] In 2024, Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-finding-the-right-angle-for-your-fb-videos/"><u>2024 Approved Finding the Right Angle for Your FB Videos</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/discover-charming-petals-against-azure-backdrops-exceptional-wallpapers-and-images-from-yl-software/"><u>Discover Charming Petals Against Azure Backdrops: Exceptional Wallpapers & Images From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-xr21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia XR21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/illuminating-your-space-with-yls-ray-of-light-themes-and-background-graphics-by-yl-computing/"><u>Illuminating Your Space with YL's Ray of Light Themes & Background Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/protect-your-graphics-processor-effective-methods-to-prevent-failures-with-advice-from-yl-software-experts/"><u>Protect Your Graphics Processor: Effective Methods to Prevent Failures with Advice From YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-unzip-woes-windows-11-workarounds/"><u>Reverse Unzip Woes: Windows 11 Workarounds</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/understanding-digital-wallets-a-comprehensive-guide-by-yl-computing-exploring-functionality-and-security/"><u>Understanding Digital Wallets: A Comprehensive Guide by YL Computing - Exploring Functionality & Security</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/unveiling-the-aftermath-of-the-boxer-uprising-with-expertise-from-yl-software/"><u>Unveiling the Aftermath of the Boxer Uprising with Expertise From YL Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/yl-software-explains-the-risks-of-incorrect-memory-compatibility-in-windows-systems/"><u>YL Software Explains the Risks of Incorrect Memory Compatibility in Windows Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-keywords-for-peak-performance/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Keywords for Peak Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>[Updated] Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/movavivemovgif/"><u>使用MOVAVI在线提�ve无限制地将MOV文件转换成GIF - 移动播放器转换工具</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726228243480-jpgpng/"><u>最新免費網路圖像轉換器 - 立刻更改JPG、PNG及其他格式</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/cafogg/"><u>CAF至OGG自由下載 - 移順無條件移動者</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/como-descobrir-o-truque-para-playback-de-videos-mp4-em-sistemas-operacionais-windows-1087/"><u>Como Descobrir O Truque Para Playback De Vídeos MP4 Em Sistemas Operacionais Windows (10/8/7)</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guia-completa-para-hacer-una-video-llamada-en-facebook-messenger-con-movavi/"><u>Guía Completa Para Hacer Una Video Llamada en Facebook Messenger Con Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/guia-simple-para-cambiar-video-3gp-por-mpegs-en-wav-free-online-mediante-herramienta-de-transformacion-de-movavi/"><u>Guía Simple Para Cambiar Video .3GP Por Mpegs en WAV Free Online Mediante Herramienta De Transformación De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-c300-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia C300</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-ace-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Ace 2 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-v30t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme V30T Phone Network-Ready</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ri-codifica-ogg-in-formato-mp3-senza-costi-con-movavi/"><u>Ri-Codifica OGG in Formato MP3 Senza Costi Con Movavi!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tame-your-overflowing-google-drive-how-an-ingenious-tool-rescued-me-from-a-clutter-catastrophe-as-seen-on-zdnet/"><u>Tame Your Overflowing Google Drive: How an Ingenious Tool Rescued Me From a Clutter Catastrophe, as Seen on ZDNET!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transformacion-gratuita-de-archivo-w63-a-formatos-ampliados-solucion-en-linea/"><u>Transformación Gratuita De Archivo W63 a Formatos Ampliados - Solución en Línea</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/vivavideo-app-review-for-2024/"><u>VivaVideo App Review for 2024</u></a></li>
 </ul></div>
 
