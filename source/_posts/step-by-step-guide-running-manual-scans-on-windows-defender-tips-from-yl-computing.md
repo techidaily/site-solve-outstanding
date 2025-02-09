@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Running Manual Scans on Windows Defender - Tips From YL Computing"
-date: 2025-01-20T16:00:24.784Z
-updated: 2025-01-27T16:18:24.915Z
+date: 2025-02-04T22:40:52.193Z
+updated: 2025-02-09T11:08:21.540Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-20-instagram-video-exporters-online-windows-mac-edition/"><u>[New] 2024 Approved Top 20 Instagram Video Exporters Online, Windows, Mac Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-cutting-edge-cams-for-novices-in-24-for-2024/"><u>[New] Cutting-Edge Cams for Novices in '24 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leveraging-azures-voice-recognition-for-advanced-solutions/"><u>[Updated] Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-rapid-reach-videos-that-immediately-amass-views/"><u>2024 Approved Rapid Reach Videos that Immediately Amass Views</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726222256218-mpegif-movavi/"><u>直接在線轉換MPE成GIF，不用花錢! 使用Movavi無限制</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/gratuito-conversor-de-video-online-ogv-para-mov-com-a-ferramenta-mais-eficiente-da-moovavi/"><u>Gratuito Conversor De Vídeo Online: OGV Para MOV Com a Ferramenta Mais Eficiente Da Moovavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-sony-xperia-5-v-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Sony Xperia 5 V Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pc-maintenance-made-easy-with-chatgpt-tips-and-solutions-for-technical-glitches/"><u>PC Maintenance Made Easy with ChatGPT: Tips and Solutions for Technical Glitches</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-15-applicazioni-gratuite-di-conversione-audio-musica-piu-efficaci/"><u>Top 15 Applicazioni Gratuite Di Conversione Audio-Musica Più Efficaci</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mkv-video-online/"><u>무료 MKV 영화를 VIDEO 형식으로 바꾸기 - Online 사용자가 이해하기 쉬운 방법</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>[Updated] Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xs-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XS Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-duels-dominating-androidios-with-dexterous-tetris-skills/"><u>Digital Duels: Dominating Android/iOS with Dexterous Tetris Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-winos-stop-app-shrinkage-on-demand/"><u>Fixing WinOS: Stop App Shrinkage on Demand</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-sculpting-soundscapes-advanced-methods-for-isolating-lyrics-from-harmonized-tunes/"><u>New 2024 Approved Sculpting Soundscapes Advanced Methods for Isolating Lyrics From Harmonized Tunes</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-updating-your-kindle-fire-or-kindle-fire-hd/"><u>Step-by-Step Guide: Updating Your Kindle Fire or Kindle Fire HD</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-adding-your-favorite-manga-collections-to-kobo-ereaders/"><u>Step-by-Step Tutorial: Adding Your Favorite Manga Collections to Kobo eReaders</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-excellent-replacements-for-the-kindle-fires-web-browser/"><u>Top 5 Excellent Replacements for the Kindle Fire's Web Browser</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-a-non-responsive-kindle-charger-solutions-inside/"><u>Troubleshooting a Non-Responsive Kindle Charger – Solutions Inside</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/tutorial-transformer-des-documents-pdf-en-epub-guide-complet-pour-utilisation-sur-ipad/"><u>Tutorial: Transformer Des Documents PDF en ePub - Guide Complet Pour Utilisation Sur iPad</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-saving-your-google-play-books-library/"><u>Ultimate Guide: Saving Your Google Play Books Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-strategies-for-flawless-srt-file-creation-for-2024/"><u>Ultimate Strategies for Flawless SRT File Creation for 2024</u></a></li>
 </ul></div>
 
